@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ meta.site_name }} — {{ meta.site_tagline }} | {{ meta.description }}</title>
+<meta name="description" content="{{ meta.description }}">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ meta.site_url }}/">
+<meta property="og:title" content="{{ meta.site_name }} — {{ meta.site_tagline }}">
+<meta property="og:description" content="{{ meta.description }}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pl_PL">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ meta.site_name }}",
+  "description": "{{ meta.description }}",
+  "url": "{{ meta.site_url }}/",
+  "potentialAction": {"@type": "SearchAction", "target": "{{ meta.site_url }}/?q={search_term_string}", "query-input": "required name=search_term_string"}
+}
+</script>
+<style>
+{% include "partials/styles.css" %}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="logo">
+    <div class="play-icon">
+      <svg width="14" height="16" viewBox="0 0 14 16" fill="none">
+        <path d="M1 1.5L13 8L1 14.5V1.5Z" fill="white"/>
+      </svg>
+    </div>
+    <span>VOD</span>
+    <span class="logo-tag">filmy na żądanie</span>
+  </a>
+  <nav class="site-nav">
+    <a href="#rankingi">🏆 Rankingi</a>
+    <a href="#gatunki">🎬 Gatunki</a>
+    <a href="#wieczor">🌙 Wieczór</a>
+    <a href="#rankingi" class="nav-cta">Wybierz film →</a>
+  </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-inner">
+      <div class="hero-eyebrow">
+        <svg width="10" height="10" viewBox="0 0 10 10" fill="none">
+          <path d="M1 1.5L9 5L1 8.5V1.5Z" fill="currentColor"/>
+        </svg>
+        Rankingi · Rekomendacje · Listy bez spoilerów
+      </div>
+      <h1>Wybierz film <span>szybciej</span>.<br>Oglądaj lepiej.</h1>
+      <p class="hero-desc">
+        Koniec z godzinnym scrollowaniem. Konkretne rankingi, listy wg gatunku i propozycje na każdy wieczór — bez spoilerów i bez bzdur.
+      </p>
+      <div class="hero-btns">
+        <a href="#rankingi" class="btn-primary">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+            <path d="M1 1.5L13 7L1 12.5V1.5Z" fill="white"/>
+          </svg>
+          Przeglądaj rankingi
+        </a>
+        <a href="#wieczor" class="btn-ghost">Co dziś wieczór? →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SEKCJE ARTYKUŁÓW -->
+<main>
+{% for kat_slug, kat_name in kat_names.items() %}
+{% if data[kat_slug] is defined %}
+<section id="{{ kat_slug }}" style="padding: 56px 0 0;">
+  <div class="wrap">
+    <div class="section-head">
+      <h2 class="section-title">
+        <span class="icon">{{ kat_icons[kat_slug] }}</span>
+        {{ kat_name }}
+      </h2>
+    </div>
+    <div class="card-grid">
+      {% for art in data[kat_slug] %}
+      <a href="/{{ kat_slug }}/{{ art.slug }}/" class="card" style="text-decoration:none">
+        <div class="card-thumb">
+          <div class="card-thumb-bg"></div>
+          <span class="card-thumb-emoji">
+            {% if art.filmy %}{{ art.filmy[0].emoji }}{% else %}🎬{% endif %}
+          </span>
+        </div>
+        <div class="card-body">
+          <div class="card-cat">{{ kat_name }}</div>
+          <div class="card-title">{{ art.title }}</div>
+          <div class="card-desc">{{ art.desc[:110] }}{% if art.desc|length > 110 %}…{% endif %}</div>
+          <div class="card-meta">
+            {% if art.filmy %}
+            <span>{{ art.filmy|length }} filmów</span>
+            {% endif %}
+            {% if art.faq %}
+            <span>{{ art.faq|length }} FAQ</span>
+            {% endif %}
+            <span class="card-arrow">→</span>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+{% endfor %}
+</main>
+
+<!-- CTA SECTION -->
+<section style="padding: 64px 0; background: linear-gradient(135deg, #0f0720, #080810); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);">
+  <div class="wrap" style="text-align:center">
+    <div style="font-size:40px; margin-bottom:18px;">🎬</div>
+    <h2 style="font-size:1.7rem; font-weight:900; color:var(--text); margin-bottom:12px">
+      Nie marnuj wieczoru na zły wybór
+    </h2>
+    <p style="color:var(--text-dim); max-width:500px; margin:0 auto 28px; font-size:16px">
+      Nasze listy są tworzone z myślą o konkretnych nastrojach i sytuacjach — nie algorytmach.
+    </p>
+    <a href="#rankingi" class="btn-primary" style="display:inline-flex">
+      Przeglądaj wszystkie rankingi
+    </a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-logo">
+      <div class="play-icon" style="width:28px;height:28px;border-radius:7px;background:linear-gradient(135deg,var(--purple),var(--cyan));display:flex;align-items:center;justify-content:center;">
+        <svg width="12" height="14" viewBox="0 0 12 14" fill="none"><path d="M1 1L11 7L1 13V1Z" fill="white"/></svg>
+      </div>
+      VOD <span style="font-weight:400;font-size:14px;color:var(--text-muted);margin-left:6px">filmy na żądanie</span>
+    </div>
+    <div class="footer-links">
+      <a href="#rankingi">Rankingi</a>
+      <a href="#gatunki">Gatunki</a>
+      <a href="#wieczor">Wieczór</a>
+    </div>
+    <p>{{ meta.slogan }}</p>
+    <p class="legal-note" style="margin-top:12px">Treści mają charakter informacyjny. Nie promujemy piractwa — linki prowadzą wyłącznie do legalnych platform streamingowych. Dostępność tytułów może się różnić w zależności od regionu.</p>
+  </div>
+</footer>
+
+<script>
+const revealEls = document.querySelectorAll('.reveal');
+if (revealEls.length) {
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); io.unobserve(e.target); } });
+  }, { threshold: 0.1 });
+  revealEls.forEach(el => io.observe(el));
+}
+</script>
+</body>
+</html>

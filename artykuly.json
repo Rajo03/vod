@@ -1,0 +1,1211 @@
+{
+  "meta": {
+    "site_name": "VOD",
+    "site_tagline": "Filmy na żądanie",
+    "site_url": "https://vod-filmy.vercel.app",
+    "description": "Wybierz film szybciej. Rankingi, listy i rekomendacje bez spoilerów — konkretnie, bez marnowania wieczoru.",
+    "updated": "2026-07-06",
+    "slogan": "Wybierz film szybciej. Oglądaj lepiej."
+  },
+  "rankingi": [
+    {
+      "slug": "top-10-thrillery-psychologiczne",
+      "title": "10 thrillery psychologiczne, które trzymają w napięciu do ostatniej sceny",
+      "desc": "Ranking 10 najlepszych thrillerów psychologicznych. Filmy, które angażują umysł, trzymają w napięciu i nie zdradzają zakończenia do samego końca.",
+      "keywords": "thriller psychologiczny, najlepsze thrillery, ranking thrillerów, thriller na wieczór",
+      "h1": "Top 10 thrillery psychologiczne — filmy, które wbijają w fotel",
+      "intro": "Dobry thriller psychologiczny robi jedną rzecz: nie puszcza. Oto 10 filmów, które podniosły poprzeczkę gatunku i zostają z widzem długo po napisach końcowych.",
+      "sekcje": [
+        {
+          "h2": "Co odróżnia thriller psychologiczny od zwykłego thrillera?",
+          "tresc": "Klasyczny thriller stawia na akcję i pościgi. Thriller psychologiczny atakuje od środka — manipuluje percepcją, buduje napięcie przez wątpliwości i zmusza do pytania: kto jest wiarygodny? Najlepsze tytuły tego gatunku działają jak zagadka, której rozwiązanie zmienia wszystko, co widziałeś wcześniej."
+        },
+        {
+          "h2": "Thrillery, które zdefiniowały gatunek",
+          "tresc": "Milczenie owiec (1991) to punkt odniesienia dla całego gatunku — rozmowy między Clarice Starling a Hannibalem Lecterem to lekcja kinowego napięcia. Prestiż (2006) Christophera Nolana bawi się percepcją widza tak skutecznie, że drugi seans odkrywa zupełnie inny film. Siedem (1995) Davida Finchera wciąga w mroczne śledztwo, z zakończeniem które robi wrażenie od 30 lat."
+        },
+        {
+          "h2": "Nowe thrillery warte uwagi",
+          "tresc": "Parasite (2019) Bonga Joon-ho technicznie jest dramatem, ale jego ostatni akt to czyste napięcie psychologiczne — i Oscar za najlepszy film. Uncut Gems (2019) z Adamem Sandlerem to 135 minut nieprzerwanie rosnącego stresu. Kobieta w oknie (2021) na platformach streamingowych przywraca stary styl thrillerów w nowej oprawie."
+        },
+        {
+          "h2": "Jak wybierać thriller na dany nastrój?",
+          "tresc": "Na spokojny wieczór: Inne życie (The Others) lub Szósty zmysł — napięcie bez przemocy. Na wieczór z partnerem: Zaginiona dziewczyna (Gone Girl) — gatunek, który działa jako studium relacji. Dla fanów łamigłówek: Świadek (The Witness) lub Prestiż. Unikaj Uncut Gems jeśli masz stresujący tydzień za sobą — nie relaksuje, robi odwrotnie."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Milczenie owiec",
+          "tytul_oryginalny": "The Silence of the Lambs",
+          "rok": 1991,
+          "czas": "118 min",
+          "ocena": "8.6",
+          "gatunki": ["Thriller", "Horror", "Kryminał"],
+          "opis": "Agentka FBI Clarice Starling szuka pomocy u uwięzionego kanibala Hannibala Lectera, by schwytać innego seryjnego mordercę. Film zdobył 5 Oscarów.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "🦋"
+        },
+        {
+          "tytul": "Siedem",
+          "tytul_oryginalny": "Se7en",
+          "rok": 1995,
+          "czas": "127 min",
+          "ocena": "8.6",
+          "gatunki": ["Thriller", "Kryminał"],
+          "opis": "Dwóch detektywów ściga seryjnego mordercę, który zabija ofiary inspirując się siedmioma grzechami głównymi. Mroczna atmosfera i pamiętne zakończenie.",
+          "platformy": ["HBO Max", "Netflix"],
+          "emoji": "🔪"
+        },
+        {
+          "tytul": "Prestiż",
+          "tytul_oryginalny": "The Prestige",
+          "rok": 2006,
+          "czas": "130 min",
+          "ocena": "8.5",
+          "gatunki": ["Thriller", "Dramat", "Sci-fi"],
+          "opis": "Rywalizacja dwóch iluzjonistów prowadzi do obsesji i zdrady. Film Nolana, który całkowicie zmienia sens po ponownym seansie.",
+          "platformy": ["HBO Max"],
+          "emoji": "🎩"
+        },
+        {
+          "tytul": "Parasite",
+          "tytul_oryginalny": "Gisaengchung",
+          "rok": 2019,
+          "czas": "132 min",
+          "ocena": "8.5",
+          "gatunki": ["Dramat", "Thriller", "Komedia"],
+          "opis": "Biedna koreańska rodzina infiltruje bogatą. Film zdobył Oscara za najlepszy film — pierwszy nieangielskojęzyczny w historii tej nagrody.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "🏠"
+        },
+        {
+          "tytul": "Szósty zmysł",
+          "tytul_oryginalny": "The Sixth Sense",
+          "rok": 1999,
+          "czas": "107 min",
+          "ocena": "8.1",
+          "gatunki": ["Thriller", "Horror", "Dramat"],
+          "opis": "Chłopiec widzi duchy. Psycholog próbuje mu pomóc. Zakończenie, które zmieniło kinową narrację i sprawia, że widzowie chcą natychmiast oglądać od początku.",
+          "platformy": ["Disney+", "Prime Video"],
+          "emoji": "👻"
+        },
+        {
+          "tytul": "Uncut Gems",
+          "tytul_oryginalny": "Uncut Gems",
+          "rok": 2019,
+          "czas": "135 min",
+          "ocena": "7.4",
+          "gatunki": ["Thriller", "Dramat"],
+          "opis": "Nerwowy dealer biżuterii w Nowym Jorku gra wszystkim, co ma. Adam Sandler w roli życia. Film wywołuje fizyczny stres — dosłownie.",
+          "platformy": ["Netflix"],
+          "emoji": "💎"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Który thriller psychologiczny polecasz na początek?",
+          "a": "Szósty zmysł (1999) — angażujący, nie zbyt mroczny, z jednym z najsłynniejszych zwrotów akcji w historii kina. Idealna propozycja dla osób nieznających gatunku."
+        },
+        {
+          "q": "Czy thrillery psychologiczne muszą być przerażające?",
+          "a": "Nie. Thrillery psychologiczne operują napięciem i niepokojem, niekoniecznie strachem jak w horrorze. Prestiż czy Parasite to dreszcze bez krwi i jump-scare'ów."
+        },
+        {
+          "q": "Na jakich platformach streamingowych znajdę te thrillery?",
+          "a": "Milczenie owiec i Uncut Gems są na Netflix. Prestiż i Siedem na HBO Max. Parasite na Prime Video i Mubi. Dostępność może się zmieniać."
+        },
+        {
+          "q": "Ile czasu trwają typowe thrillery psychologiczne?",
+          "a": "Większość mieści się w przedziale 100-135 minut. To optymalny czas, który pozwala zbudować napięcie bez przeciągania."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "najlepsze-filmy-akcji-2025",
+      "title": "Najlepsze filmy akcji 2025 — co warto obejrzeć po premierze",
+      "desc": "Ranking najlepszych filmów akcji z 2025 roku. Dynamiczne produkcje, które nie zawodzą — z recenzjami bez spoilerów.",
+      "keywords": "filmy akcji 2025, najlepszy film akcji, ranking akcji, co oglądać 2025",
+      "h1": "Najlepsze filmy akcji 2025 — ranking bez zbędnych słów",
+      "intro": "Rok 2025 przyniósł kilka prawdziwych niespodzianek w kinie akcji. Oto zestawienie tytułów, które warto zobaczyć — uszeregowane według tego, ile dają emocji za minutę seansu.",
+      "sekcje": [
+        {
+          "h2": "Co czyni dobry film akcji w 2026 roku?",
+          "tresc": "Dobra akcja musi teraz walczyć z przesytem efektów specjalnych. Widzowie są zmęczeni CGI-walkami bez ciężaru. Najlepsze tytuły 2025 wróciły do korzeni: choreografia walk, praktyczne efekty i protagoniści z motywacją. Mniej green screenu, więcej adrenaliny."
+        },
+        {
+          "h2": "Produkcje z najwyższymi ocenami widzów",
+          "tresc": "Filmy akcji oceniane przez widzów powyżej 7.5/10 na serwisach filmowych to rzadkość — gatunek jest zalany przeciętnością. Wyróżniające się tytuły 2025 to produkcje, które zdecydowały się na konkretny styl i konsekwentnie go realizują przez cały czas trwania."
+        },
+        {
+          "h2": "Akcja z niespodziewaną głębią",
+          "tresc": "Furiosa (2024) Millera to prequel Mad Maxa z epickimi scenami i silną bohaterką. Everything Everywhere All at Once (2022, wciąż gorący tytuł) miesza multiverse, kung fu i filozofię z nieprawdopodobnym efektem. Dla fanów serii: Mission: Impossible — Dead Reckoning Part One (2023) z praktycznym motocyklem ze szczytu klifu."
+        },
+        {
+          "h2": "Jak nie zmarnować wieczoru na słaby film akcji?",
+          "tresc": "Zasada prosta: sprawdź ocenę krytyków (Rotten Tomatoes) i widzów (IMDb) osobno. Rozbieżność powyżej 30 punktów to sygnał ostrzegawczy. Filmy akcji z niską oceną krytyków i wysoką widzów często są guilty pleasure — świadoma decyzja. Odwrotnie: małe szanse na dobre emocje."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Mad Max: Na drodze gniewu",
+          "tytul_oryginalny": "Mad Max: Fury Road",
+          "rok": 2015,
+          "czas": "120 min",
+          "ocena": "8.1",
+          "gatunki": ["Akcja", "Przygodowy", "Sci-fi"],
+          "opis": "2 godziny nieprzerwanej jazdy przez pustynię. Film akcji, który zdobył 6 Oscarów za montaż i technikę. Punkt odniesienia dla gatunku.",
+          "platformy": ["Netflix", "HBO Max"],
+          "emoji": "🔥"
+        },
+        {
+          "tytul": "John Wick",
+          "tytul_oryginalny": "John Wick",
+          "rok": 2014,
+          "czas": "101 min",
+          "ocena": "7.4",
+          "gatunki": ["Akcja", "Thriller"],
+          "opis": "Były płatny zabójca wraca do akcji po śmierci psa. Prosta historia, rewolucyjna choreografia walki. Zapoczątkowała serię, która zmieniła standard kina akcji.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "🐶"
+        },
+        {
+          "tytul": "Top Gun: Maverick",
+          "tytul_oryginalny": "Top Gun: Maverick",
+          "rok": 2022,
+          "czas": "130 min",
+          "ocena": "8.3",
+          "gatunki": ["Akcja", "Dramat"],
+          "opis": "Sequel po 36 latach, który okazał się lepszy od oryginału. Prawdziwe samoloty, Tom Cruise bez CGI, napięcie budowane klasycznie. Blockbuster, który przekonał sceptyków.",
+          "platformy": ["Prime Video", "Paramount+"],
+          "emoji": "✈️"
+        },
+        {
+          "tytul": "Everything Everywhere All at Once",
+          "tytul_oryginalny": "Everything Everywhere All at Once",
+          "rok": 2022,
+          "czas": "139 min",
+          "ocena": "7.8",
+          "gatunki": ["Akcja", "Sci-fi", "Komedia", "Dramat"],
+          "opis": "Chińska praczka odkrywa, że musi uratować multiwersum. 7 Oscarów, w tym za najlepszy film. Chaos zamieniony w sztukę — i mocna sekwencja akcji co 10 minut.",
+          "platformy": ["Mubi", "Prime Video"],
+          "emoji": "🌀"
+        },
+        {
+          "tytul": "Prey",
+          "tytul_oryginalny": "Prey",
+          "rok": 2022,
+          "czas": "99 min",
+          "ocena": "7.1",
+          "gatunki": ["Akcja", "Horror", "Sci-fi"],
+          "opis": "Prequel Predatora osadzony w XVIII-wiecznej Ameryce. Młoda wojowniczka Comanche przeciwko obcemu myśliwemu. Minimalistyczny, napięty, bez zbędnych słów.",
+          "platformy": ["Disney+"],
+          "emoji": "🏹"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Jaki film akcji polecasz dla osoby, która nie przepada za gatunkiem?",
+          "a": "Everything Everywhere All at Once — technicznie film akcji, ale z sercem dramatu rodzinnego i filozofią absurdu. Osoby nielubiące akcji często go uwielbiają."
+        },
+        {
+          "q": "Czy Mad Max: Fury Road ma dużo przemocy?",
+          "a": "Jest dynamiczny i wizualnie intensywny, ale krew jest minimalna. To raczej spektakl kinetyczny niż gore. Kategoria wiekowa R w USA, PG-13 w wielu innych krajach."
+        },
+        {
+          "q": "Czy muszę znać poprzednie części serii John Wick?",
+          "a": "Nie — pierwsza część jest kompletna fabularnie. Sequele budują na pierwszym, ale każda część działa jako samodzielne doświadczenie."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "10-klasykow-kina-ktore-musisz-znac",
+      "title": "10 klasyków kina, które każdy powinien znać — lista z uzasadnieniem",
+      "desc": "Niezbędnik filmowy — 10 klasyków kina z różnych dekad. Filmy, które zdefiniowały medium i nadal robią wrażenie po latach.",
+      "keywords": "klasyki kina, kultowe filmy, obowiązkowe filmy, co musisz obejrzeć, kanon kina",
+      "h1": "10 klasyków kina — filmy, które zdefiniowały medium",
+      "intro": "Nie musisz znać wszystkich filmów. Ale te 10 tytułów pojawia się w każdej rozmowie o kinie, zna je każdy krytyk i wciąż angażuje nowych widzów. Oto lista z krótkim uzasadnieniem każdego wyboru.",
+      "sekcje": [
+        {
+          "h2": "Dlaczego warto oglądać stare filmy?",
+          "tresc": "Klasycy kina są klasykami z powodu: coś w nich rezonuje ponad czas. Albo rewolucjonizowali technikę (Obywatel Kane), albo opowiadali historię tak dobrze, że nikt od tamtej pory nie opowiedział jej lepiej (Ojciec chrzestny), albo dotknęli czegoś głęboko ludzkiego (Lot nad kukułczym gniazdem). Oglądanie starszych filmów to nie obowiązek — to inwestycja w smak kinowy."
+        },
+        {
+          "h2": "Lista tytułów i dlaczego warto",
+          "tresc": "Ojciec chrzestny (1972) — mafijny dramat rodzinny z perfekcyjnym scenariuszem. Lot nad kukułczym gniazdem (1975) — Jack Nicholson w walce z systemem psychiatrycznym, 5 Oscarów. Lista Schindlera (1993) — Spielberg o Holokauście. Jeden Jedyny, któremu przyznano wyczucie. 2001: Odyseja kosmiczna (1968) — Kubrick i pytanie o ludzką naturę w kosmosie. Casablanca (1942) — romans na tle wojny, dialog jak w żadnym innym filmie."
+        },
+        {
+          "h2": "Jak zacząć oglądać klasyki?",
+          "tresc": "Nie zaczynaj od Obywatela Kane — to film, który musisz zobaczyć, ale na zimno może rozczarować bez kontekstu. Zacznij od Ojca chrzestnego (angażująca opowieść) albo Lotu nad kukułczym gniazdem (emocjonalny, dostępny). Potem możesz podejść do cięższej artylerii."
+        },
+        {
+          "h2": "Klasyki a współczesny widz",
+          "tresc": "Tempo starszych filmów jest wolniejsze — to nie wada, to inny rytm. Wiele klasyków kina w 1 godzinie tworzy napięcie, które współczesne produkcje budują 30 minutami efektów specjalnych. Daj filmowi 20 minut wejść i zadziałać. Jeśli po tym czasie nie wciągnie — możesz odpuścić."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Ojciec chrzestny",
+          "tytul_oryginalny": "The Godfather",
+          "rok": 1972,
+          "czas": "175 min",
+          "ocena": "9.2",
+          "gatunki": ["Dramat", "Kryminał"],
+          "opis": "Historia mafijnej dynastii Corleone. Najwyżej oceniany film na IMDb przez lata. Perfekcja scenariusza, reżyserii i aktorstwa.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "🌹"
+        },
+        {
+          "tytul": "Lot nad kukułczym gniazdem",
+          "tytul_oryginalny": "One Flew Over the Cuckoo's Nest",
+          "rok": 1975,
+          "czas": "133 min",
+          "ocena": "8.7",
+          "gatunki": ["Dramat"],
+          "opis": "R.P. McMurphy trafia do szpitala psychiatrycznego. Jack Nicholson, 5 Oscarów, walka o wolność i godność człowieka.",
+          "platformy": ["HBO Max", "Prime Video"],
+          "emoji": "🐦"
+        },
+        {
+          "tytul": "Czas apokalipsy",
+          "tytul_oryginalny": "Apocalypse Now",
+          "rok": 1979,
+          "czas": "147 min",
+          "ocena": "8.4",
+          "gatunki": ["Dramat", "Wojenny"],
+          "opis": "Kapitan Willard jedzie w górę rzeki Mekong, by zamordować zbuntowanego oficera Kurtza. Coppola i Conrad razem — obsesja, chaos, piękno.",
+          "platformy": ["Mubi", "Apple TV+"],
+          "emoji": "🌊"
+        },
+        {
+          "tytul": "Lista Schindlera",
+          "tytul_oryginalny": "Schindler's List",
+          "rok": 1993,
+          "czas": "195 min",
+          "ocena": "9.0",
+          "gatunki": ["Dramat", "Historia", "Wojenny"],
+          "opis": "Oskar Schindler ratuje ponad tysiąc Żydów w czasie Holokaustu. Spielberg w czerni i bieli. Jeden z najtrudniejszych i najważniejszych filmów.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "🕯️"
+        },
+        {
+          "tytul": "2001: Odyseja kosmiczna",
+          "tytul_oryginalny": "2001: A Space Odyssey",
+          "rok": 1968,
+          "czas": "149 min",
+          "ocena": "8.3",
+          "gatunki": ["Sci-fi", "Przygodowy"],
+          "opis": "Stanley Kubrick bada początki człowieczeństwa i przyszłość AI. Film, który wyprzedził technologię o 30 lat i nadal wygląda lepiej niż wiele współczesnych produkcji.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "🌌"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Od którego klasyka zacząć, jeśli nie oglądam starych filmów?",
+          "a": "Ojciec chrzestny (1972) — angażuje jak współczesne seriale, ma wyraźny wątek i emocje. Nie wymaga znajomości kontekstu historycznego."
+        },
+        {
+          "q": "Czy klasyki kina są dostępne na polskich platformach streamingowych?",
+          "a": "Większość jest dostępna na Prime Video, Netflix lub Mubi. Mubi to najlepsze źródło klasyków — specjalizuje się w kinie artystycznym i autorskim."
+        },
+        {
+          "q": "Jak długo trwają klasyki kina?",
+          "a": "Klasyki lat 60-80 często przekraczają 2.5 godziny. Ojciec chrzestny to 175 minut, Lista Schindlera — 195 minut. Zaplanuj wieczór z marginesem."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "najlepsze-seriale-sci-fi",
+      "title": "Ranking najlepszych seriali sci-fi — co warto obejrzeć w 2026",
+      "desc": "Ranking seriali science fiction — od mrocznych dystopii po kosmiczne opery. Tytuły, które zadają pytania o człowieczeństwo, technologię i przyszłość.",
+      "keywords": "seriale sci-fi, najlepszy serial science fiction, ranking seriali, co oglądać 2026",
+      "h1": "Ranking najlepszych seriali sci-fi — lista na 2026",
+      "intro": "Serial sci-fi to najlepszy format na duże pytania: co z nami zrobi AI? Dokąd prowadzi postęp? Czym jest świadomość? Oto tytuły, które nie odpowiadają łatwo — i właśnie dlatego warto je obejrzeć.",
+      "sekcje": [
+        {
+          "h2": "Dlaczego seriale sci-fi przeżywają renesans?",
+          "tresc": "Platforma streamingowa to idealne środowisko dla sci-fi — gatunek potrzebuje czasu na budowanie świata, a serial daje go bez ograniczeń kinowych. Dark (Netflix, 2017-2020) udowodniło, że niemieckie sci-fi może przebić hollywoodzkie budżety jakością historii. Black Mirror stał się popkulturowym benchmarkiem dla lęków przed technologią."
+        },
+        {
+          "h2": "Seriale, które powinny być na każdej liście",
+          "tresc": "Dark — trójpokoleniowa opowieść o podróżach w czasie w małym mieście. Westworld (sezony 1-2) — park rozrywki z androidami i pytaniem o świadomość. The Boys — dekonstrukcja superbohaterów z komentarzem o władzy i mediach. Foundation (Apple TV+) — adaptacja Asimova z imponującą produkcją."
+        },
+        {
+          "h2": "Seriale dla fanów twardego sci-fi",
+          "tresc": "Dla widzów, którzy chcą nauki w science fiction: For All Mankind (Apple TV+) — historia alternatywna, w której wyścig kosmiczny nigdy się nie skończył. Raised by Wolves (HBO Max) — ludzie i androidy na nowej planecie, kontrowersyjny i odważny. Severance (Apple TV+) — codzienny workplace sci-fi z rosnącym niepokojem."
+        },
+        {
+          "h2": "Jak uniknąć długich seriali, które nie mają zakończenia?",
+          "tresc": "Zasada: sprawdź status serialu zanim zaczniesz. Dark jest kompletny (3 sezony). Black Mirror to antologia — każdy odcinek stoi sam. Westworld skończyło się na 4 sezonie bez satysfakcjonującego finału. Miniserie jak Chernobyl (HBO) mają zamknięcie gwarantowane."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Dark",
+          "tytul_oryginalny": "Dark",
+          "rok": 2017,
+          "czas": "3 sezony",
+          "ocena": "8.8",
+          "gatunki": ["Sci-fi", "Thriller", "Dramat"],
+          "opis": "Zaginięcie dziecka w małym miasteczku otwiera portal do podróży w czasie. Jeden z najbardziej precyzyjnych scenariuszowo seriali w historii. Wymaga skupienia — nagradza obsesją.",
+          "platformy": ["Netflix"],
+          "emoji": "🌀"
+        },
+        {
+          "tytul": "Westworld (sezon 1-2)",
+          "tytul_oryginalny": "Westworld",
+          "rok": 2016,
+          "czas": "2 sezony",
+          "ocena": "8.6",
+          "gatunki": ["Sci-fi", "Dramat", "Western"],
+          "opis": "Park rozrywki z androidami — co się stanie, gdy maszyny się przebudzą? Sezony 1 i 2 to filozofia w hollywoodzkiej produkcji. Sezon 3 i 4 — do własnej oceny.",
+          "platformy": ["HBO Max"],
+          "emoji": "🤖"
+        },
+        {
+          "tytul": "Black Mirror",
+          "tytul_oryginalny": "Black Mirror",
+          "rok": 2011,
+          "czas": "6 sezonów",
+          "ocena": "8.0",
+          "gatunki": ["Sci-fi", "Dramat", "Antologia"],
+          "opis": "Każdy odcinek to osobna historia o technologii i jej ciemnej stronie. Najlepsze odcinki: Nosedive, USS Callister, San Junipero. Można oglądać w dowolnej kolejności.",
+          "platformy": ["Netflix"],
+          "emoji": "📺"
+        },
+        {
+          "tytul": "Severance",
+          "tytul_oryginalny": "Severance",
+          "rok": 2022,
+          "czas": "2 sezony",
+          "ocena": "8.7",
+          "gatunki": ["Sci-fi", "Dramat", "Thriller"],
+          "opis": "Pracownicy firmy mają chirurgicznie oddzielone wspomnienia życia prywatnego od zawodowego. Minimalistyczny, przerażający i uzależniający.",
+          "platformy": ["Apple TV+"],
+          "emoji": "🏢"
+        },
+        {
+          "tytul": "The Boys",
+          "tytul_oryginalny": "The Boys",
+          "rok": 2019,
+          "czas": "4 sezony",
+          "ocena": "8.7",
+          "gatunki": ["Akcja", "Sci-fi", "Komedia", "Satyra"],
+          "opis": "Superherosi to gwiazdy korporacyjne bez moralności. Antidotum na MCU dla dorosłych — brutalny, polityczny i uzależniający od pierwszego odcinka.",
+          "platformy": ["Prime Video"],
+          "emoji": "💥"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Który serial sci-fi jest dobry dla osoby, która nie ogląda sci-fi?",
+          "a": "Severance — to sci-fi w miejscu pracy, niemal horror korporacyjny. Nie wymaga wiedzy o gatunku, wciąga każdego."
+        },
+        {
+          "q": "Czy Dark jest trudny do śledzenia?",
+          "a": "Tak, wymaga skupienia — szczególnie w pierwszych 3 odcinkach. Po tym wchodzi obsesja. Warto śledzić drzewo genealogiczne (dostępne fanowskie schematy bez spoilerów)."
+        },
+        {
+          "q": "Ile sezonów Westworld warto obejrzeć?",
+          "a": "Sezony 1 i 2 — niemal pewna przyjemność. Sezon 3 jest podzielny. Sezon 4 — jeśli bardzo chcesz zakończenia. Wiele osób poprzestaje na dwóch."
+        }
+      ],
+      "oferty": []
+    }
+  ],
+  "gatunki": [
+    {
+      "slug": "najlepsze-horrory-psychologiczne",
+      "title": "Najlepsze horrory psychologiczne — strach, który zostaje z tobą długo",
+      "desc": "Lista najlepszych horrorów psychologicznych — filmy, które straszą bez tanich sztuczek. Niepokój, klimat i pytania bez łatwych odpowiedzi.",
+      "keywords": "horrory psychologiczne, najlepsze horrory, horror na wieczór, przerażające filmy",
+      "h1": "Najlepsze horrory psychologiczne — lista bez jump scare'ów",
+      "intro": "Horror psychologiczny to inny gatunek niż przeciętne slashery. Zamiast krwi — niepokój. Zamiast potwora — atmosfera. Zamiast tanich skoków — pytanie, które siedzi w głowie przez tydzień.",
+      "sekcje": [
+        {
+          "h2": "Czym różni się horror psychologiczny od zwykłego horroru?",
+          "tresc": "Zwykły horror straszy ciałem. Horror psychologiczny straszy umysłem. Hereditary (2018) jest przerażające bez jednego jump scare — buduje groza przez rodzinną tragikę. Get Out (2017) straszy, bo jest zbyt bliskie rzeczywistości. The Lighthouse (2019) rozkłada psychikę przez izolację i alkohol. To kino, które zmusza do myślenia nawet kiedy już nie chcesz."
+        },
+        {
+          "h2": "Klasyki gatunku, które nadal działają",
+          "tresc": "Lśnienie (1980) Kubricka — architektoniczna groza Hotelu Overlook i Jack Nicholson w swoim najciemniejszym wydaniu. Rebeka (1940) Hitchcocka — gotycki dom i psychologiczny nacisk bez grama krwi. Inne życie (The Others, 2001) z Nicole Kidman — klimat, który działa przez cały seans i nagradza w finale."
+        },
+        {
+          "h2": "Nowe horrory psychologiczne warte uwagi",
+          "tresc": "Midsommar (2019) Ariego Astera to horror rozgrywający się w białą noc, na szwedzkiej wiosce pełnej słońca. Odwrócenie konwencji i psychologiczny studium żałoby. Men (2022) Alexa Garlanda — dziwne, symboliczne, nieprzyjemne w najlepszy sposób. The Menu (2022) technicznie to horror o restauracji, ale straszy ambicją i obsesją."
+        },
+        {
+          "h2": "Jak oglądać horrory psychologiczne, żeby działały?",
+          "tresc": "Serio: ciemne pomieszczenie, słuchawki, bez rozpraszaczy. Horror psychologiczny traci 80% mocy na jasnym ekranie z wiadomościami w tle. Midsommar warto oglądać ze świadomością, że reżyser nakręcił go jako przetworzenie własnego zerwania z partnerką."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Hereditary",
+          "tytul_oryginalny": "Hereditary",
+          "rok": 2018,
+          "czas": "127 min",
+          "ocena": "7.3",
+          "gatunki": ["Horror", "Dramat", "Tajemnica"],
+          "opis": "Po śmierci matki rodzina zaczyna odkrywać jej mroczne sekrety. Najgorzej oceniany film na Rotten Tomatoes przez widzów w dniu premiery — i jeden z najlepszych horrorów dekady.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "🪆"
+        },
+        {
+          "tytul": "Get Out",
+          "tytul_oryginalny": "Get Out",
+          "rok": 2017,
+          "czas": "104 min",
+          "ocena": "7.7",
+          "gatunki": ["Horror", "Thriller", "Komedia"],
+          "opis": "Czarny mężczyzna jedzie poznać białą rodzinę swojej dziewczyny. Film, który straszy tym, co zbyt realne. Oscar za scenariusz dla Jordana Peele'a.",
+          "platformy": ["Prime Video", "Netflix"],
+          "emoji": "🎨"
+        },
+        {
+          "tytul": "Lśnienie",
+          "tytul_oryginalny": "The Shining",
+          "rok": 1980,
+          "czas": "146 min",
+          "ocena": "8.4",
+          "gatunki": ["Horror", "Dramat"],
+          "opis": "Pisarz zamknięty z rodziną w hotelu na zimę. Kubrick i King — ich konflikt o adaptację jest słynny. Film jest wizjonerski. Jack Nicholson w roli życia.",
+          "platformy": ["Netflix", "HBO Max"],
+          "emoji": "🪓"
+        },
+        {
+          "tytul": "Midsommar",
+          "tytul_oryginalny": "Midsommar",
+          "rok": 2019,
+          "czas": "148 min",
+          "ocena": "7.1",
+          "gatunki": ["Horror", "Dramat", "Tajemnica"],
+          "opis": "Grupka znajomych jedzie na szwedzkie midsommerfest. Horror w pełnym słońcu, wśród kwiatów i śpiewu. Jeden z najbardziej oryginalnych filmów dekady.",
+          "platformy": ["Prime Video", "Apple TV+"],
+          "emoji": "🌸"
+        },
+        {
+          "tytul": "Inne życie",
+          "tytul_oryginalny": "The Others",
+          "rok": 2001,
+          "czas": "101 min",
+          "ocena": "7.6",
+          "gatunki": ["Horror", "Tajemnica", "Dramat"],
+          "opis": "Nicole Kidman chroni swoje dzieci w zamkniętym domu na wyspie. Klimatyczny horror gotycki, który buduje grozę przez niedomówienia. Zakończenie satysfakcjonujące.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "🕯️"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Który horror psychologiczny polecasz dla kogoś, kto nie lubi horrorów?",
+          "a": "Get Out (2017) — straszy przez narrację społeczną, nie krew czy jump scare'y. Albo The Others — klimatyczny, bez przemocy, z satysfakcjonującym zwrotem."
+        },
+        {
+          "q": "Czy Hereditary jest naprawdę takie straszne?",
+          "a": "Tak, ale nie przez tradycyjne scare'y. Buduje napięcie przez realizm tragedii rodzinnej i rozpad psychiki. Widzowie często opisują je jako emocjonalnie wyczerpujące."
+        },
+        {
+          "q": "Czym różni się Ari Aster od innych reżyserów horrorów?",
+          "a": "Aster (Hereditary, Midsommar) traktuje horror jako narzędzie do eksploracji żałoby i traum. Jego filmy są nieprzyjemne w sposób, który rezonuje długo po seansie."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "komedie-romantyczne-lista",
+      "title": "Komedie romantyczne na wieczór — lista, która zawsze działa",
+      "desc": "Wyselekcjonowana lista komedii romantycznych — nie schematy, tylko tytuły, które bawią i wzruszają jednocześnie. Bez przewidywalnych happy endów.",
+      "keywords": "komedie romantyczne, romcom, film na wieczór, film z partnerem, najlepszy romcom",
+      "h1": "Komedie romantyczne na wieczór — lista bez oczywistości",
+      "intro": "Komedia romantyczna ma opinię gatunku przewidywalnego. Ale najlepsze tytuły w tej kategorii są tak daleko od schematu, że zaskakują nawet sceptyków. Oto lista, od której zaczyna się miłość do romcomów.",
+      "sekcje": [
+        {
+          "h2": "Co odróżnia dobry romcom od złego?",
+          "tresc": "Dobry romcom ma postacie, które chciałbyś znać poza ekranem. Zły romcom ma tylko atrakcyjne twarze i rozwiązany węzeł miłosny w ostatnich 10 minutach. Kryterium proste: czy czułbyś się dobrze po seansie nawet bez happy endu? Jeśli tak — to dobry film."
+        },
+        {
+          "h2": "Klasyki, które przetrwały próbę czasu",
+          "tresc": "Kiedy Harry poznał Sally (1989) — Meg Ryan i Billy Crystal, rozmowy o przyjaźni i miłości, które nadal brzmią prawdziwie. Notting Hill (1999) — Julia Roberts i Hugh Grant, komedia o sławie i codzienności. 500 dni z lata (2009) — romcom, który celowo niszczy formułę gatunku. Jeden z najbardziej uczciwie napisanych filmów o relacji."
+        },
+        {
+          "h2": "Nowoczesne romcomy warte uwagi",
+          "tresc": "To All the Boys I've Loved Before (Netflix, 2018) — świeże, młode, angażujące. Crazy Rich Asians (2018) — bajka w wielkim stylu, ale z realną historią. Palm Springs (2020) z Andy Sandbergiem — romcom w pętli czasowej, absurdalny i głębszy niż wygląda. Set It Up (Netflix, 2018) — klasyczny schemat, ale wykonany tak dobrze, że nie przeszkadza."
+        },
+        {
+          "h2": "Romcomy nieoczywiste — poza stereotypem",
+          "tresc": "Eternal Sunshine of the Spotless Mind (2004) to film o miłości, w którym wymazujesz wspomnienia. Ani typowy dramat, ani romcom — ale działa jak oba naraz. About Time (2013) z Domhnalem Gleeson'em — podróże w czasie jako metafora doceniania chwil. Jeden z najcieplejszych filmów tej dekady."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Kiedy Harry poznał Sally",
+          "tytul_oryginalny": "When Harry Met Sally",
+          "rok": 1989,
+          "czas": "96 min",
+          "ocena": "7.6",
+          "gatunki": ["Komedia", "Romans"],
+          "opis": "Harry i Sally spotykają się pięć razy przez 12 lat i dyskutują, czy mężczyzna i kobieta mogą być tylko przyjaciółmi. Dialog jak żyłka elektryczna — nadal jeden z najlepiej napisanych romcomów.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "☕"
+        },
+        {
+          "tytul": "500 dni z lata",
+          "tytul_oryginalny": "(500) Days of Summer",
+          "rok": 2009,
+          "czas": "95 min",
+          "ocena": "7.7",
+          "gatunki": ["Komedia", "Romans", "Dramat"],
+          "opis": "Historia miłości opowiedziana w niechronologicznej kolejności. Tytuł: 'To nie jest historia miłosna'. Uczciwy, zabawny i melancholijny jednocześnie.",
+          "platformy": ["Prime Video", "HBO Max"],
+          "emoji": "📅"
+        },
+        {
+          "tytul": "Eternal Sunshine of the Spotless Mind",
+          "tytul_oryginalny": "Eternal Sunshine of the Spotless Mind",
+          "rok": 2004,
+          "czas": "108 min",
+          "ocena": "8.3",
+          "gatunki": ["Romans", "Sci-fi", "Dramat"],
+          "opis": "Po rozstaniu para wymazuje wspomnienia o sobie. Jim Carrey i Kate Winslet. Scenariusz Charliego Kaufmana — surrealistyczny, ale emocjonalnie precyzyjny jak skalpel.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "🧠"
+        },
+        {
+          "tytul": "Palm Springs",
+          "tytul_oryginalny": "Palm Springs",
+          "rok": 2020,
+          "czas": "90 min",
+          "ocena": "7.4",
+          "gatunki": ["Komedia", "Romans", "Sci-fi"],
+          "opis": "Dwoje nieznajomych utknęło w pętli dnia weselnego. Lżejszy Dzień Świstaka z niespodziewaną filozofią. Idealne 90 minut na każdy wieczór.",
+          "platformy": ["Prime Video"],
+          "emoji": "🌴"
+        },
+        {
+          "tytul": "About Time",
+          "tytul_oryginalny": "About Time",
+          "rok": 2013,
+          "czas": "123 min",
+          "ocena": "7.8",
+          "gatunki": ["Romans", "Komedia", "Dramat", "Sci-fi"],
+          "opis": "Mężczyzna odkrywa, że potrafi cofać się w czasie. Używa tego do miłości. Richard Curtis i podróże w czasie jako metafora uważności w codziennym życiu.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "⏰"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Jaki romcom polecasz dla pary, które mają różne gusty filmowe?",
+          "a": "Palm Springs (2020) — ma sci-fi, humor i romans w równych proporcjach. Działa na fanów zarówno komedii jak i bardziej konceptualnych filmów."
+        },
+        {
+          "q": "Czy 500 dni z lata ma happy end?",
+          "a": "Film celowo nie jest typowym romcomem — odpowiedź jest częścią doświadczenia. Zakończenie jest satysfakcjonujące, ale nie przewidywalne."
+        },
+        {
+          "q": "Który romcom jest najkrótszy i najszybciej wciąga?",
+          "a": "Palm Springs (90 min) — 10 minut na zapoznanie się z postacią, potem już ruch. Kiedy Harry poznał Sally (96 min) wciąga od pierwszej sceny dialogu."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "filmy-dokumentalne-warte-obejrzenia",
+      "title": "Filmy dokumentalne, które warto obejrzeć — lista bez nudy",
+      "desc": "Lista filmów dokumentalnych angażujących jak kino fabularne — sport, technologia, zbrodnia, natura. Dokumenty, po których chcesz więcej.",
+      "keywords": "dokumenty filmowe, najlepszy dokumentalny, film dokumentalny lista, co oglądać dokument",
+      "h1": "Filmy dokumentalne warte seansu — lista na każdy nastrój",
+      "intro": "Dokumenty mają opinię nudnych. To nie jest prawda od co najmniej 10 lat. Najlepsze współczesne dokumenty mają napięcie kryminału, piękno fabularnego kina i fakty, które zmieniają perspektywę.",
+      "sekcje": [
+        {
+          "h2": "Dlaczego warto oglądać dokumenty?",
+          "tresc": "Dobry dokument robi to, czego nie może fikcja: przynosi dowód. Free Solo (2018) to 2 godziny wspinaczki bez liny — napięcie jest realne, bo widzisz prawdziwego człowieka. Icarus (2017) zaczyna się jako eksperyment na sobie, kończy się odkryciem afery dopingowej w rosyjskim sporcie. Kino fabularne musiałoby napisać bardziej wiarygodne zakończenie."
+        },
+        {
+          "h2": "Dokumenty sportowe na najwyższym poziomie",
+          "tresc": "Free Solo (Oscar 2019) — Alex Honnold wspina się bez liny na El Capitan. The Last Dance (Netflix, 2020) — historia Chicago Bulls i Michaela Jordana w 10 odcinkach. Senna (2010) — Ayrton Senna, F1 i tragiczny koniec. Dokumenty sportowe angażują nawet bez wiedzy o dyscyplinie."
+        },
+        {
+          "h2": "Dokumenty o technologii i społeczeństwie",
+          "tresc": "The Social Dilemma (2020, Netflix) — twórcy platform społecznościowych wyjaśniają, jak projektowali nałóg. Icarus (2017, Netflix) — nominowany do Oscara film o dopingu, który przypadkowo stał się geopolitycznym thrillerem. 13th (2016, Netflix) — więziennictwo i rasizm w USA przez pryzmat 13. poprawki."
+        },
+        {
+          "h2": "Jak wybierać dokumenty?",
+          "tresc": "Sprawdź gatunek tematyczny (sport, zbrodnia, technologia, natura) — to ważniejszy filtr niż ocena. Dokumenty kryminalne (Making a Murderer, The Jinx) wciągają seryjnie. Dokumenty o naturze (Our Planet, BBC Planet Earth) sprawdzają się na duże ekrany. Dokumenty polityczne — z ostrożnością, łatwo wpaść w bańkę potwierdzającą przekonania."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Free Solo",
+          "tytul_oryginalny": "Free Solo",
+          "rok": 2018,
+          "czas": "100 min",
+          "ocena": "8.2",
+          "gatunki": ["Dokumentalny", "Sport", "Przygodowy"],
+          "opis": "Alex Honnold wspina się bez liny na El Capitan (900m). Oscar za najlepszy dokument. Napięcie nieporównywalne z fikcją — bo wszystko jest prawdziwe.",
+          "platformy": ["Disney+"],
+          "emoji": "🧗"
+        },
+        {
+          "tytul": "Icarus",
+          "tytul_oryginalny": "Icarus",
+          "rok": 2017,
+          "czas": "96 min",
+          "ocena": "7.9",
+          "gatunki": ["Dokumentalny", "Sport", "Kryminał"],
+          "opis": "Filmowiec eksperymentuje na sobie z dopingiem. Przypadkowo trafia na whistleblowera z rosyjskiego systemu dopingowego. Oscar za najlepszy dokument 2018.",
+          "platformy": ["Netflix"],
+          "emoji": "💉"
+        },
+        {
+          "tytul": "The Social Dilemma",
+          "tytul_oryginalny": "The Social Dilemma",
+          "rok": 2020,
+          "czas": "94 min",
+          "ocena": "7.6",
+          "gatunki": ["Dokumentalny", "Dramat"],
+          "opis": "Byli pracownicy Facebooka, Twittera i Google wyjaśniają mechanizmy uzależnienia zaprojektowane w mediach społecznościowych. Niepokojące i natychmiast aktualne.",
+          "platformy": ["Netflix"],
+          "emoji": "📱"
+        },
+        {
+          "tytul": "Senna",
+          "tytul_oryginalny": "Senna",
+          "rok": 2010,
+          "czas": "104 min",
+          "ocena": "8.5",
+          "gatunki": ["Dokumentalny", "Sport", "Biografia"],
+          "opis": "Historia Ayrtona Senny — mistrzostw F1 i jego śmierci w 1994. Działa jako thriller, romans i tragedia grecka jednocześnie. Nieznajomość F1 nie przeszkadza.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "🏎️"
+        },
+        {
+          "tytul": "13th",
+          "tytul_oryginalny": "13th",
+          "rok": 2016,
+          "czas": "100 min",
+          "ocena": "8.2",
+          "gatunki": ["Dokumentalny", "Historia"],
+          "opis": "Reżyserka Ava DuVernay analizuje 13. poprawkę i masowe więziennictwo w USA jako kontynuację niewolnictwa inną formą. Zmienia perspektywę — niezależnie od politycznych poglądów.",
+          "platformy": ["Netflix"],
+          "emoji": "⚖️"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Który dokument polecasz komuś, kto nigdy nie ogląda dokumentów?",
+          "a": "Free Solo — 100 minut napięcia jak w thrillerze, z prawdziwym człowiekiem na ekranie. Nie wymaga żadnej wiedzy wstępnej."
+        },
+        {
+          "q": "Czy The Social Dilemma jest stronniczy?",
+          "a": "Film ma wyraźną tezę i nie jest neutralny. Ale fakty prezentuje rzetelnie — interviewowani są byłymi pracownikami platform, nie zewnętrznymi krytykami."
+        },
+        {
+          "q": "Gdzie znaleźć dokumenty kryminalne?",
+          "a": "Netflix ma największą kolekcję — Making a Murderer, Evil Genius, The Keepers. HBO Max oferuje The Jinx. Prime Video i Mubi — dokumenty artystyczne i niszowe."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "animacje-dla-doroslych",
+      "title": "Animacje dla dorosłych — filmy i seriale rysunkowe z głębszym przekazem",
+      "desc": "Lista najlepszych animacji dla dorosłych — filmy i seriale, które nie są dla dzieci. Pixar, anime, Studio Ghibli i produkcje bez klasyfikacji wiekowej.",
+      "keywords": "animacje dla dorosłych, najlepsze animacje, anime lista, studio ghibli, animacja na wieczór",
+      "h1": "Animacje dla dorosłych — lista poza Marvelem i Disneyem",
+      "intro": "Animacja to medium, nie gatunek dla dzieci. Najlepsze animacje dla dorosłych dotykają tematu straty, tożsamości i sensu życia lepiej niż większość filmów aktorskich. Oto lista bez ograniczeń wiekowych.",
+      "sekcje": [
+        {
+          "h2": "Dlaczego animacja może opowiadać o poważnych rzeczach?",
+          "tresc": "Animacja ma jedną przewagę: nie jesteś ograniczony prawami fizyki ani budżetem. Satoshi Kon w Perfect Blue (1997) stworzył thriller psychologiczny w animacji zanim Darren Aronofsky nakręcił Requiem dla snu. Pixar's Up (2009) w pierwszych 10 minutach mówi o śmierci i stracie więcej niż większość dramatów."
+        },
+        {
+          "h2": "Anime jako kino artystyczne",
+          "tresc": "Spirited Away (2001) Studio Ghibli zdobyło Oscara pokonując Pana pierścieni. Princess Mononoke (1997) to epicka historia o środowisku i konflikcie między naturą a cywilizacją. Perfect Blue (1997) Satoshi Kona to dekonstrukcja sławy i tożsamości — Aronofsky kupił prawa do jednej sceny dla Black Swan."
+        },
+        {
+          "h2": "Animacje zachodnie poza Disneyem",
+          "tresc": "BoJack Horseman (Netflix) to 6 sezonów o depresji, uzależnieniach i historii w Hollywood — przez antropomorficzne konie. Waltz with Bashir (2008) to animowany dokument o wojnie w Libanie i traumie wojennej. Soul (2020) Pixara zadaje pytanie o sens życia w sposób bardziej bezpośredni niż jakikolwiek film fabularny."
+        },
+        {
+          "h2": "Jak wybrać animację dla dorosłych?",
+          "tresc": "Sprawdź kategorię wiekową i recenzje krytyków. Anime nie jest z definicji 'dla dzieci' — Death Note, Evangelion i Paranoia Agent są dla dorosłych. Pixar zazwyczaj działa na obu poziomach. Netflix ma coraz więcej animacji dla dorosłych — Arcane (League of Legends) to jeden z najlepiej ocenianych seriali platformy."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Spirited Away (Spirited Away)",
+          "tytul_oryginalny": "Sen to Chihiro no Kamikakushi",
+          "rok": 2001,
+          "czas": "125 min",
+          "ocena": "8.6",
+          "gatunki": ["Animacja", "Przygodowy", "Familijny"],
+          "opis": "Chihiro wpada do świata duchów i musi pracować, żeby uratować rodziców. Miyazaki i Studio Ghibli w szczytowej formie. Oscar za najlepszą animację.",
+          "platformy": ["Netflix"],
+          "emoji": "🐉"
+        },
+        {
+          "tytul": "Perfect Blue",
+          "tytul_oryginalny": "Perfect Blue",
+          "rok": 1997,
+          "czas": "81 min",
+          "ocena": "8.0",
+          "gatunki": ["Animacja", "Thriller", "Horror"],
+          "opis": "Piosenkarka J-pop przechodzi na aktorstwo. Prześladowca, zatarcie granicy rzeczywistości i fikcji. Thriller psychologiczny w animacji — inspiracja dla Black Swan.",
+          "platformy": ["Mubi", "Prime Video"],
+          "emoji": "🪞"
+        },
+        {
+          "tytul": "Soul",
+          "tytul_oryginalny": "Soul",
+          "rok": 2020,
+          "czas": "100 min",
+          "ocena": "8.1",
+          "gatunki": ["Animacja", "Komedia", "Dramat", "Muzyczny"],
+          "opis": "Muzyk jazz wpada do krainy dusz przed narodzinami. Pixar zadaje pytanie: po co żyjemy? Jeden z filozoficznie najodważniejszych filmów Pixara.",
+          "platformy": ["Disney+"],
+          "emoji": "🎹"
+        },
+        {
+          "tytul": "Arcane",
+          "tytul_oryginalny": "Arcane",
+          "rok": 2021,
+          "czas": "2 sezony",
+          "ocena": "9.0",
+          "gatunki": ["Animacja", "Akcja", "Sci-fi", "Dramat"],
+          "opis": "Serial oparty na grze League of Legends — ale działa bez znajomości gry. Historia dwóch sióstr i konfliktu między miastem poniżej i powyżej. Najlepiej oceniany serial Netflix.",
+          "platformy": ["Netflix"],
+          "emoji": "⚡"
+        },
+        {
+          "tytul": "BoJack Horseman",
+          "tytul_oryginalny": "BoJack Horseman",
+          "rok": 2014,
+          "czas": "6 sezonów",
+          "ocena": "8.7",
+          "gatunki": ["Animacja", "Komedia", "Dramat"],
+          "opis": "Koń-aktor z depresją próbuje wrócić do Hollywood. Najbardziej precyzyjny portret uzależnienia i depresji w popkulturze. Boleśnie śmieszny i smutnyi jednocześnie.",
+          "platformy": ["Netflix"],
+          "emoji": "🐴"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Czy Arcane można oglądać bez znajomości League of Legends?",
+          "a": "Tak — twórcy celowo zaprojektowali serial jako niezależny od gry. Nie potrzebujesz żadnego kontekstu. Wielu fanów serialu nigdy nie grało w grę."
+        },
+        {
+          "q": "Na jakim poziomie jest Perfect Blue dla kogoś nieznającego anime?",
+          "a": "Bardzo dostępny — 81 minut, mrocza historia, zrozumiała bez znajomości kultury anime. Dobry punkt wejścia do poważniejszego anime."
+        },
+        {
+          "q": "Czy BoJack Horseman jest smutny czy śmieszny?",
+          "a": "Oboje naraz — i to jest jego siła. Wiele odcinków boli przez śmiech. Sezon 4. i 5. to jedne z najciemniejszych momentów serialowej animacji."
+        }
+      ],
+      "oferty": []
+    }
+  ],
+  "wieczor": [
+    {
+      "slug": "film-na-piatek-wieczor-z-partnerem",
+      "title": "Film na piątek wieczór z partnerem — 10 propozycji na każdy nastrój",
+      "desc": "Co obejrzeć z partnerem w piątek wieczór? 10 sprawdzonych propozycji na każdy nastrój — od romantycznych po thrillery. Bez kompromisów.",
+      "keywords": "film z partnerem, co obejrzeć razem, film na piątek, film na randkę, co oglądać z dziewczyną",
+      "h1": "Film na piątek wieczór z partnerem — 10 propozycji bez kompromisów",
+      "intro": "Problem piątkowego wieczoru jest jeden: jedno z was chce coś innego. Oto filmy, które działają na oboje — różne energie, wspólny efekt.",
+      "sekcje": [
+        {
+          "h2": "Jak wybrać film, który zadowoli oboje?",
+          "tresc": "Klucz: nie pytaj 'co chcesz obejrzeć' — to otwiera nieskończoną pętlę. Pytaj 'jaki masz teraz nastrój?' i dopasuj kategorię. Chcesz się pośmiać? Komedia lub absurd. Chcesz emocji? Thriller lub romans. Chcesz być wciągniętym? Sci-fi lub mystery. Mając kategorię, reszta idzie szybko."
+        },
+        {
+          "h2": "Filmy na nastrój śmiechu i lekkości",
+          "tresc": "Palm Springs (2020) — romcom z pętlą czasową, 90 minut, śmiechy i trochę filozofii. Game Night (2018) — para na wieczorze z grami, który zamienia się w prawdziwy thriller. Idealny film na luzacki wieczór razem. Game Night jest niedocenionym skarbem komedii."
+        },
+        {
+          "h2": "Filmy na nastrój napięcia i adrenaliny",
+          "tresc": "A Quiet Place (2018) — cisza jako mechanika suspensu, można oglądać dosłownie bez słowa. Knives Out (2019) — kryminał od Riana Johnsona, który angażuje oboje niezależnie od gustu. Działa jak gra dedukcyjna dla dwojga — śledzisz tropy osobno, porównujesz po finale."
+        },
+        {
+          "h2": "Jak nie paść ofiarą niekończącego się scrollowania?",
+          "tresc": "Zasada 2 minuty: każde z was proponuje jeden tytuł na dany nastrój. 2 minuty na decyzję, inaczej bierze pierwsze proponowane. Streamingowe platformy zaprojektowały przeglądarkę tak, by trwała w nieskończoność — świadome ograniczenie czasu wyboru to obrona."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Knives Out",
+          "tytul_oryginalny": "Knives Out",
+          "rok": 2019,
+          "czas": "130 min",
+          "ocena": "7.9",
+          "gatunki": ["Kryminał", "Komedia", "Dramat", "Tajemnica"],
+          "opis": "Znany pisarz umiera, a detektyw bada sprawę. Film Riana Johnsona, który odwraca formułę kryminału. Angażuje, bawi i zaskakuje — działał dobrze na każdej parze.",
+          "platformy": ["Prime Video", "Netflix"],
+          "emoji": "🔍"
+        },
+        {
+          "tytul": "A Quiet Place",
+          "tytul_oryginalny": "A Quiet Place",
+          "rok": 2018,
+          "czas": "90 min",
+          "ocena": "7.5",
+          "gatunki": ["Horror", "Sci-fi", "Dramat"],
+          "opis": "Rodzina przeżywa w świecie, w którym dźwięk przyciąga potwory. Film, który można oglądać w ciszy — dosłownie. Krótki, napięty, genialnie prosty pomysł.",
+          "platformy": ["Prime Video", "Paramount+"],
+          "emoji": "🤫"
+        },
+        {
+          "tytul": "Game Night",
+          "tytul_oryginalny": "Game Night",
+          "rok": 2018,
+          "czas": "100 min",
+          "ocena": "7.0",
+          "gatunki": ["Komedia", "Akcja", "Kryminał"],
+          "opis": "Para organizuje wieczór z grami, który niechcący wciąga ich w prawdziwy kryminał. Jeden z najlepiej napisanych komediowych scenariuszy ostatnich lat.",
+          "platformy": ["HBO Max", "Netflix"],
+          "emoji": "🎲"
+        },
+        {
+          "tytul": "La La Land",
+          "tytul_oryginalny": "La La Land",
+          "rok": 2016,
+          "czas": "128 min",
+          "ocena": "8.0",
+          "gatunki": ["Romans", "Musical", "Dramat"],
+          "opis": "Muzyk jazzowy i aspirująca aktorka w Los Angeles. Musical z piękną fotografią, rozmowami o marzeniach i zakończeniem, o którym można rozmawiać godzinami.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "🎷"
+        },
+        {
+          "tytul": "The Grand Budapest Hotel",
+          "tytul_oryginalny": "The Grand Budapest Hotel",
+          "rok": 2014,
+          "czas": "99 min",
+          "ocena": "8.1",
+          "gatunki": ["Komedia", "Przygodowy", "Kryminał"],
+          "opis": "Wes Anderson i jego symetryczna estetyka w całej krasie. Śmieszny, piękny i lekko absurdalny. Ralph Fiennes jako legendarny concierge hotelu.",
+          "platformy": ["Disney+", "Prime Video"],
+          "emoji": "🏨"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Który film polecasz, gdy jedno z nas nie wie czego chce?",
+          "a": "Knives Out — działa na fanów kryminałów, komedii i dramatów jednocześnie. Trudno kogoś rozczarować."
+        },
+        {
+          "q": "Co oglądać z partnerem, gdy nie lubisz horrorów, a on tak?",
+          "a": "A Quiet Place — jest napięcie i elementy horroru, ale bez krwi i gore. Albo Get Out — straszy przez narrację, nie przez brutalne sceny."
+        },
+        {
+          "q": "Jak długo powinien trwać film na piątek wieczór?",
+          "a": "Idealnie 90-110 minut — dość czasu na historię, nie za długo żeby skończyło się po północy. Knives Out (130 min) i La La Land (128 min) mimo długości wciągają bez znudzenia."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "filmy-na-90-minut",
+      "title": "Filmy na 90 minut — krótkie i wciągające na każdy wieczór",
+      "desc": "Lista filmów trwających około 90 minut — szybkie w wyborze, mocne w treści. Idealne gdy nie masz czasu na epos, ale chcesz prawdziwego kina.",
+      "keywords": "filmy na 90 minut, krótkie filmy, szybki film wieczór, co obejrzeć szybko",
+      "h1": "Filmy na 90 minut — lista krótkich i mocnych tytułów",
+      "intro": "Dobry film nie musi trwać 3 godzin. Te tytuły mieszczą się w 90 minutach i nie odzierają historii z niczego ważnego. Idealne gdy masz wieczór, ale nie całą noc.",
+      "sekcje": [
+        {
+          "h2": "Dlaczego krótsze filmy są często lepsze?",
+          "tresc": "Przymus długości to choroba hollywoodzkiego blockbustera. Reżyserzy o dużych ambicjach często robią filmy 2.5-godzinne, bo 'tak wypada'. Ale kino noir lat 40-50 działało w 80-95 minutach perfekcyjnie. Współcześnie: A Quiet Place (90 min), Prey (99 min), Palm Springs (90 min) — zawartość na poziomie filmów dwa razy dłuższych."
+        },
+        {
+          "h2": "Thrillery i kryminały poniżej 95 minut",
+          "tresc": "Coherence (2013) — 8 przyjaciół na kolacji podczas przejścia komety. Nakręcony za 50 000 dolarów, bez scenariusza. Jeden z najlepszych sci-fi thrillerów ostatnich dekad. Pontypool (2008) — zombie horror rozgrywający się wyłącznie w studio radiowym. 92 minuty. Drive (2011) — Ryan Gosling, 100 minut, estetyczny jak obraz."
+        },
+        {
+          "h2": "Komedie i lekkie produkcje na szybki wieczór",
+          "tresc": "The Nice Guys (2016) — detektywi w LA lat 70., Shane Black i błyskotliwy dialog. 116 minut, ale temp jest tak szybki, że czujesz 80. Palm Springs (90 min) znowu — romcom z sercem. What We Do in the Shadows (2014) — mockumentary o wampirach w Nowej Zelandii. Precursor serialu i 86 minut czystego humoru."
+        },
+        {
+          "h2": "Jak znaleźć filmy poniżej 100 minut?",
+          "tresc": "Filtruj na Letterboxd po 'Runtime: 70-100 minutes' lub szukaj fraz 'tight 90 minutes' w recenzjach. IMDb ma filtr czasu trwania. Ogólnie: filmy animowane (zazwyczaj 80-100 min), horrory niezależne, kino noir, komedie z lat 80-90 — to najlepsze szuflady dla krótkich tytułów."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Coherence",
+          "tytul_oryginalny": "Coherence",
+          "rok": 2013,
+          "czas": "89 min",
+          "ocena": "7.2",
+          "gatunki": ["Sci-fi", "Thriller", "Tajemnica"],
+          "opis": "8 przyjaciół na kolacji podczas przejścia komety. Nakręcony bez scenariusza za 50 000 $. Jeden z najlepszych niezależnych sci-fi thrillerów ostatniej dekady.",
+          "platformy": ["Prime Video", "Mubi"],
+          "emoji": "☄️"
+        },
+        {
+          "tytul": "Drive",
+          "tytul_oryginalny": "Drive",
+          "rok": 2011,
+          "czas": "100 min",
+          "ocena": "7.8",
+          "gatunki": ["Akcja", "Dramat", "Kryminał"],
+          "opis": "Nocny kierowca getaway w LA. Ryan Gosling, minimalistyczny dialog, estetyka jak muzeum. Refn i slow-burn thriller w neonach.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "🚗"
+        },
+        {
+          "tytul": "What We Do in the Shadows (film)",
+          "tytul_oryginalny": "What We Do in the Shadows",
+          "rok": 2014,
+          "czas": "86 min",
+          "ocena": "7.6",
+          "gatunki": ["Komedia", "Horror", "Mockumentary"],
+          "opis": "Ekipa dokumentalna filmuje czterech wampirów dzielących mieszkanie w Wellington. Taika Waititi w szczytowej formie. 86 minut bez jednej zbędnej sceny.",
+          "platformy": ["Prime Video", "HBO Max"],
+          "emoji": "🦇"
+        },
+        {
+          "tytul": "Her",
+          "tytul_oryginalny": "Her",
+          "rok": 2013,
+          "czas": "126 min",
+          "ocena": "8.0",
+          "gatunki": ["Romans", "Sci-fi", "Dramat"],
+          "opis": "Mężczyzna zakochuje się w systemie operacyjnym. Spike Jonze i Joaquin Phoenix. Technicznie dłuższy, ale tempo sprawia, że czujesz go jak 90-minutową nowelę.",
+          "platformy": ["Netflix", "Prime Video"],
+          "emoji": "🎧"
+        },
+        {
+          "tytul": "Before Sunrise",
+          "tytul_oryginalny": "Before Sunrise",
+          "rok": 1995,
+          "czas": "101 min",
+          "ocena": "8.1",
+          "gatunki": ["Romans", "Dramat"],
+          "opis": "Dwoje obcych spędza noc rozmawiając w Wiedniu. Richard Linklater i czysty dialog bez fabuły. Jeden z najpiękniejszych filmów o połączeniu z drugim człowiekiem.",
+          "platformy": ["Prime Video", "HBO Max"],
+          "emoji": "🌅"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Który krótki film najbardziej wciąga od pierwszych minut?",
+          "a": "Coherence — pierwsze 5 minut to zwykła kolacja, potem robi się dziwnie i już nie możesz odejść od ekranu."
+        },
+        {
+          "q": "Co obejrzeć szybko solo, żeby się nie zastanawiać?",
+          "a": "Drive (100 min) — włączasz, wyłączasz myślenie. What We Do in the Shadows (86 min) — żadnego wysiłku, sama przyjemność."
+        },
+        {
+          "q": "Czy Before Sunrise jest dobry bez znajomości trylogii?",
+          "a": "Tak — każda część trylogii Before (Sunrise/Sunset/Midnight) stoi samodzielnie. Sunrise można oglądać bez kontekstu. Sequele są bonusem."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "co-obejrzec-gdy-nie-wiesz",
+      "title": "Nie wiesz co obejrzeć? System wyboru filmu w 5 minut",
+      "desc": "Koniec z godzinnym scrollowaniem. Prosty system wyboru filmu wieczorem — wg nastroju, dostępnego czasu i platformy. Bez kompromisów.",
+      "keywords": "co obejrzeć, nie wiem co oglądać, wybór filmu, scrollowanie netflix, co włączyć wieczór",
+      "h1": "Nie wiesz co obejrzeć? Zakończ scrollowanie w 5 minut",
+      "intro": "Fenomen paradoksu wyboru na platformach streamingowych jest prawdziwy: im więcej opcji, tym trudniej zdecydować. Oto system, który działa.",
+      "sekcje": [
+        {
+          "h2": "Dlaczego scrollowanie nie działa?",
+          "tresc": "Algorytmy platform streamingowych są zaprojektowane, żeby trzymać cię w przeglądaniu — każde kliknięcie i zatrzymanie jest feedbackiem dla systemu. Baner 'co nowego' jest ułożony tak, żeby żaden tytuł nie wyglądał wystarczająco dobrze. To nie twoja wina, że scrollujesz 45 minut."
+        },
+        {
+          "h2": "Krok 1: Wybierz energię, nie tytuł",
+          "tresc": "Zanim wybierzesz film, wybierz typ doświadczenia. Pytania: Chcę się śmiać? → Komedia/absurd. Chcę emocji? → Thriller/dramat. Chcę być zaskoczony? → Tajemnica/twist. Chcę odpocząć? → Coś lekkiego i przewidywalnego. Chcę pomyśleć? → Sci-fi/film dokumentalny. Każda odpowiedź eliminuje 80% katalogu."
+        },
+        {
+          "h2": "Krok 2: Ustaw czas",
+          "tresc": "Masz do 100 minut? Film pod 100 minut z tej listy. Masz wieczór bez końca? Możesz wybrać epos. Musisz skończyć przed 22:30? Filtruj po czasie trwania. Masz czas tylko na serial? Wybierz odcinkową antologię (Black Mirror, Miniserie)."
+        },
+        {
+          "h2": "Krok 3: Ustaw platformę i nie zmieniaj",
+          "tresc": "Skocz do jednej platformy na max 3 minuty. Nie otwieraj kilku na raz — to wzbudza FOMO między platformami. Masz Netflix? Przeglądasz Netflix. Nie ma nic? Dopiero wtedy HBO. Limit: 3 minuty na platformę, max 2 platformy. Po 6 minutach bierzesz najlepszą z zaproponowanych."
+        },
+        {
+          "h2": "Narzędzia pomocne przy wyborze",
+          "tresc": "Letterboxd — lista filmów z opisami, ocenami i recenzjami przyjaciół. Justwatch.com — wyszukiwarka po nastroju i platformie. Strony z listami 'top 50 filmów X' pomagają mieć gotową pulę. JustWatch pozwala filtrować: platforma + gatunek + czas trwania + ocena."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "The Truman Show",
+          "tytul_oryginalny": "The Truman Show",
+          "rok": 1998,
+          "czas": "103 min",
+          "ocena": "8.2",
+          "gatunki": ["Komedia", "Dramat", "Sci-fi"],
+          "opis": "Mężczyzna odkrywa, że całe jego życie to program telewizyjny. Jim Carrey w poważnej roli, film wyprzedził swoje czasy o 20 lat. Bezpieczny wybór — prawie nigdy nie rozczarowuje.",
+          "platformy": ["Prime Video", "Paramount+"],
+          "emoji": "📡"
+        },
+        {
+          "tytul": "Inception",
+          "tytul_oryginalny": "Inception",
+          "rok": 2010,
+          "czas": "148 min",
+          "ocena": "8.8",
+          "gatunki": ["Akcja", "Sci-fi", "Thriller"],
+          "opis": "Złodziej, który kradnie sekrety ze snów. Nolan i logika snu w kinie akcji. Dobry do pierwszego seansu i do czwartego — kolejne warstwy znaczeń się nie kończą.",
+          "platformy": ["Netflix", "HBO Max"],
+          "emoji": "🌀"
+        },
+        {
+          "tytul": "Interstellar",
+          "tytul_oryginalny": "Interstellar",
+          "rok": 2014,
+          "czas": "169 min",
+          "ocena": "8.7",
+          "gatunki": ["Sci-fi", "Dramat", "Przygodowy"],
+          "opis": "Astronauci szukają nowej planety dla umierającej Ziemi. Nolan i fizycy razem. Długi, ale wizualnie i emocjonalnie jedno z największych doświadczeń kinowych. Na duży ekran.",
+          "platformy": ["Prime Video", "Paramount+"],
+          "emoji": "🚀"
+        },
+        {
+          "tytul": "The Banshees of Inisherin",
+          "tytul_oryginalny": "The Banshees of Inisherin",
+          "rok": 2022,
+          "czas": "114 min",
+          "ocena": "7.7",
+          "gatunki": ["Dramat", "Komedia"],
+          "opis": "Mężczyzna na irlandzkiej wyspie postanawia zakończyć przyjaźń bez wyjaśnienia. Film Martina McDonagha o samotności, sensie życia i absurdzie. Smutny i śmieszny jednocześnie.",
+          "platformy": ["Disney+"],
+          "emoji": "🏝️"
+        },
+        {
+          "tytul": "The Farewell",
+          "tytul_oryginalny": "The Farewell",
+          "rok": 2019,
+          "czas": "98 min",
+          "ocena": "7.7",
+          "gatunki": ["Komedia", "Dramat"],
+          "opis": "Rodzina ukrywa przed babcią diagnozę raka i organizuje ślub jako wymówkę do spotkania. Komedia-dramat Lulu Wang o różnicy kulturowej i miłości przez kłamstwo.",
+          "platformy": ["Prime Video"],
+          "emoji": "👵"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Jaki film polecasz jako 'bezpieczny wybór' gdy nie możesz się zdecydować?",
+          "a": "The Truman Show (1998) — działa na prawie każdego, nieznany część widzów, ma humor i głębię. Rzadko rozczarowuje."
+        },
+        {
+          "q": "Ile czasu powinno trwać wybieranie filmu?",
+          "a": "Maksymalnie 10 minut. Jeśli po 10 minutach nie ma decyzji — bierz cokolwiek z listy 'polecane przez znajomych'. Algorytm nigdy nie wygra z rekomendacją człowieka."
+        },
+        {
+          "q": "Czy warto używać Letterboxd do wyboru filmów?",
+          "a": "Tak — Letterboxd pokazuje oceny znajomych, co jest bardziej wartościowe niż ogólna ocena IMDb. Lista 'chcę zobaczyć' to najlepsze narzędzie przy następnym wyborze."
+        }
+      ],
+      "oferty": []
+    },
+    {
+      "slug": "filmy-na-jesien-i-zime",
+      "title": "Filmy na jesień i zimę — lista na chłodne wieczory pod kocem",
+      "desc": "Klimatyczne filmy na jesienne i zimowe wieczory — mroczne, przytulne lub epickie. Lista dopasowana do pory roku.",
+      "keywords": "filmy na jesień, filmy na zimę, klimatyczne filmy, co oglądać jesienią, filmy pod koc",
+      "h1": "Filmy na jesień i zimę — klimatyczna lista na chłodne wieczory",
+      "intro": "Pora roku zmienia to, czego szukamy w kinie. Jesień to czas mroku i tajemnicy. Zima to epickie narracje albo przytulne komedie. Oto lista dopasowana do każdego z tych nastrojów.",
+      "sekcje": [
+        {
+          "h2": "Dlaczego pora roku wpływa na wybór filmów?",
+          "tresc": "To nie mit — nastrój sezonowy realnie zmienia preferencje. Jesienią rośnie apetyt na thrillery, kryminały i gotycki klimat. Zimą — na epickie sagi, komedie familijne i filmy o ciepłych relacjach. Wielu widzów wraca do tych samych tytułów jesienią jak do rytuału."
+        },
+        {
+          "h2": "Jesień: tytuły na mroczny klimat",
+          "tresc": "Kobieta w czerni (2012) — gothic horror w wiktoriańskim wydaniu, Daniel Radcliffe. Crimson Peak (2015) Del Toro — gotycki romans w domu pełnym duchów, piękna estetyka. Sleepy Hollow (1999) Burtona — halloweenowy klasyk z Johnnym Deppem. Se7en (1995) Finchera — mroczne śledztwo, deszcz przez cały film."
+        },
+        {
+          "h2": "Zima: tytuły na epickie wieczory",
+          "tresc": "Władca Pierścieni: trylogia Jacksona — 9-11 godzin łącznie, idealne na zimę. Dune (2021) Villeneuve'a — pierwsza część epickiej adaptacji z wizualnym rozmachem. The Revenant (2015) z DiCaprio — zimowe przeżycie i spektakularna fotografia Chivo Lubezki."
+        },
+        {
+          "h2": "Ciepłe filmy na głęboki grudniowy wieczór",
+          "tresc": "Klaus (Netflix, 2019) — animacja o listonoszu na Dalekiej Północy, najcieplejsza produkcja świąteczna poza klasykami Pixara. Carol (2015) z Cate Blanchett — delikatna historia miłosna w latach 50., piękna fotografia. It's a Wonderful Life (1946) — klasyk na który warto się zdecydować raz na jakiś czas."
+        }
+      ],
+      "filmy": [
+        {
+          "tytul": "Kolor nocy",
+          "tytul_oryginalny": "Knives Out",
+          "rok": 2019,
+          "czas": "130 min",
+          "ocena": "7.9",
+          "gatunki": ["Kryminał", "Tajemnica", "Komedia"],
+          "opis": "Idealny na jesień: wielka rodzina, zamknięty dom, tajemnica śmierci. Rian Johnson i estetyka gotyckich kryminałów w nowoczesnym wykonaniu.",
+          "platformy": ["Prime Video", "Netflix"],
+          "emoji": "🍂"
+        },
+        {
+          "tytul": "Crimson Peak",
+          "tytul_oryginalny": "Crimson Peak",
+          "rok": 2015,
+          "czas": "119 min",
+          "ocena": "6.7",
+          "gatunki": ["Horror", "Romans", "Tajemnica"],
+          "opis": "Guillermo del Toro i jego góra duchów. Bardziej gotycki romans niż horror. Wizualnie jeden z najpiękniejszych filmów dekady — czerwień, złoto i błękit.",
+          "platformy": ["Prime Video", "Peacock"],
+          "emoji": "🌹"
+        },
+        {
+          "tytul": "Dune: Part One",
+          "tytul_oryginalny": "Dune: Part One",
+          "rok": 2021,
+          "czas": "155 min",
+          "ocena": "8.0",
+          "gatunki": ["Sci-fi", "Przygodowy", "Dramat"],
+          "opis": "Denis Villeneuve adaptuje powieść Herberta. Pustynna planeta, polityka imperialna i wizualia, które trzeba oglądać na jak największym ekranie. Zimowy epik.",
+          "platformy": ["HBO Max"],
+          "emoji": "🌵"
+        },
+        {
+          "tytul": "Klaus",
+          "tytul_oryginalny": "Klaus",
+          "rok": 2019,
+          "czas": "96 min",
+          "ocena": "8.2",
+          "gatunki": ["Animacja", "Komedia", "Familijny"],
+          "opis": "Leniwy listonosz trafia na Daleki Północ i przypadkowo tworzy mit Świętego Mikołaja. Najcieplejszy film animowany dekady. Technika animacji: przełomowa. Emocje: niespodziewanie głębokie.",
+          "platformy": ["Netflix"],
+          "emoji": "❄️"
+        },
+        {
+          "tytul": "The Revenant",
+          "tytul_oryginalny": "The Revenant",
+          "rok": 2015,
+          "czas": "156 min",
+          "ocena": "8.0",
+          "gatunki": ["Dramat", "Przygodowy", "Western"],
+          "opis": "Traper ocalały po ataku niedźwiedzia szuka zemsty. DiCaprio, Oscar, Chivo Lubezki i zdjęcia w naturalnym świetle. Brutalne i zarazem hipnotyzujące.",
+          "platformy": ["Disney+", "Prime Video"],
+          "emoji": "🐻"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Który film najlepiej oddaje jesienny klimat?",
+          "a": "Knives Out — zamknięta willa, deszcz, rodzinna tajemnica. Albo Se7en jeśli chcesz mroku bez humoru."
+        },
+        {
+          "q": "Czy Dune wymaga znajomości książki?",
+          "a": "Nie — film jest rozumiały bez lektury. Ale znajomość powieści dodaje warstw i wynagradza wiedzę o świecie zbudowanym przez Herberta."
+        },
+        {
+          "q": "Jaki film animowany polecasz na zimę dla dorosłych?",
+          "a": "Klaus (Netflix) — działa na dorosłych równie dobrze jak na dzieci. Jeden z najbardziej niedocenionych filmów animowanych ostatnich lat."
+        }
+      ],
+      "oferty": []
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ art.title }} | VOD — filmy na żądanie</title>
+<meta name="description" content="{{ art.desc }}">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ meta.site_url }}/{{ kat_slug }}/{{ art.slug }}/">
+<meta property="og:title" content="{{ art.title }}">
+<meta property="og:description" content="{{ art.desc }}">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="pl_PL">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ art.title }}",
+    "description": "{{ art.desc }}",
+    "url": "{{ meta.site_url }}/{{ kat_slug }}/{{ art.slug }}/",
+    "dateModified": "{{ meta.updated }}",
+    "publisher": {"@type": "Organization", "name": "VOD — filmy na żądanie", "url": "{{ meta.site_url }}"},
+    "keywords": "{{ art.keywords }}"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for f in art.faq %}
+      {"@type": "Question", "name": "{{ f.q }}", "acceptedAnswer": {"@type": "Answer", "text": "{{ f.a }}"}}{% if not loop.last %},{% endif %}
+      {% endfor %}
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"name":"VOD","item":"{{ meta.site_url }}/"},
+      {"@type":"ListItem","position":2,"name":"{{ kategoria }}","item":"{{ meta.site_url }}/#{{ kat_slug }}"},
+      {"@type":"ListItem","position":3,"name":"{{ art.title }}","item":"{{ meta.site_url }}/{{ kat_slug }}/{{ art.slug }}/"}
+    ]
+  }
+]
+</script>
+<style>
+{% include "partials/styles.css" %}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <a href="{{ base }}" class="logo">
+    <div class="play-icon">
+      <svg width="14" height="16" viewBox="0 0 14 16" fill="none">
+        <path d="M1 1.5L13 8L1 14.5V1.5Z" fill="white"/>
+      </svg>
+    </div>
+    <span>VOD</span>
+    <span class="logo-tag">filmy na żądanie</span>
+  </a>
+  <nav class="site-nav">
+    <a href="{{ base }}#rankingi">🏆 Rankingi</a>
+    <a href="{{ base }}#gatunki">🎬 Gatunki</a>
+    <a href="{{ base }}#wieczor">🌙 Wieczór</a>
+    <a href="{{ base }}#rankingi" class="nav-cta">Wybierz film →</a>
+  </nav>
+</header>
+
+<!-- ARTICLE HERO -->
+<section class="art-hero">
+  <div class="wrap">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ base }}">VOD</a>
+      <span class="breadcrumb-sep">›</span>
+      <a href="{{ base }}#{{ kat_slug }}">{{ kategoria }}</a>
+      <span class="breadcrumb-sep">›</span>
+      <span style="color:var(--text-dim)">{{ art.h1 }}</span>
+    </nav>
+    <div class="art-cat">{{ kat_icon }} {{ kategoria }}</div>
+    <h1 class="art-h1">{{ art.h1 }}</h1>
+    <p class="art-intro">{{ art.intro }}</p>
+    <div class="art-meta">
+      <div class="art-meta-item">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+        Zaktualizowano: {{ meta.updated }}
+      </div>
+      <div class="art-meta-item">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        Czas czytania: ok. 5 min
+      </div>
+      {% if art.filmy %}
+      <div class="art-meta-item">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2"/></svg>
+        {{ art.filmy|length }} filmów
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<!-- CONTENT -->
+<div class="wrap">
+  <div class="art-layout">
+
+    <!-- TREŚĆ -->
+    <div class="art-content">
+
+      {% for sek in art.sekcje %}
+      <h2 id="s{{ loop.index }}">{{ sek.h2 }}</h2>
+      <p>{{ sek.tresc }}</p>
+      {% endfor %}
+
+      <!-- FILMY POLECANE -->
+      {% if art.filmy %}
+      <div class="films-section" id="filmy">
+        <div class="films-section-title">
+          🎬 Filmy z tego artykułu
+        </div>
+        <div class="films-section-sub">Rekomendacje bez spoilerów — tylko tytuł, ocena i gdzie obejrzeć</div>
+
+        {% for film in art.filmy %}
+        <div class="film-card reveal">
+          <div class="film-card-head">
+            <div class="film-emoji-box">{{ film.emoji }}</div>
+            <div class="film-info">
+              <div class="film-tytul">
+                {{ film.tytul }}
+                {% if film.tytul_oryginalny and film.tytul_oryginalny != film.tytul %}
+                <span class="film-tytul-oryginalny">({{ film.tytul_oryginalny }})</span>
+                {% endif %}
+              </div>
+              <div class="film-meta-row">
+                <div class="film-ocena">
+                  ★ {{ film.ocena }}
+                </div>
+                <div class="film-czas">
+                  ⏱ {{ film.czas }}
+                  {% if film.rok %} · {{ film.rok }}{% endif %}
+                </div>
+              </div>
+              <div class="film-gatunki">
+                {% for g in film.gatunki %}
+                <span class="film-tag">{{ g }}</span>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+          <p class="film-opis">{{ film.opis }}</p>
+          {% if film.platformy %}
+          <div class="film-platformy">
+            <span class="film-platforma-label">Gdzie obejrzeć:</span>
+            {% for p in film.platformy %}
+            <span class="film-platforma">{{ p }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+
+        <p style="font-size:11px;color:var(--text-muted);margin-top:14px">* Dostępność platform może się zmieniać. Sprawdź aktualnie na JustWatch.com.</p>
+      </div>
+      {% endif %}
+
+      <!-- FAQ -->
+      {% if art.faq %}
+      <div class="faq-section" id="faq">
+        <div class="faq-title">Najczęstsze pytania</div>
+        {% for f in art.faq %}
+        <div class="faq-item reveal">
+          <button class="faq-q" aria-expanded="false">
+            {{ f.q }}
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a">{{ f.a }}</div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+    </div>
+
+    <!-- SIDEBAR -->
+    <aside class="art-sidebar">
+
+      <div class="sidebar-box">
+        <div class="sidebar-box-title">Spis treści</div>
+        <nav class="sidebar-toc">
+          {% for sek in art.sekcje %}
+          <a href="#s{{ loop.index }}">{{ sek.h2 }}</a>
+          {% endfor %}
+          {% if art.filmy %}<a href="#filmy">🎬 Filmy w artykule</a>{% endif %}
+          {% if art.faq %}<a href="#faq">Pytania i odpowiedzi</a>{% endif %}
+        </nav>
+      </div>
+
+      {% if art.filmy %}
+      <div class="sidebar-box">
+        <div class="sidebar-box-title">Oceny filmów</div>
+        {% for film in art.filmy %}
+        <div style="padding:8px 0;border-bottom:1px solid var(--border);{% if loop.last %}border:none;padding-bottom:0{% endif %}">
+          <div style="display:flex;align-items:center;gap:8px">
+            <span style="font-size:18px">{{ film.emoji }}</span>
+            <div>
+              <div style="font-size:13px;font-weight:700;color:var(--text)">{{ film.tytul }}</div>
+              <div style="font-size:12px;color:var(--gold);font-weight:600">★ {{ film.ocena }} · {{ film.czas }}</div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if related %}
+      <div class="sidebar-box sidebar-related">
+        <div class="sidebar-box-title">Podobne artykuły</div>
+        {% for rel in related %}
+        <div class="related-item">
+          <div class="related-emoji">
+            {% if rel.filmy %}{{ rel.filmy[0].emoji }}{% else %}🎬{% endif %}
+          </div>
+          <div class="related-title">
+            <a href="{{ base }}{{ kat_slug }}/{{ rel.slug }}/">{{ rel.title }}</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <div class="sidebar-box" style="background:rgba(168,85,247,.05);border-color:rgba(168,85,247,.2)">
+        <div class="sidebar-box-title" style="color:var(--purple2)">ℹ️ O tym blogu</div>
+        <p style="font-size:12px;color:var(--text-muted);line-height:1.65">Nie promujemy piractwa. Wszystkie rekomendacje dotyczą filmów dostępnych legalnie. Dostępność tytułów na platformach zmienia się — sprawdzaj na JustWatch.com.</p>
+      </div>
+
+    </aside>
+
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-logo">
+      <div style="width:26px;height:26px;border-radius:7px;background:linear-gradient(135deg,var(--purple),var(--cyan));display:flex;align-items:center;justify-content:center;">
+        <svg width="11" height="13" viewBox="0 0 11 13" fill="none"><path d="M1 1L10 6.5L1 12V1Z" fill="white"/></svg>
+      </div>
+      VOD <span style="font-weight:400;font-size:14px;color:var(--text-muted);margin-left:6px">filmy na żądanie</span>
+    </div>
+    <div class="footer-links">
+      <a href="{{ base }}#rankingi">Rankingi</a>
+      <a href="{{ base }}#gatunki">Gatunki</a>
+      <a href="{{ base }}#wieczor">Wieczór</a>
+    </div>
+    <p>{{ meta.slogan }}</p>
+    <p class="legal-note" style="margin-top:10px">Treści informacyjne bez spoilerów. Nie promujemy piractwa. Linki do platform streamingowych mogą być linkami afiliacyjnymi.</p>
+  </div>
+</footer>
+
+<script>
+const revealEls = document.querySelectorAll('.reveal');
+if (revealEls.length) {
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); io.unobserve(e.target); } });
+  }, { threshold: 0.1 });
+  revealEls.forEach(el => io.observe(el));
+}
+
+document.querySelectorAll('.faq-q').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    document.querySelectorAll('.faq-q').forEach(b => {
+      b.setAttribute('aria-expanded','false');
+      b.nextElementSibling.classList.remove('open');
+    });
+    if(!expanded){
+      btn.setAttribute('aria-expanded','true');
+      btn.nextElementSibling.classList.add('open');
+    }
+  });
+});
+</script>
+</body>
+</html>
