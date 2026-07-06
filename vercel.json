@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pip install jinja2 && python generate.py",
+  "buildCommand": "python generate.py",
   "outputDirectory": "dist",
   "framework": null
 }
