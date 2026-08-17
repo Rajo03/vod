@@ -6,6 +6,27 @@ from jinja2 import Environment, FileSystemLoader
 SRC = Path(".")
 DIST = Path("dist")
 TMPL = SRC / "templates"
+AFFILIATE_FILE = SRC / ".." / "affiliate_links.json"
+BLOG_KEY = "vod"
+
+
+def load_affiliate() -> dict:
+    af = AFFILIATE_FILE.resolve()
+    if af.exists():
+        with open(af, encoding="utf-8") as f:
+            return json.load(f).get(BLOG_KEY, {})
+    return {}
+
+
+def inject_affiliate(data: dict, affiliate: dict) -> None:
+    kategorie = affiliate.get("kategorie", {})
+    for kat_slug, articles in data.items():
+        if kat_slug == "meta":
+            continue
+        linki = kategorie.get(kat_slug, [])
+        for art in articles:
+            if not art.get("oferty") and linki:
+                art["oferty"] = linki
 
 KAT_NAMES = {
     "rankingi": "Rankingi",
@@ -26,6 +47,9 @@ def build():
     DIST.mkdir()
 
     data = json.loads((SRC / "artykuly.json").read_text(encoding="utf-8"))
+    affiliate = load_affiliate()
+    inject_affiliate(data, affiliate)
+    sidebar_oferty = affiliate.get("sidebar", [])
     meta = data["meta"]
 
     env = Environment(loader=FileSystemLoader(str(TMPL)), autoescape=True)
@@ -50,6 +74,7 @@ def build():
         kat_names=KAT_NAMES,
         kat_icons=KAT_ICONS,
         all_articles=all_articles,
+        sidebar_oferty=sidebar_oferty,
     )
     (DIST / "index.html").write_text(index_html, encoding="utf-8")
 
@@ -79,6 +104,7 @@ def build():
                 kat_icon=kat_icon,
                 base="../../",
                 related=related,
+                sidebar_oferty=sidebar_oferty,
             )
             (art_dir / "index.html").write_text(html, encoding="utf-8")
 
