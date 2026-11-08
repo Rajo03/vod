@@ -2,7 +2,7 @@
   "meta": {
     "site_name": "VOD",
     "site_tagline": "Filmy na żądanie",
-    "site_url": "https://vod-filmy.vercel.app",
+    "site_url": "https://vod-kohl-one.vercel.app",
     "description": "Wybierz film szybciej. Rankingi, listy i rekomendacje bez spoilerów — konkretnie, bez marnowania wieczoru.",
     "updated": "2026-07-06",
     "slogan": "Wybierz film szybciej. Oglądaj lepiej."
@@ -40,9 +40,16 @@
           "rok": 1991,
           "czas": "118 min",
           "ocena": "8.6",
-          "gatunki": ["Thriller", "Horror", "Kryminał"],
+          "gatunki": [
+            "Thriller",
+            "Horror",
+            "Kryminał"
+          ],
           "opis": "Agentka FBI Clarice Starling szuka pomocy u uwięzionego kanibala Hannibala Lectera, by schwytać innego seryjnego mordercę. Film zdobył 5 Oscarów.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "🦋"
         },
         {
@@ -51,9 +58,15 @@
           "rok": 1995,
           "czas": "127 min",
           "ocena": "8.6",
-          "gatunki": ["Thriller", "Kryminał"],
+          "gatunki": [
+            "Thriller",
+            "Kryminał"
+          ],
           "opis": "Dwóch detektywów ściga seryjnego mordercę, który zabija ofiary inspirując się siedmioma grzechami głównymi. Mroczna atmosfera i pamiętne zakończenie.",
-          "platformy": ["HBO Max", "Netflix"],
+          "platformy": [
+            "HBO Max",
+            "Netflix"
+          ],
           "emoji": "🔪"
         },
         {
@@ -62,9 +75,15 @@
           "rok": 2006,
           "czas": "130 min",
           "ocena": "8.5",
-          "gatunki": ["Thriller", "Dramat", "Sci-fi"],
+          "gatunki": [
+            "Thriller",
+            "Dramat",
+            "Sci-fi"
+          ],
           "opis": "Rywalizacja dwóch iluzjonistów prowadzi do obsesji i zdrady. Film Nolana, który całkowicie zmienia sens po ponownym seansie.",
-          "platformy": ["HBO Max"],
+          "platformy": [
+            "HBO Max"
+          ],
           "emoji": "🎩"
         },
         {
@@ -73,9 +92,16 @@
           "rok": 2019,
           "czas": "132 min",
           "ocena": "8.5",
-          "gatunki": ["Dramat", "Thriller", "Komedia"],
+          "gatunki": [
+            "Dramat",
+            "Thriller",
+            "Komedia"
+          ],
           "opis": "Biedna koreańska rodzina infiltruje bogatą. Film zdobył Oscara za najlepszy film — pierwszy nieangielskojęzyczny w historii tej nagrody.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "🏠"
         },
         {
@@ -84,9 +110,16 @@
           "rok": 1999,
           "czas": "107 min",
           "ocena": "8.1",
-          "gatunki": ["Thriller", "Horror", "Dramat"],
+          "gatunki": [
+            "Thriller",
+            "Horror",
+            "Dramat"
+          ],
           "opis": "Chłopiec widzi duchy. Psycholog próbuje mu pomóc. Zakończenie, które zmieniło kinową narrację i sprawia, że widzowie chcą natychmiast oglądać od początku.",
-          "platformy": ["Disney+", "Prime Video"],
+          "platformy": [
+            "Disney+",
+            "Prime Video"
+          ],
           "emoji": "👻"
         },
         {
@@ -95,9 +128,14 @@
           "rok": 2019,
           "czas": "135 min",
           "ocena": "7.4",
-          "gatunki": ["Thriller", "Dramat"],
+          "gatunki": [
+            "Thriller",
+            "Dramat"
+          ],
           "opis": "Nerwowy dealer biżuterii w Nowym Jorku gra wszystkim, co ma. Adam Sandler w roli życia. Film wywołuje fizyczny stres — dosłownie.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "💎"
         }
       ],
@@ -153,9 +191,16 @@
           "rok": 2015,
           "czas": "120 min",
           "ocena": "8.1",
-          "gatunki": ["Akcja", "Przygodowy", "Sci-fi"],
+          "gatunki": [
+            "Akcja",
+            "Przygodowy",
+            "Sci-fi"
+          ],
           "opis": "2 godziny nieprzerwanej jazdy przez pustynię. Film akcji, który zdobył 6 Oscarów za montaż i technikę. Punkt odniesienia dla gatunku.",
-          "platformy": ["Netflix", "HBO Max"],
+          "platformy": [
+            "Netflix",
+            "HBO Max"
+          ],
           "emoji": "🔥"
         },
         {
@@ -164,9 +209,15 @@
           "rok": 2014,
           "czas": "101 min",
           "ocena": "7.4",
-          "gatunki": ["Akcja", "Thriller"],
+          "gatunki": [
+            "Akcja",
+            "Thriller"
+          ],
           "opis": "Były płatny zabójca wraca do akcji po śmierci psa. Prosta historia, rewolucyjna choreografia walki. Zapoczątkowała serię, która zmieniła standard kina akcji.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "🐶"
         },
         {
@@ -175,9 +226,15 @@
           "rok": 2022,
           "czas": "130 min",
           "ocena": "8.3",
-          "gatunki": ["Akcja", "Dramat"],
+          "gatunki": [
+            "Akcja",
+            "Dramat"
+          ],
           "opis": "Sequel po 36 latach, który okazał się lepszy od oryginału. Prawdziwe samoloty, Tom Cruise bez CGI, napięcie budowane klasycznie. Blockbuster, który przekonał sceptyków.",
-          "platformy": ["Prime Video", "Paramount+"],
+          "platformy": [
+            "Prime Video",
+            "Paramount+"
+          ],
           "emoji": "✈️"
         },
         {
@@ -186,9 +243,17 @@
           "rok": 2022,
           "czas": "139 min",
           "ocena": "7.8",
-          "gatunki": ["Akcja", "Sci-fi", "Komedia", "Dramat"],
+          "gatunki": [
+            "Akcja",
+            "Sci-fi",
+            "Komedia",
+            "Dramat"
+          ],
           "opis": "Chińska praczka odkrywa, że musi uratować multiwersum. 7 Oscarów, w tym za najlepszy film. Chaos zamieniony w sztukę — i mocna sekwencja akcji co 10 minut.",
-          "platformy": ["Mubi", "Prime Video"],
+          "platformy": [
+            "Mubi",
+            "Prime Video"
+          ],
           "emoji": "🌀"
         },
         {
@@ -197,9 +262,15 @@
           "rok": 2022,
           "czas": "99 min",
           "ocena": "7.1",
-          "gatunki": ["Akcja", "Horror", "Sci-fi"],
+          "gatunki": [
+            "Akcja",
+            "Horror",
+            "Sci-fi"
+          ],
           "opis": "Prequel Predatora osadzony w XVIII-wiecznej Ameryce. Młoda wojowniczka Comanche przeciwko obcemu myśliwemu. Minimalistyczny, napięty, bez zbędnych słów.",
-          "platformy": ["Disney+"],
+          "platformy": [
+            "Disney+"
+          ],
           "emoji": "🏹"
         }
       ],
@@ -251,9 +322,15 @@
           "rok": 1972,
           "czas": "175 min",
           "ocena": "9.2",
-          "gatunki": ["Dramat", "Kryminał"],
+          "gatunki": [
+            "Dramat",
+            "Kryminał"
+          ],
           "opis": "Historia mafijnej dynastii Corleone. Najwyżej oceniany film na IMDb przez lata. Perfekcja scenariusza, reżyserii i aktorstwa.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "🌹"
         },
         {
@@ -262,9 +339,14 @@
           "rok": 1975,
           "czas": "133 min",
           "ocena": "8.7",
-          "gatunki": ["Dramat"],
+          "gatunki": [
+            "Dramat"
+          ],
           "opis": "R.P. McMurphy trafia do szpitala psychiatrycznego. Jack Nicholson, 5 Oscarów, walka o wolność i godność człowieka.",
-          "platformy": ["HBO Max", "Prime Video"],
+          "platformy": [
+            "HBO Max",
+            "Prime Video"
+          ],
           "emoji": "🐦"
         },
         {
@@ -273,9 +355,15 @@
           "rok": 1979,
           "czas": "147 min",
           "ocena": "8.4",
-          "gatunki": ["Dramat", "Wojenny"],
+          "gatunki": [
+            "Dramat",
+            "Wojenny"
+          ],
           "opis": "Kapitan Willard jedzie w górę rzeki Mekong, by zamordować zbuntowanego oficera Kurtza. Coppola i Conrad razem — obsesja, chaos, piękno.",
-          "platformy": ["Mubi", "Apple TV+"],
+          "platformy": [
+            "Mubi",
+            "Apple TV+"
+          ],
           "emoji": "🌊"
         },
         {
@@ -284,9 +372,16 @@
           "rok": 1993,
           "czas": "195 min",
           "ocena": "9.0",
-          "gatunki": ["Dramat", "Historia", "Wojenny"],
+          "gatunki": [
+            "Dramat",
+            "Historia",
+            "Wojenny"
+          ],
           "opis": "Oskar Schindler ratuje ponad tysiąc Żydów w czasie Holokaustu. Spielberg w czerni i bieli. Jeden z najtrudniejszych i najważniejszych filmów.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "🕯️"
         },
         {
@@ -295,9 +390,15 @@
           "rok": 1968,
           "czas": "149 min",
           "ocena": "8.3",
-          "gatunki": ["Sci-fi", "Przygodowy"],
+          "gatunki": [
+            "Sci-fi",
+            "Przygodowy"
+          ],
           "opis": "Stanley Kubrick bada początki człowieczeństwa i przyszłość AI. Film, który wyprzedził technologię o 30 lat i nadal wygląda lepiej niż wiele współczesnych produkcji.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "🌌"
         }
       ],
@@ -349,9 +450,15 @@
           "rok": 2017,
           "czas": "3 sezony",
           "ocena": "8.8",
-          "gatunki": ["Sci-fi", "Thriller", "Dramat"],
+          "gatunki": [
+            "Sci-fi",
+            "Thriller",
+            "Dramat"
+          ],
           "opis": "Zaginięcie dziecka w małym miasteczku otwiera portal do podróży w czasie. Jeden z najbardziej precyzyjnych scenariuszowo seriali w historii. Wymaga skupienia — nagradza obsesją.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "🌀"
         },
         {
@@ -360,9 +467,15 @@
           "rok": 2016,
           "czas": "2 sezony",
           "ocena": "8.6",
-          "gatunki": ["Sci-fi", "Dramat", "Western"],
+          "gatunki": [
+            "Sci-fi",
+            "Dramat",
+            "Western"
+          ],
           "opis": "Park rozrywki z androidami — co się stanie, gdy maszyny się przebudzą? Sezony 1 i 2 to filozofia w hollywoodzkiej produkcji. Sezon 3 i 4 — do własnej oceny.",
-          "platformy": ["HBO Max"],
+          "platformy": [
+            "HBO Max"
+          ],
           "emoji": "🤖"
         },
         {
@@ -371,9 +484,15 @@
           "rok": 2011,
           "czas": "6 sezonów",
           "ocena": "8.0",
-          "gatunki": ["Sci-fi", "Dramat", "Antologia"],
+          "gatunki": [
+            "Sci-fi",
+            "Dramat",
+            "Antologia"
+          ],
           "opis": "Każdy odcinek to osobna historia o technologii i jej ciemnej stronie. Najlepsze odcinki: Nosedive, USS Callister, San Junipero. Można oglądać w dowolnej kolejności.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "📺"
         },
         {
@@ -382,9 +501,15 @@
           "rok": 2022,
           "czas": "2 sezony",
           "ocena": "8.7",
-          "gatunki": ["Sci-fi", "Dramat", "Thriller"],
+          "gatunki": [
+            "Sci-fi",
+            "Dramat",
+            "Thriller"
+          ],
           "opis": "Pracownicy firmy mają chirurgicznie oddzielone wspomnienia życia prywatnego od zawodowego. Minimalistyczny, przerażający i uzależniający.",
-          "platformy": ["Apple TV+"],
+          "platformy": [
+            "Apple TV+"
+          ],
           "emoji": "🏢"
         },
         {
@@ -393,9 +518,16 @@
           "rok": 2019,
           "czas": "4 sezony",
           "ocena": "8.7",
-          "gatunki": ["Akcja", "Sci-fi", "Komedia", "Satyra"],
+          "gatunki": [
+            "Akcja",
+            "Sci-fi",
+            "Komedia",
+            "Satyra"
+          ],
           "opis": "Superherosi to gwiazdy korporacyjne bez moralności. Antidotum na MCU dla dorosłych — brutalny, polityczny i uzależniający od pierwszego odcinka.",
-          "platformy": ["Prime Video"],
+          "platformy": [
+            "Prime Video"
+          ],
           "emoji": "💥"
         }
       ],
@@ -449,9 +581,16 @@
           "rok": 2018,
           "czas": "127 min",
           "ocena": "7.3",
-          "gatunki": ["Horror", "Dramat", "Tajemnica"],
+          "gatunki": [
+            "Horror",
+            "Dramat",
+            "Tajemnica"
+          ],
           "opis": "Po śmierci matki rodzina zaczyna odkrywać jej mroczne sekrety. Najgorzej oceniany film na Rotten Tomatoes przez widzów w dniu premiery — i jeden z najlepszych horrorów dekady.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "🪆"
         },
         {
@@ -460,9 +599,16 @@
           "rok": 2017,
           "czas": "104 min",
           "ocena": "7.7",
-          "gatunki": ["Horror", "Thriller", "Komedia"],
+          "gatunki": [
+            "Horror",
+            "Thriller",
+            "Komedia"
+          ],
           "opis": "Czarny mężczyzna jedzie poznać białą rodzinę swojej dziewczyny. Film, który straszy tym, co zbyt realne. Oscar za scenariusz dla Jordana Peele'a.",
-          "platformy": ["Prime Video", "Netflix"],
+          "platformy": [
+            "Prime Video",
+            "Netflix"
+          ],
           "emoji": "🎨"
         },
         {
@@ -471,9 +617,15 @@
           "rok": 1980,
           "czas": "146 min",
           "ocena": "8.4",
-          "gatunki": ["Horror", "Dramat"],
+          "gatunki": [
+            "Horror",
+            "Dramat"
+          ],
           "opis": "Pisarz zamknięty z rodziną w hotelu na zimę. Kubrick i King — ich konflikt o adaptację jest słynny. Film jest wizjonerski. Jack Nicholson w roli życia.",
-          "platformy": ["Netflix", "HBO Max"],
+          "platformy": [
+            "Netflix",
+            "HBO Max"
+          ],
           "emoji": "🪓"
         },
         {
@@ -482,9 +634,16 @@
           "rok": 2019,
           "czas": "148 min",
           "ocena": "7.1",
-          "gatunki": ["Horror", "Dramat", "Tajemnica"],
+          "gatunki": [
+            "Horror",
+            "Dramat",
+            "Tajemnica"
+          ],
           "opis": "Grupka znajomych jedzie na szwedzkie midsommerfest. Horror w pełnym słońcu, wśród kwiatów i śpiewu. Jeden z najbardziej oryginalnych filmów dekady.",
-          "platformy": ["Prime Video", "Apple TV+"],
+          "platformy": [
+            "Prime Video",
+            "Apple TV+"
+          ],
           "emoji": "🌸"
         },
         {
@@ -493,9 +652,16 @@
           "rok": 2001,
           "czas": "101 min",
           "ocena": "7.6",
-          "gatunki": ["Horror", "Tajemnica", "Dramat"],
+          "gatunki": [
+            "Horror",
+            "Tajemnica",
+            "Dramat"
+          ],
           "opis": "Nicole Kidman chroni swoje dzieci w zamkniętym domu na wyspie. Klimatyczny horror gotycki, który buduje grozę przez niedomówienia. Zakończenie satysfakcjonujące.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "🕯️"
         }
       ],
@@ -547,9 +713,15 @@
           "rok": 1989,
           "czas": "96 min",
           "ocena": "7.6",
-          "gatunki": ["Komedia", "Romans"],
+          "gatunki": [
+            "Komedia",
+            "Romans"
+          ],
           "opis": "Harry i Sally spotykają się pięć razy przez 12 lat i dyskutują, czy mężczyzna i kobieta mogą być tylko przyjaciółmi. Dialog jak żyłka elektryczna — nadal jeden z najlepiej napisanych romcomów.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "☕"
         },
         {
@@ -558,9 +730,16 @@
           "rok": 2009,
           "czas": "95 min",
           "ocena": "7.7",
-          "gatunki": ["Komedia", "Romans", "Dramat"],
+          "gatunki": [
+            "Komedia",
+            "Romans",
+            "Dramat"
+          ],
           "opis": "Historia miłości opowiedziana w niechronologicznej kolejności. Tytuł: 'To nie jest historia miłosna'. Uczciwy, zabawny i melancholijny jednocześnie.",
-          "platformy": ["Prime Video", "HBO Max"],
+          "platformy": [
+            "Prime Video",
+            "HBO Max"
+          ],
           "emoji": "📅"
         },
         {
@@ -569,9 +748,16 @@
           "rok": 2004,
           "czas": "108 min",
           "ocena": "8.3",
-          "gatunki": ["Romans", "Sci-fi", "Dramat"],
+          "gatunki": [
+            "Romans",
+            "Sci-fi",
+            "Dramat"
+          ],
           "opis": "Po rozstaniu para wymazuje wspomnienia o sobie. Jim Carrey i Kate Winslet. Scenariusz Charliego Kaufmana — surrealistyczny, ale emocjonalnie precyzyjny jak skalpel.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "🧠"
         },
         {
@@ -580,9 +766,15 @@
           "rok": 2020,
           "czas": "90 min",
           "ocena": "7.4",
-          "gatunki": ["Komedia", "Romans", "Sci-fi"],
+          "gatunki": [
+            "Komedia",
+            "Romans",
+            "Sci-fi"
+          ],
           "opis": "Dwoje nieznajomych utknęło w pętli dnia weselnego. Lżejszy Dzień Świstaka z niespodziewaną filozofią. Idealne 90 minut na każdy wieczór.",
-          "platformy": ["Prime Video"],
+          "platformy": [
+            "Prime Video"
+          ],
           "emoji": "🌴"
         },
         {
@@ -591,9 +783,17 @@
           "rok": 2013,
           "czas": "123 min",
           "ocena": "7.8",
-          "gatunki": ["Romans", "Komedia", "Dramat", "Sci-fi"],
+          "gatunki": [
+            "Romans",
+            "Komedia",
+            "Dramat",
+            "Sci-fi"
+          ],
           "opis": "Mężczyzna odkrywa, że potrafi cofać się w czasie. Używa tego do miłości. Richard Curtis i podróże w czasie jako metafora uważności w codziennym życiu.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "⏰"
         }
       ],
@@ -645,9 +845,15 @@
           "rok": 2018,
           "czas": "100 min",
           "ocena": "8.2",
-          "gatunki": ["Dokumentalny", "Sport", "Przygodowy"],
+          "gatunki": [
+            "Dokumentalny",
+            "Sport",
+            "Przygodowy"
+          ],
           "opis": "Alex Honnold wspina się bez liny na El Capitan (900m). Oscar za najlepszy dokument. Napięcie nieporównywalne z fikcją — bo wszystko jest prawdziwe.",
-          "platformy": ["Disney+"],
+          "platformy": [
+            "Disney+"
+          ],
           "emoji": "🧗"
         },
         {
@@ -656,9 +862,15 @@
           "rok": 2017,
           "czas": "96 min",
           "ocena": "7.9",
-          "gatunki": ["Dokumentalny", "Sport", "Kryminał"],
+          "gatunki": [
+            "Dokumentalny",
+            "Sport",
+            "Kryminał"
+          ],
           "opis": "Filmowiec eksperymentuje na sobie z dopingiem. Przypadkowo trafia na whistleblowera z rosyjskiego systemu dopingowego. Oscar za najlepszy dokument 2018.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "💉"
         },
         {
@@ -667,9 +879,14 @@
           "rok": 2020,
           "czas": "94 min",
           "ocena": "7.6",
-          "gatunki": ["Dokumentalny", "Dramat"],
+          "gatunki": [
+            "Dokumentalny",
+            "Dramat"
+          ],
           "opis": "Byli pracownicy Facebooka, Twittera i Google wyjaśniają mechanizmy uzależnienia zaprojektowane w mediach społecznościowych. Niepokojące i natychmiast aktualne.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "📱"
         },
         {
@@ -678,9 +895,16 @@
           "rok": 2010,
           "czas": "104 min",
           "ocena": "8.5",
-          "gatunki": ["Dokumentalny", "Sport", "Biografia"],
+          "gatunki": [
+            "Dokumentalny",
+            "Sport",
+            "Biografia"
+          ],
           "opis": "Historia Ayrtona Senny — mistrzostw F1 i jego śmierci w 1994. Działa jako thriller, romans i tragedia grecka jednocześnie. Nieznajomość F1 nie przeszkadza.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "🏎️"
         },
         {
@@ -689,9 +913,14 @@
           "rok": 2016,
           "czas": "100 min",
           "ocena": "8.2",
-          "gatunki": ["Dokumentalny", "Historia"],
+          "gatunki": [
+            "Dokumentalny",
+            "Historia"
+          ],
           "opis": "Reżyserka Ava DuVernay analizuje 13. poprawkę i masowe więziennictwo w USA jako kontynuację niewolnictwa inną formą. Zmienia perspektywę — niezależnie od politycznych poglądów.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "⚖️"
         }
       ],
@@ -743,9 +972,15 @@
           "rok": 2001,
           "czas": "125 min",
           "ocena": "8.6",
-          "gatunki": ["Animacja", "Przygodowy", "Familijny"],
+          "gatunki": [
+            "Animacja",
+            "Przygodowy",
+            "Familijny"
+          ],
           "opis": "Chihiro wpada do świata duchów i musi pracować, żeby uratować rodziców. Miyazaki i Studio Ghibli w szczytowej formie. Oscar za najlepszą animację.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "🐉"
         },
         {
@@ -754,9 +989,16 @@
           "rok": 1997,
           "czas": "81 min",
           "ocena": "8.0",
-          "gatunki": ["Animacja", "Thriller", "Horror"],
+          "gatunki": [
+            "Animacja",
+            "Thriller",
+            "Horror"
+          ],
           "opis": "Piosenkarka J-pop przechodzi na aktorstwo. Prześladowca, zatarcie granicy rzeczywistości i fikcji. Thriller psychologiczny w animacji — inspiracja dla Black Swan.",
-          "platformy": ["Mubi", "Prime Video"],
+          "platformy": [
+            "Mubi",
+            "Prime Video"
+          ],
           "emoji": "🪞"
         },
         {
@@ -765,9 +1007,16 @@
           "rok": 2020,
           "czas": "100 min",
           "ocena": "8.1",
-          "gatunki": ["Animacja", "Komedia", "Dramat", "Muzyczny"],
+          "gatunki": [
+            "Animacja",
+            "Komedia",
+            "Dramat",
+            "Muzyczny"
+          ],
           "opis": "Muzyk jazz wpada do krainy dusz przed narodzinami. Pixar zadaje pytanie: po co żyjemy? Jeden z filozoficznie najodważniejszych filmów Pixara.",
-          "platformy": ["Disney+"],
+          "platformy": [
+            "Disney+"
+          ],
           "emoji": "🎹"
         },
         {
@@ -776,9 +1025,16 @@
           "rok": 2021,
           "czas": "2 sezony",
           "ocena": "9.0",
-          "gatunki": ["Animacja", "Akcja", "Sci-fi", "Dramat"],
+          "gatunki": [
+            "Animacja",
+            "Akcja",
+            "Sci-fi",
+            "Dramat"
+          ],
           "opis": "Serial oparty na grze League of Legends — ale działa bez znajomości gry. Historia dwóch sióstr i konfliktu między miastem poniżej i powyżej. Najlepiej oceniany serial Netflix.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "⚡"
         },
         {
@@ -787,9 +1043,15 @@
           "rok": 2014,
           "czas": "6 sezonów",
           "ocena": "8.7",
-          "gatunki": ["Animacja", "Komedia", "Dramat"],
+          "gatunki": [
+            "Animacja",
+            "Komedia",
+            "Dramat"
+          ],
           "opis": "Koń-aktor z depresją próbuje wrócić do Hollywood. Najbardziej precyzyjny portret uzależnienia i depresji w popkulturze. Boleśnie śmieszny i smutnyi jednocześnie.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "🐴"
         }
       ],
@@ -843,9 +1105,17 @@
           "rok": 2019,
           "czas": "130 min",
           "ocena": "7.9",
-          "gatunki": ["Kryminał", "Komedia", "Dramat", "Tajemnica"],
+          "gatunki": [
+            "Kryminał",
+            "Komedia",
+            "Dramat",
+            "Tajemnica"
+          ],
           "opis": "Znany pisarz umiera, a detektyw bada sprawę. Film Riana Johnsona, który odwraca formułę kryminału. Angażuje, bawi i zaskakuje — działał dobrze na każdej parze.",
-          "platformy": ["Prime Video", "Netflix"],
+          "platformy": [
+            "Prime Video",
+            "Netflix"
+          ],
           "emoji": "🔍"
         },
         {
@@ -854,9 +1124,16 @@
           "rok": 2018,
           "czas": "90 min",
           "ocena": "7.5",
-          "gatunki": ["Horror", "Sci-fi", "Dramat"],
+          "gatunki": [
+            "Horror",
+            "Sci-fi",
+            "Dramat"
+          ],
           "opis": "Rodzina przeżywa w świecie, w którym dźwięk przyciąga potwory. Film, który można oglądać w ciszy — dosłownie. Krótki, napięty, genialnie prosty pomysł.",
-          "platformy": ["Prime Video", "Paramount+"],
+          "platformy": [
+            "Prime Video",
+            "Paramount+"
+          ],
           "emoji": "🤫"
         },
         {
@@ -865,9 +1142,16 @@
           "rok": 2018,
           "czas": "100 min",
           "ocena": "7.0",
-          "gatunki": ["Komedia", "Akcja", "Kryminał"],
+          "gatunki": [
+            "Komedia",
+            "Akcja",
+            "Kryminał"
+          ],
           "opis": "Para organizuje wieczór z grami, który niechcący wciąga ich w prawdziwy kryminał. Jeden z najlepiej napisanych komediowych scenariuszy ostatnich lat.",
-          "platformy": ["HBO Max", "Netflix"],
+          "platformy": [
+            "HBO Max",
+            "Netflix"
+          ],
           "emoji": "🎲"
         },
         {
@@ -876,9 +1160,16 @@
           "rok": 2016,
           "czas": "128 min",
           "ocena": "8.0",
-          "gatunki": ["Romans", "Musical", "Dramat"],
+          "gatunki": [
+            "Romans",
+            "Musical",
+            "Dramat"
+          ],
           "opis": "Muzyk jazzowy i aspirująca aktorka w Los Angeles. Musical z piękną fotografią, rozmowami o marzeniach i zakończeniem, o którym można rozmawiać godzinami.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "🎷"
         },
         {
@@ -887,9 +1178,16 @@
           "rok": 2014,
           "czas": "99 min",
           "ocena": "8.1",
-          "gatunki": ["Komedia", "Przygodowy", "Kryminał"],
+          "gatunki": [
+            "Komedia",
+            "Przygodowy",
+            "Kryminał"
+          ],
           "opis": "Wes Anderson i jego symetryczna estetyka w całej krasie. Śmieszny, piękny i lekko absurdalny. Ralph Fiennes jako legendarny concierge hotelu.",
-          "platformy": ["Disney+", "Prime Video"],
+          "platformy": [
+            "Disney+",
+            "Prime Video"
+          ],
           "emoji": "🏨"
         }
       ],
@@ -941,9 +1239,16 @@
           "rok": 2013,
           "czas": "89 min",
           "ocena": "7.2",
-          "gatunki": ["Sci-fi", "Thriller", "Tajemnica"],
+          "gatunki": [
+            "Sci-fi",
+            "Thriller",
+            "Tajemnica"
+          ],
           "opis": "8 przyjaciół na kolacji podczas przejścia komety. Nakręcony bez scenariusza za 50 000 $. Jeden z najlepszych niezależnych sci-fi thrillerów ostatniej dekady.",
-          "platformy": ["Prime Video", "Mubi"],
+          "platformy": [
+            "Prime Video",
+            "Mubi"
+          ],
           "emoji": "☄️"
         },
         {
@@ -952,9 +1257,16 @@
           "rok": 2011,
           "czas": "100 min",
           "ocena": "7.8",
-          "gatunki": ["Akcja", "Dramat", "Kryminał"],
+          "gatunki": [
+            "Akcja",
+            "Dramat",
+            "Kryminał"
+          ],
           "opis": "Nocny kierowca getaway w LA. Ryan Gosling, minimalistyczny dialog, estetyka jak muzeum. Refn i slow-burn thriller w neonach.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "🚗"
         },
         {
@@ -963,9 +1275,16 @@
           "rok": 2014,
           "czas": "86 min",
           "ocena": "7.6",
-          "gatunki": ["Komedia", "Horror", "Mockumentary"],
+          "gatunki": [
+            "Komedia",
+            "Horror",
+            "Mockumentary"
+          ],
           "opis": "Ekipa dokumentalna filmuje czterech wampirów dzielących mieszkanie w Wellington. Taika Waititi w szczytowej formie. 86 minut bez jednej zbędnej sceny.",
-          "platformy": ["Prime Video", "HBO Max"],
+          "platformy": [
+            "Prime Video",
+            "HBO Max"
+          ],
           "emoji": "🦇"
         },
         {
@@ -974,9 +1293,16 @@
           "rok": 2013,
           "czas": "126 min",
           "ocena": "8.0",
-          "gatunki": ["Romans", "Sci-fi", "Dramat"],
+          "gatunki": [
+            "Romans",
+            "Sci-fi",
+            "Dramat"
+          ],
           "opis": "Mężczyzna zakochuje się w systemie operacyjnym. Spike Jonze i Joaquin Phoenix. Technicznie dłuższy, ale tempo sprawia, że czujesz go jak 90-minutową nowelę.",
-          "platformy": ["Netflix", "Prime Video"],
+          "platformy": [
+            "Netflix",
+            "Prime Video"
+          ],
           "emoji": "🎧"
         },
         {
@@ -985,9 +1311,15 @@
           "rok": 1995,
           "czas": "101 min",
           "ocena": "8.1",
-          "gatunki": ["Romans", "Dramat"],
+          "gatunki": [
+            "Romans",
+            "Dramat"
+          ],
           "opis": "Dwoje obcych spędza noc rozmawiając w Wiedniu. Richard Linklater i czysty dialog bez fabuły. Jeden z najpiękniejszych filmów o połączeniu z drugim człowiekiem.",
-          "platformy": ["Prime Video", "HBO Max"],
+          "platformy": [
+            "Prime Video",
+            "HBO Max"
+          ],
           "emoji": "🌅"
         }
       ],
@@ -1043,9 +1375,16 @@
           "rok": 1998,
           "czas": "103 min",
           "ocena": "8.2",
-          "gatunki": ["Komedia", "Dramat", "Sci-fi"],
+          "gatunki": [
+            "Komedia",
+            "Dramat",
+            "Sci-fi"
+          ],
           "opis": "Mężczyzna odkrywa, że całe jego życie to program telewizyjny. Jim Carrey w poważnej roli, film wyprzedził swoje czasy o 20 lat. Bezpieczny wybór — prawie nigdy nie rozczarowuje.",
-          "platformy": ["Prime Video", "Paramount+"],
+          "platformy": [
+            "Prime Video",
+            "Paramount+"
+          ],
           "emoji": "📡"
         },
         {
@@ -1054,9 +1393,16 @@
           "rok": 2010,
           "czas": "148 min",
           "ocena": "8.8",
-          "gatunki": ["Akcja", "Sci-fi", "Thriller"],
+          "gatunki": [
+            "Akcja",
+            "Sci-fi",
+            "Thriller"
+          ],
           "opis": "Złodziej, który kradnie sekrety ze snów. Nolan i logika snu w kinie akcji. Dobry do pierwszego seansu i do czwartego — kolejne warstwy znaczeń się nie kończą.",
-          "platformy": ["Netflix", "HBO Max"],
+          "platformy": [
+            "Netflix",
+            "HBO Max"
+          ],
           "emoji": "🌀"
         },
         {
@@ -1065,9 +1411,16 @@
           "rok": 2014,
           "czas": "169 min",
           "ocena": "8.7",
-          "gatunki": ["Sci-fi", "Dramat", "Przygodowy"],
+          "gatunki": [
+            "Sci-fi",
+            "Dramat",
+            "Przygodowy"
+          ],
           "opis": "Astronauci szukają nowej planety dla umierającej Ziemi. Nolan i fizycy razem. Długi, ale wizualnie i emocjonalnie jedno z największych doświadczeń kinowych. Na duży ekran.",
-          "platformy": ["Prime Video", "Paramount+"],
+          "platformy": [
+            "Prime Video",
+            "Paramount+"
+          ],
           "emoji": "🚀"
         },
         {
@@ -1076,9 +1429,14 @@
           "rok": 2022,
           "czas": "114 min",
           "ocena": "7.7",
-          "gatunki": ["Dramat", "Komedia"],
+          "gatunki": [
+            "Dramat",
+            "Komedia"
+          ],
           "opis": "Mężczyzna na irlandzkiej wyspie postanawia zakończyć przyjaźń bez wyjaśnienia. Film Martina McDonagha o samotności, sensie życia i absurdzie. Smutny i śmieszny jednocześnie.",
-          "platformy": ["Disney+"],
+          "platformy": [
+            "Disney+"
+          ],
           "emoji": "🏝️"
         },
         {
@@ -1087,9 +1445,14 @@
           "rok": 2019,
           "czas": "98 min",
           "ocena": "7.7",
-          "gatunki": ["Komedia", "Dramat"],
+          "gatunki": [
+            "Komedia",
+            "Dramat"
+          ],
           "opis": "Rodzina ukrywa przed babcią diagnozę raka i organizuje ślub jako wymówkę do spotkania. Komedia-dramat Lulu Wang o różnicy kulturowej i miłości przez kłamstwo.",
-          "platformy": ["Prime Video"],
+          "platformy": [
+            "Prime Video"
+          ],
           "emoji": "👵"
         }
       ],
@@ -1141,9 +1504,16 @@
           "rok": 2019,
           "czas": "130 min",
           "ocena": "7.9",
-          "gatunki": ["Kryminał", "Tajemnica", "Komedia"],
+          "gatunki": [
+            "Kryminał",
+            "Tajemnica",
+            "Komedia"
+          ],
           "opis": "Idealny na jesień: wielka rodzina, zamknięty dom, tajemnica śmierci. Rian Johnson i estetyka gotyckich kryminałów w nowoczesnym wykonaniu.",
-          "platformy": ["Prime Video", "Netflix"],
+          "platformy": [
+            "Prime Video",
+            "Netflix"
+          ],
           "emoji": "🍂"
         },
         {
@@ -1152,9 +1522,16 @@
           "rok": 2015,
           "czas": "119 min",
           "ocena": "6.7",
-          "gatunki": ["Horror", "Romans", "Tajemnica"],
+          "gatunki": [
+            "Horror",
+            "Romans",
+            "Tajemnica"
+          ],
           "opis": "Guillermo del Toro i jego góra duchów. Bardziej gotycki romans niż horror. Wizualnie jeden z najpiękniejszych filmów dekady — czerwień, złoto i błękit.",
-          "platformy": ["Prime Video", "Peacock"],
+          "platformy": [
+            "Prime Video",
+            "Peacock"
+          ],
           "emoji": "🌹"
         },
         {
@@ -1163,9 +1540,15 @@
           "rok": 2021,
           "czas": "155 min",
           "ocena": "8.0",
-          "gatunki": ["Sci-fi", "Przygodowy", "Dramat"],
+          "gatunki": [
+            "Sci-fi",
+            "Przygodowy",
+            "Dramat"
+          ],
           "opis": "Denis Villeneuve adaptuje powieść Herberta. Pustynna planeta, polityka imperialna i wizualia, które trzeba oglądać na jak największym ekranie. Zimowy epik.",
-          "platformy": ["HBO Max"],
+          "platformy": [
+            "HBO Max"
+          ],
           "emoji": "🌵"
         },
         {
@@ -1174,9 +1557,15 @@
           "rok": 2019,
           "czas": "96 min",
           "ocena": "8.2",
-          "gatunki": ["Animacja", "Komedia", "Familijny"],
+          "gatunki": [
+            "Animacja",
+            "Komedia",
+            "Familijny"
+          ],
           "opis": "Leniwy listonosz trafia na Daleki Północ i przypadkowo tworzy mit Świętego Mikołaja. Najcieplejszy film animowany dekady. Technika animacji: przełomowa. Emocje: niespodziewanie głębokie.",
-          "platformy": ["Netflix"],
+          "platformy": [
+            "Netflix"
+          ],
           "emoji": "❄️"
         },
         {
@@ -1185,9 +1574,16 @@
           "rok": 2015,
           "czas": "156 min",
           "ocena": "8.0",
-          "gatunki": ["Dramat", "Przygodowy", "Western"],
+          "gatunki": [
+            "Dramat",
+            "Przygodowy",
+            "Western"
+          ],
           "opis": "Traper ocalały po ataku niedźwiedzia szuka zemsty. DiCaprio, Oscar, Chivo Lubezki i zdjęcia w naturalnym świetle. Brutalne i zarazem hipnotyzujące.",
-          "platformy": ["Disney+", "Prime Video"],
+          "platformy": [
+            "Disney+",
+            "Prime Video"
+          ],
           "emoji": "🐻"
         }
       ],
