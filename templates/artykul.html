@@ -114,7 +114,9 @@
 
       {% for sek in art.sekcje %}
       <h2 id="s{{ loop.index }}">{{ sek.h2 }}</h2>
-      <p>{{ sek.tresc }}</p>
+      {% for par in sek.tresc.split('\n\n') %}
+      <p>{{ par }}</p>
+      {% endfor %}
       {% endfor %}
 
       <!-- FILMY POLECANE -->

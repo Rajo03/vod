@@ -4,7 +4,7 @@
     "site_tagline": "Filmy na żądanie",
     "site_url": "https://vod-kohl-one.vercel.app",
     "description": "Wybierz film szybciej. Rankingi, listy i rekomendacje bez spoilerów — konkretnie, bez marnowania wieczoru.",
-    "updated": "2026-07-06",
+    "updated": "2026-11-08",
     "slogan": "Wybierz film szybciej. Oglądaj lepiej."
   },
   "rankingi": [
@@ -14,23 +14,39 @@
       "desc": "Ranking 10 najlepszych thrillerów psychologicznych. Filmy, które angażują umysł, trzymają w napięciu i nie zdradzają zakończenia do samego końca.",
       "keywords": "thriller psychologiczny, najlepsze thrillery, ranking thrillerów, thriller na wieczór",
       "h1": "Top 10 thrillery psychologiczne — filmy, które wbijają w fotel",
-      "intro": "Dobry thriller psychologiczny robi jedną rzecz: nie puszcza. Oto 10 filmów, które podniosły poprzeczkę gatunku i zostają z widzem długo po napisach końcowych.",
+      "intro": "Dobry thriller psychologiczny robi jedną rzecz: nie puszcza. Nie straszy potworem ani nie zasypuje pościgami — zamiast tego podważa to, co wydawało się pewne. Oto filmy, które podniosły poprzeczkę gatunku i zostają z widzem długo po napisach. Lista jest subiektywna, ale każdy tytuł wytrzymuje próbę czasu.",
       "sekcje": [
         {
           "h2": "Co odróżnia thriller psychologiczny od zwykłego thrillera?",
-          "tresc": "Klasyczny thriller stawia na akcję i pościgi. Thriller psychologiczny atakuje od środka — manipuluje percepcją, buduje napięcie przez wątpliwości i zmusza do pytania: kto jest wiarygodny? Najlepsze tytuły tego gatunku działają jak zagadka, której rozwiązanie zmienia wszystko, co widziałeś wcześniej."
+          "tresc": "Klasyczny thriller stawia na akcję: pościgi, strzelaniny, zegar tykający w tle. Thriller psychologiczny atakuje od środka. Manipuluje percepcją, buduje napięcie przez wątpliwości i zmusza do pytania, kto mówi prawdę, a kto tylko w nią wierzy. Zamiast widowiska dostajemy grę z pamięcią, motywacją i poczuciem winy.\n\nGranica bywa płynna, bo wiele filmów łączy oba podejścia. Sedno pozostaje to samo: w thrillerze psychologicznym najgroźniejszy nie jest przeciwnik z nożem, lecz sytuacja, w której nie można ufać własnym zmysłom. Dlatego takie filmy działa się lepiej w skupieniu, najlepiej bez telefonu w ręce."
         },
         {
           "h2": "Thrillery, które zdefiniowały gatunek",
-          "tresc": "Milczenie owiec (1991) to punkt odniesienia dla całego gatunku — rozmowy między Clarice Starling a Hannibalem Lecterem to lekcja kinowego napięcia. Prestiż (2006) Christophera Nolana bawi się percepcją widza tak skutecznie, że drugi seans odkrywa zupełnie inny film. Siedem (1995) Davida Finchera wciąga w mroczne śledztwo, z zakończeniem które robi wrażenie od 30 lat."
+          "tresc": "Milczenie owiec (1991) to punkt odniesienia — rozmowy Clarice Starling z Hannibalem Lecterem to lekcja budowania napięcia samym dialogiem. Siedem (1995) Davida Finchera wciąga w mroczne śledztwo i kończy się sceną, o której mówi się do dziś. Prestiż (2006) Christophera Nolana bawi się percepcją tak skutecznie, że drugi seans to niemal inny film.\n\nDo kanonu wypada dodać Psychozę (1960), która nauczyła kino, że bohater może zniknąć w połowie opowieści, oraz Zaginioną dziewczynę (2014) — współczesny dowód, że thriller może być jednocześnie rozrywką i studium małżeństwa. Wspólny mianownik tych tytułów jest prosty: żaden nie tłumaczy widzowi wszystkiego od razu."
         },
         {
           "h2": "Nowe thrillery warte uwagi",
-          "tresc": "Parasite (2019) Bonga Joon-ho technicznie jest dramatem, ale jego ostatni akt to czyste napięcie psychologiczne — i Oscar za najlepszy film. Uncut Gems (2019) z Adamem Sandlerem to 135 minut nieprzerwanie rosnącego stresu. Kobieta w oknie (2021) na platformach streamingowych przywraca stary styl thrillerów w nowej oprawie."
+          "tresc": "Parasite (2019) Bonga Joon-ho formalnie jest dramatem, ale jego ostatni akt to czyste napięcie psychologiczne — i Oscar za najlepszy film. Uncut Gems (2019) z Adamem Sandlerem to ponad dwie godziny nieprzerwanego stresu, w którym bohater sam jest swoim największym zagrożeniem. Obie produkcje pokazują, że gatunek nie potrzebuje fantastyki, żeby trzymać w fotelu.\n\nZ nowszych tytułów warto sprawdzać filmy, które mieszają thriller z horrorem i dramatem rodzinnym. Czytaj recenzje uważnie, ale nie za dużo — jeden akapit ze streszczeniem potrafi zdradzić cały zwrot akcji. Lepiej zaufać ogólnemu tonowi opinii niż szczegółowym opisom fabuły."
         },
         {
-          "h2": "Jak wybierać thriller na dany nastrój?",
-          "tresc": "Na spokojny wieczór: Inne życie (The Others) lub Szósty zmysł — napięcie bez przemocy. Na wieczór z partnerem: Zaginiona dziewczyna (Gone Girl) — gatunek, który działa jako studium relacji. Dla fanów łamigłówek: Świadek (The Witness) lub Prestiż. Unikaj Uncut Gems jeśli masz stresujący tydzień za sobą — nie relaksuje, robi odwrotnie."
+          "h2": "Jak działa napięcie w thrillerze psychologicznym",
+          "tresc": "Napięcie bierze się z różnicy między tym, co wie widz, a tym, co wiedzą bohaterowie. Hitchcock tłumaczył to na przykładzie bomby pod stołem: jeśli widz wie o ładunku, a postacie rozmawiają spokojnie, każda sekunda staje się nie do zniesienia. Thrillery psychologiczne dokładają do tego niepewność co do samej rzeczywistości.\n\nNarrator może kłamać, pamięć bohatera zawodzić, a świat wokół okazywać się inny, niż sądziliśmy. Dlatego takie filmy dobrze znoszą powtórny seans: znając zakończenie, zaczynasz dostrzegać wskazówki, które wcześniej uciekały uwadze. To rzadka cecha kina — film nie traci, lecz zyskuje przy drugim obejrzeniu."
+        },
+        {
+          "h2": "Reżyserzy, których warto śledzić po tej liście",
+          "tresc": "Jeśli któryś tytuł Ci się spodoba, sięgnij po resztę filmografii. David Fincher konsekwentnie buduje mroczne, precyzyjnie zmontowane opowieści o obsesji. Christopher Nolan lubi gry z czasem i percepcją. Alfred Hitchcock wynalazł wiele chwytów, które współczesne thrillery wciąż powtarzają.\n\nBong Joon-ho pokazuje, że napięcie można budować także w dramacie społecznym, a Ari Aster i Robert Eggers udowadniają, że granica między thrillerem i horrorem bywa umowna. Poznanie stylu jednego reżysera pozwala szybciej wyłapywać filmy, które trafią w Twój gust — i oszczędza wieczory zmarnowane na przypadkowe tytuły."
+        },
+        {
+          "h2": "Thriller na jeden wieczór czy maraton",
+          "tresc": "Thrillery psychologiczne świetnie nadają się na pojedynczy seans, ale nie warto łączyć kilku najmroczniejszych w jeden wieczór. Po filmie takim jak Siedem lepiej zostawić sobie czas na wyciszenie, a następny seans wybrać lżejszy. Umysł potrzebuje przerwy, żeby przetrawić to, co zobaczył.\n\nJeśli planujesz maraton, mieszaj tonacje: po mroczniejszym tytule włącz coś z odrobiną humoru, jak Prestiż, który mimo napięcia jest przede wszystkim zabawą w iluzję. Zwróć też uwagę na czas trwania, bo długie produkcje wymagają świeżej głowy. Lepiej obejrzeć dwa dobre filmy niż pięć na wpół przytomnie."
+        },
+        {
+          "h2": "Jak oglądać, żeby nie psuć sobie seansu",
+          "tresc": "Najważniejsza zasada brzmi: nie czytaj streszczeń przed filmem. W thrillerze psychologicznym zwrot akcji jest często sednem doświadczenia, a jedno zdanie z opisu na portalu może go zniszczyć. Unikaj też zwiastunów, które potrafią pokazać połowę fabuły.\n\nWyłącz powiadomienia, zadbaj o ciemne pomieszczenie i dobry dźwięk, bo napięcie opiera się na ciszy i szczegółach. Po seansie warto porozmawiać o interpretacji — wiele z tych filmów dopuszcza kilka odczytań zakończenia. To część przyjemności, nie zbędny dodatek."
+        },
+        {
+          "h2": "Jak wybrać thriller na dany nastrój?",
+          "tresc": "Na spokojny wieczór: Inne życie (The Others) lub Szósty zmysł — napięcie bez przemocy. Na wieczór z partnerem: Zaginiona dziewczyna — gatunek, który działa jako studium relacji. Dla fanów łamigłówek: Prestiż albo filmy, które każą uważnie składać sceny w całość.\n\nUnikaj Uncut Gems, jeśli masz za sobą stresujący tydzień — ten film nie relaksuje, robi dokładnie odwrotnie. Zamiast tego sprawdź, czy masz ochotę na zagadkę, czy na atmosferę. Odpowiedź na to jedno pytanie skraca wybór z pół godziny do kilku minut."
         }
       ],
       "filmy": [
@@ -142,19 +158,27 @@
       "faq": [
         {
           "q": "Który thriller psychologiczny polecasz na początek?",
-          "a": "Szósty zmysł (1999) — angażujący, nie zbyt mroczny, z jednym z najsłynniejszych zwrotów akcji w historii kina. Idealna propozycja dla osób nieznających gatunku."
+          "a": "Szósty zmysł (1999) — angażujący, niezbyt mroczny, z jednym z najsłynniejszych zwrotów akcji w historii kina. To dobra propozycja dla osób, które dopiero poznają gatunek i nie chcą zaczynać od ciężkich tematów."
         },
         {
           "q": "Czy thrillery psychologiczne muszą być przerażające?",
-          "a": "Nie. Thrillery psychologiczne operują napięciem i niepokojem, niekoniecznie strachem jak w horrorze. Prestiż czy Parasite to dreszcze bez krwi i jump-scare'ów."
+          "a": "Nie. Thrillery psychologiczne operują napięciem i niepokojem, a nie strachem jak horror. Prestiż czy Parasite to dreszcze bez krwi i jump scare'ów. Jeśli lubisz zagadki i napięcie, a nie przemoc, ten gatunek ma wiele do zaoferowania."
         },
         {
           "q": "Na jakich platformach streamingowych znajdę te thrillery?",
-          "a": "Milczenie owiec i Uncut Gems są na Netflix. Prestiż i Siedem na HBO Max. Parasite na Prime Video i Mubi. Dostępność może się zmieniać."
+          "a": "Dostępność zmienia się z miesiąca na miesiąc, więc przed seansem sprawdź aktualną ofertę w wyszukiwarce typu JustWatch. Wiele z tych tytułów krąży między Netflixem, HBO Max i Prime Video. Warto też sprawdzić wypożyczalnie online."
         },
         {
           "q": "Ile czasu trwają typowe thrillery psychologiczne?",
-          "a": "Większość mieści się w przedziale 100-135 minut. To optymalny czas, który pozwala zbudować napięcie bez przeciągania."
+          "a": "Większość mieści się w przedziale 100–135 minut. To optymalny czas, który pozwala zbudować napięcie bez przeciągania. Dłuższe produkcje wymagają większego skupienia, więc lepiej zaplanować je na wieczór bez pośpiechu."
+        },
+        {
+          "q": "Czy thrillery psychologiczne nadają się dla osób wrażliwych?",
+          "a": "To zależy od konkretnego filmu. Wiele z nich opiera się na napięciu, a nie na brutalności, jak Szósty zmysł czy Prestiż. Siedem i Milczenie owiec zawierają mroczne wątki kryminalne, więc przed seansem sprawdź kategorię wiekową i opisy ostrzeżeń na portalach filmowych."
+        },
+        {
+          "q": "Czy warto oglądać thrillery drugi raz?",
+          "a": "Tak, zwłaszcza te z zaskakującym finałem. Znając rozwiązanie, widzisz, jak scenariusz podrzuca wskazówki i jak aktorzy grają dwuznaczne sceny. Wiele osób uważa drugi seans za ciekawszy od pierwszego — to najlepszy test jakości thrillera."
         }
       ],
       "oferty": []
@@ -165,23 +189,39 @@
       "desc": "Ranking najlepszych filmów akcji z 2025 roku. Dynamiczne produkcje, które nie zawodzą — z recenzjami bez spoilerów.",
       "keywords": "filmy akcji 2025, najlepszy film akcji, ranking akcji, co oglądać 2025",
       "h1": "Najlepsze filmy akcji 2025 — ranking bez zbędnych słów",
-      "intro": "Rok 2025 przyniósł kilka prawdziwych niespodzianek w kinie akcji. Oto zestawienie tytułów, które warto zobaczyć — uszeregowane według tego, ile dają emocji za minutę seansu.",
+      "intro": "Rok 2025 przyniósł kilka prawdziwych niespodzianek w kinie akcji. Obok widowisk z ogromnymi budżetami pojawiły się mniejsze filmy, które wygrywały pomysłem i choreografią. Oto zestawienie tytułów, które warto zobaczyć — uszeregowane według tego, ile emocji dają za minutę seansu.",
       "sekcje": [
         {
-          "h2": "Co czyni dobry film akcji w 2026 roku?",
-          "tresc": "Dobra akcja musi teraz walczyć z przesytem efektów specjalnych. Widzowie są zmęczeni CGI-walkami bez ciężaru. Najlepsze tytuły 2025 wróciły do korzeni: choreografia walk, praktyczne efekty i protagoniści z motywacją. Mniej green screenu, więcej adrenaliny."
+          "h2": "Co czyni dobry film akcji?",
+          "tresc": "Dobry film akcji nie jest wyłącznie zbiorem wybuchów. Liczy się czytelność scen — widz musi wiedzieć, kto gdzie jest i dlaczego to ma znaczenie. Kolejny element to stawka: jeśli nie obchodzi nas bohater, najlepiej nakręcona bijatyka staje się pokazem kaskaderów.\n\nW 2025 roku widzieliśmy powrót do praktycznych efektów i dłuższych ujęć. Twórcy coraz częściej rezygnują z chaotycznego montażu na rzecz choreografii, którą naprawdę widać. To dobra wiadomość, bo właśnie czytelność odróżnia film akcji od hałaśliwego teledysku."
         },
         {
           "h2": "Produkcje z najwyższymi ocenami widzów",
-          "tresc": "Filmy akcji oceniane przez widzów powyżej 7.5/10 na serwisach filmowych to rzadkość — gatunek jest zalany przeciętnością. Wyróżniające się tytuły 2025 to produkcje, które zdecydowały się na konkretny styl i konsekwentnie go realizują przez cały czas trwania."
+          "tresc": "Na czele rankingów wciąż utrzymują się tytuły, które łączą spektakularne sceny z prostą, czytelną historią. Mad Max: Na drodze gniewu zachwyca inscenizacją pościgu, John Wick — precyzją choreografii i konsekwencją świata, a Top Gun: Maverick — zdjęciami lotniczymi, które trudno podrobić komputerowo.\n\nOceny widzów są dobrym punktem wyjścia, ale nie jedynym. Film może mieć wysoką średnią i nie trafić w Twój gust, jeśli nie lubisz konkretnego typu akcji. Warto czytać kilka opinii i zwracać uwagę na to, co recenzenci mówią o tempie oraz scenach, a nie tylko na samą notę."
         },
         {
           "h2": "Akcja z niespodziewaną głębią",
-          "tresc": "Furiosa (2024) Millera to prequel Mad Maxa z epickimi scenami i silną bohaterką. Everything Everywhere All at Once (2022, wciąż gorący tytuł) miesza multiverse, kung fu i filozofię z nieprawdopodobnym efektem. Dla fanów serii: Mission: Impossible — Dead Reckoning Part One (2023) z praktycznym motocyklem ze szczytu klifu."
+          "tresc": "Najciekawsze filmy akcji ostatnich lat udowadniają, że gatunek znosi poważne tematy. Everything Everywhere All at Once łączy absurdalny humor z opowieścią o rodzinie i żalu. Prey przenosi znaną serię w inne realia i zyskuje dzięki temu świeżość. W obu przypadkach akcja nie jest dodatkiem, lecz językiem, którym opowiadana jest emocja.\n\nTakie filmy działają dłużej niż jednorazowe widowiska. Po seansie zostaje nie tylko scena, ale też pytanie. Jeśli szukasz akcji, która nie kończy się w momencie napisów, warto właśnie tu zacząć."
+        },
+        {
+          "h2": "Rodzaje filmów akcji i dla kogo są",
+          "tresc": "Kino akcji nie jest jednym gatunkiem. Mamy strzelaniny i filmy wojenne, bijatyki i kino sztuk walki, heist movies o napadach, szpiegowskie thrillery, superhero i kino pościgów. Każdy podgatunek ma inne tempo i inne oczekiwania wobec widza.\n\nDla osoby, która nie lubi przemocy, najlepsze będą filmy przygodowe i heist movies, gdzie napięcie buduje plan, a nie liczba ofiar. Fani choreografii docenią kino sztuk walki, a miłośnicy widowisk — produkcje z dużym rozmachem. Wybór podgatunku jest ważniejszy niż tytuł z pierwszej strony rankingu."
+        },
+        {
+          "h2": "Jak ocenić film akcji bez spoilerów",
+          "tresc": "Zanim włączysz film, sprawdź reżysera i ekipę odpowiedzialną za sceny akcji. Jeśli odpowiadał za produkcje, które lubisz, jest spora szansa, że i tym razem trafi w Twój gust. Zwróć uwagę na długość — bardzo długie filmy akcji często mają problem z tempem w środkowej części.\n\nUnikaj szczegółowych opisów fabuły i zwiastunów zdradzających kluczowe sceny. Lepiej przeczytać dwa krótkie akapity recenzji i sprawdzić, czy autorzy chwalą czytelność starć. To prostsze kryterium niż ocena, która bywa zawyżona przez hype."
+        },
+        {
+          "h2": "Film akcji na wieczór we dwoje albo w grupie",
+          "tresc": "W grupie najlepiej sprawdzają się tytuły, które nie wymagają znajomości wcześniejszych części i mają wyraźny, szybki początek. Komedie akcji i heist movies są bezpieczniejsze niż mroczne thrillery wojenne, bo łatwiej znaleźć wspólny mianownik.\n\nWe dwoje warto wybierać filmy z wyraźnym bohaterem i emocjonalnym rdzeniem — wtedy nawet osoba, która nie przepada za gatunkiem, ma się czego chwycić. Jeśli gusta są bardzo różne, ustalcie zasadę: jedno wybiera dziś, drugie następnym razem. To brzmi banalnie, ale oszczędza pół godziny kłótni."
+        },
+        {
+          "h2": "Dobry seans akcji: dźwięk i ekran",
+          "tresc": "Kino akcji korzysta z dźwięku bardziej niż większość gatunków. Dobry soundbar lub słuchawki potrafią zmienić odbiór sceny pościgu, a źle ustawiony telewizor potrafi ją spłaszczyć. Jeśli masz taką opcję, wyłącz wygładzanie ruchu — w szybkich scenach częściej psuje obraz, niż pomaga.\n\nZadbaj też o warunki: zasłoń okna, jeśli oglądasz w dzień, i ustaw głośność tak, by dialogi były czytelne bez sięgania do pilota co pięć minut. Film akcji w połowie przygaszonym pokoju i na wbudowanych głośnikach traci wiele z tego, co twórcy zaplanowali."
         },
         {
           "h2": "Jak nie zmarnować wieczoru na słaby film akcji?",
-          "tresc": "Zasada prosta: sprawdź ocenę krytyków (Rotten Tomatoes) i widzów (IMDb) osobno. Rozbieżność powyżej 30 punktów to sygnał ostrzegawczy. Filmy akcji z niską oceną krytyków i wysoką widzów często są guilty pleasure — świadoma decyzja. Odwrotnie: małe szanse na dobre emocje."
+          "tresc": "Zasada pierwszych dwudziestu minut działa zaskakująco dobrze. Jeśli po tym czasie film nie daje żadnego powodu, żeby zostać — ciekawej postaci, pomysłu na scenę, napięcia — prawdopodobnie się nie rozkręci. Nie musisz wytrzymywać do końca tylko dlatego, że wybrałeś tytuł.\n\nPomaga też lista „do sprawdzenia” zamiast przypadkowego scrollowania. Wybierz dwa, maksymalnie trzy tytuły i zdecyduj między nimi. Im więcej opcji, tym większa szansa, że skończysz na przeglądaniu katalogu zamiast na seansie."
         }
       ],
       "filmy": [
@@ -277,15 +317,27 @@
       "faq": [
         {
           "q": "Jaki film akcji polecasz dla osoby, która nie przepada za gatunkiem?",
-          "a": "Everything Everywhere All at Once — technicznie film akcji, ale z sercem dramatu rodzinnego i filozofią absurdu. Osoby nielubiące akcji często go uwielbiają."
+          "a": "Top Gun: Maverick albo heist movie w rodzaju Ocean's Eleven — dużo ruchu, ale też humor i czytelna historia. Warto zacząć od tytułów, w których akcja służy opowieści, a nie ją zastępuje."
         },
         {
-          "q": "Czy Mad Max: Fury Road ma dużo przemocy?",
-          "a": "Jest dynamiczny i wizualnie intensywny, ale krew jest minimalna. To raczej spektakl kinetyczny niż gore. Kategoria wiekowa R w USA, PG-13 w wielu innych krajach."
+          "q": "Czy Mad Max: Na drodze gniewu ma dużo przemocy?",
+          "a": "Film jest intensywny i miejscami brutalny, choć stylizacja sprawia, że przemoc bywa bardziej widowiskowa niż realistyczna. Jeśli jesteś wrażliwy na takie sceny, sprawdź opis ostrzeżeń przed seansem."
         },
         {
           "q": "Czy muszę znać poprzednie części serii John Wick?",
-          "a": "Nie — pierwsza część jest kompletna fabularnie. Sequele budują na pierwszym, ale każda część działa jako samodzielne doświadczenie."
+          "a": "Nie jest to konieczne, ale pierwsza część najlepiej wprowadza w zasady świata. Kolejne filmy zakładają, że widz zna bohatera i jego motywację, więc chronologia pomaga w odbiorze."
+        },
+        {
+          "q": "Czy filmy akcji są dobre dla osób, które nie lubią przemocy?",
+          "a": "Tak — wystarczy wybierać podgatunki oparte na pościgach, planach i sprycie, a nie na brutalności. Heist movies, kino przygodowe i część superhero dobrze działają bez drastycznych scen."
+        },
+        {
+          "q": "Czy lepiej oglądać akcję w kinie czy w domu?",
+          "a": "W kinie zyskują widowiska z dźwiękiem i zdjęciami na dużą skalę. W domu masz większą kontrolę nad przerwami i głośnością. Jeśli film opiera się na atmosferze i pościgach, kino zwykle daje więcej."
+        },
+        {
+          "q": "Czy warto oglądać filmy akcji z dubbingiem?",
+          "a": "Jeśli dubbing jest dobrze zrobiony, tak. W filmach akcji dialog odgrywa mniejszą rolę niż obraz i dźwięk, więc bariera językowa jest mniejsza. Warto jednak sprawdzić, czy wersja z napisami nie jest dostępna."
         }
       ],
       "oferty": []
@@ -296,23 +348,43 @@
       "desc": "Niezbędnik filmowy — 10 klasyków kina z różnych dekad. Filmy, które zdefiniowały medium i nadal robią wrażenie po latach.",
       "keywords": "klasyki kina, kultowe filmy, obowiązkowe filmy, co musisz obejrzeć, kanon kina",
       "h1": "10 klasyków kina — filmy, które zdefiniowały medium",
-      "intro": "Nie musisz znać wszystkich filmów. Ale te 10 tytułów pojawia się w każdej rozmowie o kinie, zna je każdy krytyk i wciąż angażuje nowych widzów. Oto lista z krótkim uzasadnieniem każdego wyboru.",
+      "intro": "Nie musisz znać wszystkich filmów. Ale te dziesięć tytułów pojawia się w każdej rozmowie o kinie, zna je każdy krytyk i wciąż angażuje nowych widzów. Oto lista z krótkim uzasadnieniem każdego wyboru — bez akademickiego tonu i bez udawania, że wszystko jest arcydziełem.",
       "sekcje": [
         {
           "h2": "Dlaczego warto oglądać stare filmy?",
-          "tresc": "Klasycy kina są klasykami z powodu: coś w nich rezonuje ponad czas. Albo rewolucjonizowali technikę (Obywatel Kane), albo opowiadali historię tak dobrze, że nikt od tamtej pory nie opowiedział jej lepiej (Ojciec chrzestny), albo dotknęli czegoś głęboko ludzkiego (Lot nad kukułczym gniazdem). Oglądanie starszych filmów to nie obowiązek — to inwestycja w smak kinowy."
+          "tresc": "Stare filmy to nie muzeum. To sposób, w jaki kino nauczyło się opowiadać — montaż, światło, sposób prowadzenia kamery i budowania napięcia mają swoje korzenie w produkcjach sprzed dekad. Oglądając je, zaczynasz rozpoznawać schematy, które współczesne filmy powtarzają lub świadomie łamią.\n\nDo tego dochodzi czysta przyjemność odkrywania. Wiele klasyków jest po prostu świetnie zrobionych: mają mocne postacie, czytelne konflikty i sceny, które działają mimo upływu lat. Nie trzeba być filmoznawcą, żeby się w nich zakochać."
         },
         {
           "h2": "Lista tytułów i dlaczego warto",
-          "tresc": "Ojciec chrzestny (1972) — mafijny dramat rodzinny z perfekcyjnym scenariuszem. Lot nad kukułczym gniazdem (1975) — Jack Nicholson w walce z systemem psychiatrycznym, 5 Oscarów. Lista Schindlera (1993) — Spielberg o Holokauście. Jeden Jedyny, któremu przyznano wyczucie. 2001: Odyseja kosmiczna (1968) — Kubrick i pytanie o ludzką naturę w kosmosie. Casablanca (1942) — romans na tle wojny, dialog jak w żadnym innym filmie."
+          "tresc": "Ojciec chrzestny pokazuje, jak zbudować sagę rodzinną wokół władzy i lojalności. Lot nad kukułczym gniazdem to lekcja aktorstwa i konfliktu między jednostką a systemem. Czas apokalipsy łączy wojnę z podróżą w głąb siebie, a Lista Schindlera udowadnia, że kino może mówić o historii bez upraszczania.\n\nDo tego dochodzą 2001: Odyseja kosmiczna — film, który do dziś wyznacza granice tego, co można opowiedzieć obrazem — oraz klasyki gatunkowe, które zdefiniowały swoje kategorie. Każdy z tych tytułów ma inne tempo i inne wymagania, dlatego warto dobierać je do nastroju, a nie oglądać alfabetycznie."
         },
         {
           "h2": "Jak zacząć oglądać klasyki?",
-          "tresc": "Nie zaczynaj od Obywatela Kane — to film, który musisz zobaczyć, ale na zimno może rozczarować bez kontekstu. Zacznij od Ojca chrzestnego (angażująca opowieść) albo Lotu nad kukułczym gniazdem (emocjonalny, dostępny). Potem możesz podejść do cięższej artylerii."
+          "tresc": "Nie zaczynaj od najtrudniejszego tytułu. Wybierz klasyk, który jest bliski gatunkowi, który już lubisz: jeśli oglądasz thrillery, sięgnij po Psychozę, jeśli dramaty — po Dwunastu gniewnych ludzi. Znajomy gatunek daje punkt zaczepienia, a stary film przestaje być abstrakcją.\n\nUstaw realistyczne oczekiwania. Starsze filmy mają inne tempo, inną scenografię i inne konwencje aktorskie. Daj im kilka minut, zanim ocenisz. Jeśli po dwudziestu minutach nie działa, odpuść bez wyrzutów sumienia — klasyk nie musi trafić w każdy gust."
+        },
+        {
+          "h2": "Jak czytać klasyk, żeby się nie znudzić",
+          "tresc": "Zwracaj uwagę na to, czego film nie pokazuje. Stare kino często opowiada przez sugestię: spojrzenie, cień, przerwę w dialogu. To wymaga większej uwagi niż współczesne widowisko, ale daje inne rodzaje satysfakcji.\n\nPomaga też kontekst. Warto wiedzieć, w jakich warunkach powstał film i co w momencie premiery było nowatorskie. Nie musisz czytać analiz przed seansem — wystarczy krótki wstęp po obejrzeniu. Wtedy łatwiej dostrzec, dlaczego dana scena przeszła do historii kina."
+        },
+        {
+          "h2": "Klasyki według nastroju",
+          "tresc": "Na wieczór, gdy chcesz się skupić: 2001: Odyseja kosmiczna i Czas apokalipsy. Na rozmowę i napięcie: Dwunastu gniewnych ludzi. Na emocje i historię: Lista Schindlera. Na poczucie, że kino potrafi wszystko: Ojciec chrzestny.\n\nJeśli szukasz czegoś lżejszego, wybierz klasyk komediowy albo przygodowy — lista arcydzieł nie musi zaczynać się od najcięższych tematów. Dobrze dobrany nastrój jest ważniejszy niż prestiż tytułu."
+        },
+        {
+          "h2": "Jak rozmawiać o klasykach",
+          "tresc": "Nie musisz zgadzać się z kanonem. Warto mówić o tym, co działa na Ciebie, a co się zestarzało. Klasyk to nie świętość — to film, który w danym momencie historii zrobił coś ważnego. Dziś może irytować tempem albo konwencją, i to też jest ciekawy temat.\n\nZamiast oceniać „dobry czy zły”, spróbuj odpowiedzieć na pytanie, co ten film próbował zrobić i czy mu się udało. Taka rozmowa jest ciekawsza niż wymiana ocen i pozwala odkryć, dlaczego dany tytuł wciąż wraca w dyskusjach."
+        },
+        {
+          "h2": "Gdzie szukać kolejnych klasyków",
+          "tresc": "Platformy streamingowe mają coraz więcej starszych filmów, ale katalogi zmieniają się szybko. Warto śledzić kolekcje tematyczne i festiwale online. Pomocne bywają też biblioteki filmowe i serwisy z recenzjami, które podpowiadają, od czego zacząć w danej filmografii.\n\nJeśli chcesz iść dalej, wybierz jednego reżysera i obejrzyj trzy jego filmy. To szybsza droga do zrozumienia stylu niż skakanie między przypadkowymi tytułami. Klasyki najlepiej smakują w małych porcjach, ale regularnie."
         },
         {
           "h2": "Klasyki a współczesny widz",
-          "tresc": "Tempo starszych filmów jest wolniejsze — to nie wada, to inny rytm. Wiele klasyków kina w 1 godzinie tworzy napięcie, które współczesne produkcje budują 30 minutami efektów specjalnych. Daj filmowi 20 minut wejść i zadziałać. Jeśli po tym czasie nie wciągnie — możesz odpuścić."
+          "tresc": "Współczesny widz jest przyzwyczajony do szybkiego tempa i natychmiastowej nagrody. Klasyki często wymagają cierpliwości, ale dają coś, czego nie daje szybka rozrywka: poczucie obcowania z filmem, który kiedyś zmienił sposób myślenia o kinie.\n\nNie oznacza to, że każdy klasyk jest lepszy od nowego filmu. Chodzi o poszerzenie perspektywy. Im więcej zobaczysz, tym łatwiej odróżnisz film, który tylko naśladuje schematy, od takiego, który naprawdę ma coś do powiedzenia."
+        },
+        {
+          "h2": "Klasyki, których nie trzeba lubić",
+          "tresc": "Kanon nie jest obowiązkiem. Są filmy uznawane za arcydzieła, które po prostu nie trafiają w Twój gust — i nie ma w tym nic dziwnego. Ważne, żeby odróżnić „nie podobało mi się” od „nie rozumiem, o co chodzi”. Pierwsze jest kwestią preferencji, drugie — braku kontekstu.\n\nJeśli film Cię nie wciągnął, spróbuj nazwać powód. Tempo? Konwencja aktorska? Temat? To daje więcej niż ocena „nuda”. Czasem warto wrócić do tytułu po latach — klasyki często działają inaczej, gdy zmienia się perspektywa widza."
         }
       ],
       "filmy": [
@@ -405,15 +477,27 @@
       "faq": [
         {
           "q": "Od którego klasyka zacząć, jeśli nie oglądam starych filmów?",
-          "a": "Ojciec chrzestny (1972) — angażuje jak współczesne seriale, ma wyraźny wątek i emocje. Nie wymaga znajomości kontekstu historycznego."
+          "a": "Od Psychozy (1960) albo Dwunastu gniewnych ludzi (1957). Oba mają czytelną intrygę i działają nawet bez znajomości kontekstu historycznego. To dobre wejście w starsze kino bez ryzyka znużenia."
         },
         {
           "q": "Czy klasyki kina są dostępne na polskich platformach streamingowych?",
-          "a": "Większość jest dostępna na Prime Video, Netflix lub Mubi. Mubi to najlepsze źródło klasyków — specjalizuje się w kinie artystycznym i autorskim."
+          "a": "Wiele z nich pojawia się w katalogach Netflix, HBO Max, Prime Video i Canal+. Dostępność zmienia się jednak z miesiąca na miesiąc, więc przed seansem warto sprawdzić wyszukiwarkę typu JustWatch."
         },
         {
           "q": "Jak długo trwają klasyki kina?",
-          "a": "Klasyki lat 60-80 często przekraczają 2.5 godziny. Ojciec chrzestny to 175 minut, Lista Schindlera — 195 minut. Zaplanuj wieczór z marginesem."
+          "a": "Od około 90 minut do ponad trzech godzin. Krótsze klasyki są dobrym wyborem na początek, a dłuższe produkcje warto zaplanować na wieczór bez pośpiechu. Czas trwania nie jest wyznacznikiem jakości."
+        },
+        {
+          "q": "Czy klasyki trzeba oglądać w oryginalnej wersji?",
+          "a": "Warto, jeśli tylko możesz — głos aktora jest częścią kreacji. Napisy są lepsze od dubbingu, zwłaszcza w filmach opartych na dialogu. Jeśli jednak wolisz dubbing, nie rezygnuj z seansu tylko z tego powodu."
+        },
+        {
+          "q": "Czy klasyki są dobre na pierwszą randkę filmową?",
+          "a": "Zależy od tytułu. Lekki klasyk komediowy sprawdzi się lepiej niż trzyminutowy dramat wojenny. Na pierwszą randkę wybierz coś, co daje temat do rozmowy, ale nie wymaga pełnego skupienia przez cały seans."
+        },
+        {
+          "q": "Czy klasyki kina są przereklamowane?",
+          "a": "Część z nich na pewno żyje głównie legendą, ale wiele naprawdę dobrze się starzeje. Warto oceniać każdy tytuł osobno, a nie cały kanon. Klasyk to propozycja, nie nakaz."
         }
       ],
       "oferty": []
@@ -424,23 +508,43 @@
       "desc": "Ranking seriali science fiction — od mrocznych dystopii po kosmiczne opery. Tytuły, które zadają pytania o człowieczeństwo, technologię i przyszłość.",
       "keywords": "seriale sci-fi, najlepszy serial science fiction, ranking seriali, co oglądać 2026",
       "h1": "Ranking najlepszych seriali sci-fi — lista na 2026",
-      "intro": "Serial sci-fi to najlepszy format na duże pytania: co z nami zrobi AI? Dokąd prowadzi postęp? Czym jest świadomość? Oto tytuły, które nie odpowiadają łatwo — i właśnie dlatego warto je obejrzeć.",
+      "intro": "Serial sci-fi to najlepszy format na duże pytania: co z nami zrobi AI? Dokąd prowadzi postęp? Czym jest świadomość? Oto tytuły, które nie odpowiadają łatwo — i właśnie dlatego warto je obejrzeć. Lista łączy klasykę gatunku z produkcjami, które w ostatnich latach zmieniły jego reguły.",
       "sekcje": [
         {
           "h2": "Dlaczego seriale sci-fi przeżywają renesans?",
-          "tresc": "Platforma streamingowa to idealne środowisko dla sci-fi — gatunek potrzebuje czasu na budowanie świata, a serial daje go bez ograniczeń kinowych. Dark (Netflix, 2017-2020) udowodniło, że niemieckie sci-fi może przebić hollywoodzkie budżety jakością historii. Black Mirror stał się popkulturowym benchmarkiem dla lęków przed technologią."
+          "tresc": "Serial daje coś, czego film często nie może: czas. Można zbudować świat, pokazać jego zasady i konsekwencje, a potem powoli je podważać. Dlatego sci-fi tak dobrze czuje się w tym formacie — opowieść o technologii i społeczeństwie potrzebuje miejsca na niuanse.\n\nDo tego doszła zmiana w produkcji. Platformy streamingowe inwestują w gatunek, który kiedyś uchodził za niszowy. Efektem są seriale ambitne, ale też ich odwrotność: produkcje rozciągnięte ponad potrzebę. Dlatego warto wybierać świadomie."
         },
         {
           "h2": "Seriale, które powinny być na każdej liście",
-          "tresc": "Dark — trójpokoleniowa opowieść o podróżach w czasie w małym mieście. Westworld (sezony 1-2) — park rozrywki z androidami i pytaniem o świadomość. The Boys — dekonstrukcja superbohaterów z komentarzem o władzy i mediach. Foundation (Apple TV+) — adaptacja Asimova z imponującą produkcją."
+          "tresc": "Dark to niemiecka układanka o czasie, rodzinie i determinizmie, która wymaga uwagi, ale wynagradza ją jak mało co. Black Mirror w antologicznej formie bada skutki technologii — każdy odcinek to osobna historia, więc łatwo zacząć od dowolnego miejsca. Severance łączy thriller korporacyjny z pytaniem o tożsamość.\n\nDo tego dochodzi Westworld, którego pierwsze sezony są popisem konstrukcji świata, oraz The Boys — satyra na superbohaterów, która używa gatunku do mówienia o władzy i mediach. To różne tonacje, ale każdy z tych seriali ma wyrazisty pomysł."
         },
         {
           "h2": "Seriale dla fanów twardego sci-fi",
-          "tresc": "Dla widzów, którzy chcą nauki w science fiction: For All Mankind (Apple TV+) — historia alternatywna, w której wyścig kosmiczny nigdy się nie skończył. Raised by Wolves (HBO Max) — ludzie i androidy na nowej planecie, kontrowersyjny i odważny. Severance (Apple TV+) — codzienny workplace sci-fi z rosnącym niepokojem."
+          "tresc": "Jeśli lubisz naukowe uzasadnienia i powolne budowanie świata, sięgnij po produkcje, które traktują gatunek poważnie. Hard sci-fi nie boi się fizyki, ekonomii i polityki. Czasem oznacza to wolniejsze tempo, ale w zamian dostajesz świat, który wydaje się możliwy.\n\nWarto sprawdzić seriale oparte na literaturze — często mają solidniejszy fundament niż produkcje pisane od zera pod efekt. Czytaj jednak opinie o tempie: hard sci-fi bywa wymagające i nie każdemu odpowiada jako rozrywka na jeden wieczór."
+        },
+        {
+          "h2": "Podgatunki sci-fi w serialach",
+          "tresc": "Sci-fi to parasol nad wieloma odmianami: dystopia, space opera, cyberpunk, kino o podróżach w czasie, opowieści o AI i pierwszym kontakcie. Każdy podgatunek ma inne pytania i inne tempo. Dystopia stawia na społeczeństwo, space opera na skalę, cyberpunk na technologię i ciało.\n\nWybór podgatunku jest ważniejszy niż tytuł z okładki. Jeśli nie lubisz polityki, nie zaczynaj od space opery. Jeśli szukasz emocji, wybierz thriller z elementami sci-fi. Rozpoznanie własnych preferencji skraca czas szukania i zmniejsza ryzyko porzucenia serialu po dwóch odcinkach."
+        },
+        {
+          "h2": "Jak oglądać skomplikowane seriale",
+          "tresc": "Złożone seriale wymagają uwagi, więc nie oglądaj ich w tle. Wyłącz telefon, a jeśli musisz robić przerwy, rób je między odcinkami, nie w środku. Wiele produkcji zakłada, że widz pamięta szczegóły z poprzednich sezonów.\n\nPomocne bywają notatki albo krótkie podsumowania odcinków. Nie ma w tym nic wstydliwego — twórcy sami publikują rekapy. Jeśli serial wymaga zbyt wiele, to też informacja: może po prostu nie jest dla Ciebie w tym momencie."
+        },
+        {
+          "h2": "Seriale sci-fi na krótki sezon",
+          "tresc": "Nie każdy ma czas na pięć sezonów. Miniseriale i produkcje antologiczne są dobrym rozwiązaniem: mają zamkniętą historię i nie wymagają lat zaangażowania. Black Mirror to klasyczny przykład, ale jest też wiele krótszych seriali, które opowiadają pełną historię w jednym sezonie.\n\nPrzed rozpoczęciem sprawdź, czy serial został zakończony. Produkcje przerwane w połowie potrafią zostawić widza z niedosytem. Jeśli szukasz czegoś na kilka wieczorów, zamknięta całość jest bezpieczniejszym wyborem niż wieloletnia saga."
+        },
+        {
+          "h2": "Sci-fi a nauka",
+          "tresc": "Dobre sci-fi nie musi być naukowo precyzyjne, ale powinno być wewnętrznie spójne. Widz akceptuje założenia, jeśli świat ich przestrzega. Problem pojawia się, gdy serial łamie własne zasady tylko po to, żeby doprowadzić fabułę do wygodnego punktu.\n\nWarto zwracać uwagę na to, jak produkcja traktuje naukę: jako temat czy jako rekwizyt. Najlepsze seriale używają jej do zadawania pytań, a nie do ozdabiania scen. To różnica między opowieścią, która zostaje w głowie, a efektownym widowiskiem na jeden sezon."
         },
         {
           "h2": "Jak uniknąć długich seriali, które nie mają zakończenia?",
-          "tresc": "Zasada: sprawdź status serialu zanim zaczniesz. Dark jest kompletny (3 sezony). Black Mirror to antologia — każdy odcinek stoi sam. Westworld skończyło się na 4 sezonie bez satysfakcjonującego finału. Miniserie jak Chernobyl (HBO) mają zamknięcie gwarantowane."
+          "tresc": "Zanim zaczniesz, sprawdź status produkcji i opinie o finale. Serial bez planu na zakończenie często rozciąga wątki i traci kierunek. Lepiej wybrać historię, która została domknięta, niż czekać latami na kontynuację, która może nie powstać.\n\nPomaga też zasada jednego sezonu na próbę. Jeśli po pierwszym sezonie nie masz ochoty na więcej, nie zmuszaj się. Serial ma sprawiać przyjemność, a nie być obowiązkiem do odhaczenia na liście."
+        },
+        {
+          "h2": "Serial sci-fi czy film sci-fi — co wybrać?",
+          "tresc": "Film daje zamkniętą historię i mocniejsze poczucie całości. Serial pozwala zbudować świat i pokazać konsekwencje decyzji w czasie. Jeśli lubisz powolne odkrywanie zasad, wybierz serial. Jeśli wolisz intensywny, skoncentrowany seans — film.\n\nW praktyce najlepsze doświadczenia często łączą oba: serial wprowadza w świat, a film domyka go w jednym wieczorze. Warto mieć w zapasie obie formy i sięgać po nie zależnie od czasu i nastroju."
         }
       ],
       "filmy": [
@@ -534,15 +638,27 @@
       "faq": [
         {
           "q": "Który serial sci-fi jest dobry dla osoby, która nie ogląda sci-fi?",
-          "a": "Severance — to sci-fi w miejscu pracy, niemal horror korporacyjny. Nie wymaga wiedzy o gatunku, wciąga każdego."
+          "a": "Severance — thriller o pracy i tożsamości, w którym elementy sci-fi są tłem, a nie głównym tematem. Dobrym wyborem jest też Black Mirror, bo można zacząć od pojedynczego odcinka."
         },
         {
           "q": "Czy Dark jest trudny do śledzenia?",
-          "a": "Tak, wymaga skupienia — szczególnie w pierwszych 3 odcinkach. Po tym wchodzi obsesja. Warto śledzić drzewo genealogiczne (dostępne fanowskie schematy bez spoilerów)."
+          "a": "Tak, zwłaszcza w drugim i trzecim sezonie, gdzie pojawia się wiele postaci i linii czasowych. Warto oglądać uważnie i robić przerwy między odcinkami. Niektórym pomaga notowanie bohaterów."
         },
         {
           "q": "Ile sezonów Westworld warto obejrzeć?",
-          "a": "Sezony 1 i 2 — niemal pewna przyjemność. Sezon 3 jest podzielny. Sezon 4 — jeśli bardzo chcesz zakończenia. Wiele osób poprzestaje na dwóch."
+          "a": "Najczęściej poleca się pierwszy sezon jako zamkniętą, świetnie skonstruowaną całość. Kolejne sezony zmieniają kierunek i nie wszystkim odpowiadają. Jeśli chcesz pełnej historii, pierwszy sezon wystarczy."
+        },
+        {
+          "q": "Od którego serialu sci-fi zacząć?",
+          "a": "Od krótkiego i zamkniętego: miniserialu albo antologii. Dzięki temu sprawdzisz, czy gatunek Ci odpowiada, bez inwestowania czasu w wieloletnią sagę. Dopiero potem sięgaj po dłuższe produkcje."
+        },
+        {
+          "q": "Czy seriale sci-fi są dla każdego?",
+          "a": "Nie, ale gatunek jest szerszy, niż się wydaje. Obejmuje dramaty rodzinne, thrillery i satyrę. Warto szukać podgatunku, który odpowiada Twoim gustom, zamiast oceniać całe sci-fi po jednym tytule."
+        },
+        {
+          "q": "Czy seriale sci-fi warto oglądać z napisami?",
+          "a": "Tak, zwłaszcza te z gęstą terminologią i wieloma wątkami. Napisy pomagają wychwycić szczegóły, które w dubbingu łatwo zgubić. Jeśli jednak wolisz dubbing, wybierz produkcję, w której dialog nie jest kluczowy."
         }
       ],
       "oferty": []
@@ -555,23 +671,43 @@
       "desc": "Lista najlepszych horrorów psychologicznych — filmy, które straszą bez tanich sztuczek. Niepokój, klimat i pytania bez łatwych odpowiedzi.",
       "keywords": "horrory psychologiczne, najlepsze horrory, horror na wieczór, przerażające filmy",
       "h1": "Najlepsze horrory psychologiczne — lista bez jump scare'ów",
-      "intro": "Horror psychologiczny to inny gatunek niż przeciętne slashery. Zamiast krwi — niepokój. Zamiast potwora — atmosfera. Zamiast tanich skoków — pytanie, które siedzi w głowie przez tydzień.",
+      "intro": "Horror psychologiczny to inny gatunek niż przeciętne slashery. Zamiast krwi — niepokój. Zamiast potwora — atmosfera. Zamiast tanich skoków — pytanie, które siedzi w głowie przez tydzień. Oto lista filmów, które straszą czymś więcej niż tym, co widać na ekranie.",
       "sekcje": [
         {
           "h2": "Czym różni się horror psychologiczny od zwykłego horroru?",
-          "tresc": "Zwykły horror straszy ciałem. Horror psychologiczny straszy umysłem. Hereditary (2018) jest przerażające bez jednego jump scare — buduje groza przez rodzinną tragikę. Get Out (2017) straszy, bo jest zbyt bliskie rzeczywistości. The Lighthouse (2019) rozkłada psychikę przez izolację i alkohol. To kino, które zmusza do myślenia nawet kiedy już nie chcesz."
+          "tresc": "Zwykły horror gra na strachu przed czymś zewnętrznym: potworem, mordercą, ciemnością. Horror psychologiczny przenosi zagrożenie do środka. Bohater nie ufa własnej pamięci, otoczeniu ani ludziom, którzy twierdzą, że chcą pomóc. Widz nie wie, czy zagrożenie jest realne, czy tylko projekcją.\n\nDlatego ten gatunek rzadziej korzysta z jump scare'ów, a częściej z ciszy, powtarzalności i szczegółów, które nie pasują do całości. Nie oznacza to, że jest „grzeczniejszy” — potrafi zostawić głębszy ślad niż krwawa scena, bo działa na wyobraźnię długo po seansie."
         },
         {
           "h2": "Klasyki gatunku, które nadal działają",
-          "tresc": "Lśnienie (1980) Kubricka — architektoniczna groza Hotelu Overlook i Jack Nicholson w swoim najciemniejszym wydaniu. Rebeka (1940) Hitchcocka — gotycki dom i psychologiczny nacisk bez grama krwi. Inne życie (The Others, 2001) z Nicole Kidman — klimat, który działa przez cały seans i nagradza w finale."
+          "tresc": "Lśnienie (1980) Kubricka to podręcznik budowania niepokoju przestrzenią — korytarze hotelu są równie ważne jak aktorzy. Inne życie (2001) Alexa Amenábara straszy ciszą i światłem, a nie potworami. Oba filmy udowadniają, że horror nie potrzebuje szybkiego montażu, żeby trzymać w napięciu.\n\nDo klasyki należą też produkcje, które mieszają horror z dramatem rodzinnym. W nich źródłem grozy jest relacja, a nie zjawisko nadprzyrodzone. To właśnie ta warstwa sprawia, że po latach pamięta się nie scenę, ale atmosferę."
         },
         {
           "h2": "Nowe horrory psychologiczne warte uwagi",
-          "tresc": "Midsommar (2019) Ariego Astera to horror rozgrywający się w białą noc, na szwedzkiej wiosce pełnej słońca. Odwrócenie konwencji i psychologiczny studium żałoby. Men (2022) Alexa Garlanda — dziwne, symboliczne, nieprzyjemne w najlepszy sposób. The Menu (2022) technicznie to horror o restauracji, ale straszy ambicją i obsesją."
+          "tresc": "Hereditary (2018) Ariego Astera zbudował nową szkołę horroru rodzinnego — powolny, precyzyjny i coraz bardziej duszący. Get Out (2017) Jordana Peele'a użył gatunku do opowieści o rasizmie i manipulacji, a Midsommar (2019) zamienił ciemność na oślepiające światło i poczucie odosobnienia.\n\nTe filmy łączy jedno: nie boją się zwolnić. Pozwalają niepokojowi narastać, zamiast serwować gotowe straszaki. Jeśli szukasz horroru, po którym zostaje temat do rozmowy, to dobre kierunki. Jeśli oczekujesz szybkiej akcji, możesz się nudzić."
+        },
+        {
+          "h2": "Dlaczego horror psychologiczny straszy inaczej",
+          "tresc": "Strach psychologiczny opiera się na niepewności. Widz nie wie, komu wierzyć, co jest prawdą, a co halucynacją. Mózg próbuje ułożyć spójną historię i właśnie na tym napięciu się go trzyma. Im mniej film wyjaśnia, tym dłużej działa.\n\nDrugi mechanizm to rozpoznanie. Najmocniejsze horrory dotykają lęków, które znamy: utraty bliskiej osoby, choroby, samotności, bycia niekochanym. Potwór jest tylko kostiumem. Dlatego taki film potrafi straszyć w dzień, gdy nie ma już na ekranie żadnej sceny grozy."
+        },
+        {
+          "h2": "Dźwięk i obraz jako narzędzia grozy",
+          "tresc": "W horrorze psychologicznym dźwięk pracuje ciężej niż obraz. Cisza, powtarzający się dźwięk, niski bas i nagłe przerwanie ścieżki dźwiękowej budują napięcie, którego nie widać. Dobry horror w słuchawkach działa inaczej niż na głośniku telewizora.\n\nObraz też jest narzędziem: statyczne kadry, symetria, puste przestrzenie i światło, które nie pasuje do sytuacji. Warto zwracać uwagę na to, jak film kadruje bohatera — czy jest w centrum, czy na marginesie. To często mówi więcej niż dialog."
+        },
+        {
+          "h2": "Dla kogo, a dla kogo nie",
+          "tresc": "Horror psychologiczny jest dla osób, które lubią napięcie i zagadki, a niekoniecznie przemoc. Jeśli przeszkadzają Ci sceny brutalne, wybierz tytuły oparte na atmosferze, a nie na krwi. Sprawdź opis ostrzeżeń przed seansem — wiele filmów zawiera trudne tematy.\n\nNie jest to gatunek dla każdego i nie ma w tym nic złego. Jeśli horror Cię męczy, nie zmuszaj się „dla kultury”. Lepiej wybrać thriller bez elementów grozy. Film ma sprawiać przyjemność, a nie wywoływać tygodniowy niepokój."
+        },
+        {
+          "h2": "Jak zadbać o siebie po seansie",
+          "tresc": "Po mocnym horrorze warto zrobić coś, co przywróci poczucie bezpieczeństwa: włącz światło, obejrzyj lekki odcinek serialu, porozmawiaj z kimś. Nie chodzi o przesadę — chodzi o domknięcie emocji, które film otworzył.\n\nJeśli temat filmu dotyka Twoich własnych doświadczeń, daj sobie czas. Nie oglądaj kolejnego horroru tego samego wieczoru. Sen po trudnym seansie bywa gorszy, więc lepiej zaplanować go na dzień, gdy następnego ranka nie masz ważnych obowiązków."
         },
         {
           "h2": "Jak oglądać horrory psychologiczne, żeby działały?",
-          "tresc": "Serio: ciemne pomieszczenie, słuchawki, bez rozpraszaczy. Horror psychologiczny traci 80% mocy na jasnym ekranie z wiadomościami w tle. Midsommar warto oglądać ze świadomością, że reżyser nakręcił go jako przetworzenie własnego zerwania z partnerką."
+          "tresc": "Najlepiej w skupieniu, w ciemnym pokoju i bez telefonu. Ten gatunek żyje z detali, a rozproszenie zabija napięcie. Jeśli oglądasz z kimś, ustalcie, czy rozmawiacie w trakcie — komentarze potrafią rozładować atmosferę, ale też ją zniszczyć.\n\nNie sprawdzaj fabuły przed seansem. Jeden spoiler może odebrać całą przyjemność. Po filmie warto wrócić do scen, które wydawały się niejasne — często dopiero wtedy układają się w całość."
+        },
+        {
+          "h2": "Warunki domowego seansu horroru",
+          "tresc": "Horror psychologiczny traci najwięcej na rozproszeniu. Oglądanie go w połowie przygaszonym pokoju, z telefonem w ręce i wbudowanymi głośnikami, spłaszcza całą pracę twórców. Ten gatunek potrzebuje ciszy i uwagi.\n\nZadbaj o ciemność, dobrą jakość dźwięku i brak przerw. Jeśli oglądasz z kimś, ustalcie, czy rozmawiacie w trakcie. Komentarze mogą rozładować napięcie — czasem to potrzebne, ale częściej psuje efekt, który film budował przez godzinę."
         }
       ],
       "filmy": [
@@ -668,15 +804,27 @@
       "faq": [
         {
           "q": "Który horror psychologiczny polecasz dla kogoś, kto nie lubi horrorów?",
-          "a": "Get Out (2017) — straszy przez narrację społeczną, nie krew czy jump scare'y. Albo The Others — klimatyczny, bez przemocy, z satysfakcjonującym zwrotem."
+          "a": "Inne życie (2001) — nastrój bez brutalności, z klasycznym suspensem. Dobrym wyborem jest też Get Out, który bardziej niepokoi niż straszy. Oba filmy działają nawet na widzów spoza gatunku."
         },
         {
           "q": "Czy Hereditary jest naprawdę takie straszne?",
-          "a": "Tak, ale nie przez tradycyjne scare'y. Buduje napięcie przez realizm tragedii rodzinnej i rozpad psychiki. Widzowie często opisują je jako emocjonalnie wyczerpujące."
+          "a": "To zależy od wrażliwości. Hereditary jest bardziej duszące i niepokojące niż pełne jump scare'ów. Wiele osób uznaje je za jeden z najmocniejszych horrorów ostatniej dekady, ale nie każdemu odpowiada jego tempo."
         },
         {
           "q": "Czym różni się Ari Aster od innych reżyserów horrorów?",
-          "a": "Aster (Hereditary, Midsommar) traktuje horror jako narzędzie do eksploracji żałoby i traum. Jego filmy są nieprzyjemne w sposób, który rezonuje długo po seansie."
+          "a": "Aster stawia na powolne budowanie napięcia, precyzyjne kadry i motywy rodzinne. Mniej interesuje go sam potwór, bardziej relacje, które się rozpadają. To sprawia, że jego filmy działają długo po seansie."
+        },
+        {
+          "q": "Czy horrory psychologiczne to to samo co thrillery?",
+          "a": "Nie do końca. Thriller buduje napięcie wokół zagrożenia i rozwiązania zagadki, a horror psychologiczny dopuszcza element nadnaturalny i częściej gra na lęku egzystencjalnym. Granica jest płynna, wiele filmów łączy oba gatunki."
+        },
+        {
+          "q": "Jaki jest najlepszy horror psychologiczny na początek?",
+          "a": "Inne życie albo Get Out. Oba są przystępne, mają czytelną historię i nie opierają się na brutalności. Dopiero potem warto sięgnąć po cięższe tytuły, takie jak Hereditary czy Midsommar."
+        },
+        {
+          "q": "Czy horror psychologiczny nadaje się na randkę?",
+          "a": "Może się sprawdzić, jeśli oboje lubicie gatunek i wiecie, w co wchodzicie. Dla osoby, która nie lubi horrorów, to zwykle zły wybór — zamiast wspólnego wieczoru zostaje stres. Lepiej wybrać thriller bez elementów grozy."
         }
       ],
       "oferty": []
@@ -687,23 +835,43 @@
       "desc": "Wyselekcjonowana lista komedii romantycznych — nie schematy, tylko tytuły, które bawią i wzruszają jednocześnie. Bez przewidywalnych happy endów.",
       "keywords": "komedie romantyczne, romcom, film na wieczór, film z partnerem, najlepszy romcom",
       "h1": "Komedie romantyczne na wieczór — lista bez oczywistości",
-      "intro": "Komedia romantyczna ma opinię gatunku przewidywalnego. Ale najlepsze tytuły w tej kategorii są tak daleko od schematu, że zaskakują nawet sceptyków. Oto lista, od której zaczyna się miłość do romcomów.",
+      "intro": "Komedia romantyczna ma opinię gatunku przewidywalnego. Ale najlepsze tytuły w tej kategorii są tak daleko od schematu, że zaskakują nawet sceptyków. Oto lista, od której zaczyna się miłość do romcomów — bez lukru i bez udawania, że każda historia kończy się tak samo.",
       "sekcje": [
         {
           "h2": "Co odróżnia dobry romcom od złego?",
-          "tresc": "Dobry romcom ma postacie, które chciałbyś znać poza ekranem. Zły romcom ma tylko atrakcyjne twarze i rozwiązany węzeł miłosny w ostatnich 10 minutach. Kryterium proste: czy czułbyś się dobrze po seansie nawet bez happy endu? Jeśli tak — to dobry film."
+          "tresc": "Dobry romcom nie udaje, że miłość jest prosta. Bohaterowie mają wady, podejmują złe decyzje i często ranią siebie nawzajem. Chemia między aktorami jest ważniejsza niż fabuła, a humor wynika z charakterów, nie z wstawek.\n\nZły romcom opiera się na schemacie: przypadkowe spotkanie, przeszkoda, wielki gest i happy end. Dobry potrafi użyć tego samego szkieletu, ale wypełnia go czymś prawdziwym. Dlatego niektóre filmy z tego gatunku ogląda się po latach, a inne zapomina się tydzień po premierze."
         },
         {
           "h2": "Klasyki, które przetrwały próbę czasu",
-          "tresc": "Kiedy Harry poznał Sally (1989) — Meg Ryan i Billy Crystal, rozmowy o przyjaźni i miłości, które nadal brzmią prawdziwie. Notting Hill (1999) — Julia Roberts i Hugh Grant, komedia o sławie i codzienności. 500 dni z lata (2009) — romcom, który celowo niszczy formułę gatunku. Jeden z najbardziej uczciwie napisanych filmów o relacji."
+          "tresc": "Kiedy Harry poznał Sally (1989) to wzorzec gatunku — dwoje ludzi, którzy przez lata się kłócą, przyjaźnią i w końcu rozumieją, że są dla siebie. Film działa, bo dialogi są ostre, a bohaterowie mają własne zdanie. Do dziś cytuje się z niego sceny.\n\nDo klasyki należą też filmy, które opowiadają o miłości bez idealizowania. W nich związek jest pracą, a nie przeznaczeniem. To rzadsze podejście, ale właśnie dlatego zostaje w pamięci."
         },
         {
           "h2": "Nowoczesne romcomy warte uwagi",
-          "tresc": "To All the Boys I've Loved Before (Netflix, 2018) — świeże, młode, angażujące. Crazy Rich Asians (2018) — bajka w wielkim stylu, ale z realną historią. Palm Springs (2020) z Andy Sandbergiem — romcom w pętli czasowej, absurdalny i głębszy niż wygląda. Set It Up (Netflix, 2018) — klasyczny schemat, ale wykonany tak dobrze, że nie przeszkadza."
+          "tresc": "500 dni z lata (2009) odwrócił schemat, pokazując związek z perspektywy rozczarowania, a nie spełnienia. Palm Springs (2020) połączył romcom z pętlą czasową i wyszedł z tego jeden z najświeższych filmów gatunku. About Time (2013) użył podróży w czasie, żeby opowiedzieć o stracie i codzienności.\n\nEternal Sunshine of the Spotless Mind (2004) idzie jeszcze dalej — miesza romans z sci-fi i zadaje pytanie, czy warto wymazać bolesne wspomnienia. To dowód, że gatunek może być inteligentny bez rezygnacji z emocji."
+        },
+        {
+          "h2": "Dlaczego romcomy tak dobrze działają",
+          "tresc": "Romcomy dają poczucie kontroli. Wiemy, że historia zmierza do rozwiązania, i właśnie dlatego możemy się odprężyć. To rodzaj bezpiecznej przestrzeni, w której emocje są intensywne, ale ostatecznie oswojone.\n\nDrugi powód to rozpoznawalność. Sceny randek, niezręczne rozmowy i nieporozumienia są bliskie naszemu doświadczeniu. Śmiech z bohatera bywa śmiechem z siebie. Dobry romcom pozwala przeżyć coś trudnego w bezpiecznej formie."
+        },
+        {
+          "h2": "Romcom a nastrój",
+          "tresc": "Na wieczór po ciężkim dniu najlepiej działa coś lekkiego i szybkiego — komedia z wyraźnym humorem i ciepłym zakończeniem. Na wieczór refleksyjny wybierz film, który miesza romans z dramatem i nie boi się smutku.\n\nWarto dopasować intensywność do energii, jaką masz. Jeśli jesteś zmęczony, skomplikowana struktura może męczyć. Jeśli masz ochotę na coś więcej, sięgnij po tytuły, które grają z formą. Kluczowe jest to, żeby nie wybierać w pośpiechu."
+        },
+        {
+          "h2": "Romcomy na wspólny wieczór",
+          "tresc": "W duecie najlepiej sprawdzają się filmy, które mają wyraźny humor sytuacyjny i nie wymagają zgody co do poglądów na miłość. Komedia romantyczna z elementem zagadki albo podróży daje więcej tematów do rozmowy niż klasyczna historia dwojga ludzi w mieście.\n\nJeśli gusta są różne, wybierz film, który łączy gatunki — romans z thrillerem, sci-fi albo komedią rodzinną. Wtedy każdy ma coś dla siebie. Unikaj tytułów, które są wyłącznie „dla jednej osoby” — wspólny seans ma być wspólny."
+        },
+        {
+          "h2": "Jak uniknąć rozczarowania",
+          "tresc": "Nie oceniaj romcomu po okładce ani po jednym zwiastunie. Wiele najlepszych filmów gatunku ma niepozorny plakat i poważny ton. Sprawdź, kto gra główne role i kto napisał scenariusz — to często lepsza wskazówka niż gatunkowa etykieta.\n\nPamiętaj też, że romcom to szeroka kategoria. Jeśli nie lubisz przesłodzonych historii, nie znaczy, że nie lubisz gatunku. Wystarczy wybierać filmy, które stawiają na dialog i postacie, a nie na wielkie gesty."
         },
         {
           "h2": "Romcomy nieoczywiste — poza stereotypem",
-          "tresc": "Eternal Sunshine of the Spotless Mind (2004) to film o miłości, w którym wymazujesz wspomnienia. Ani typowy dramat, ani romcom — ale działa jak oba naraz. About Time (2013) z Domhnalem Gleeson'em — podróże w czasie jako metafora doceniania chwil. Jeden z najcieplejszych filmów tej dekady."
+          "tresc": "Gatunek coraz częściej wychodzi poza schemat dwojga białych trzydziestolatków w Nowym Jorku. Współczesne romcomy opowiadają o różnych relacjach, kulturach i etapach życia. To poszerza perspektywę i daje historie, których wcześniej nie było na ekranie.\n\nWarto szukać tytułów nagradzanych na festiwalach niezależnych — często mają świeższe spojrzenie niż duże produkcje. Nie musisz rezygnować z lekkości, żeby obejrzeć coś, co mówi o miłości poważniej. Granica między romcomem i dramatem bywa płynna."
+        },
+        {
+          "h2": "Romcom a rzeczywistość",
+          "tresc": "Romcomy pokazują miłość w skrócie: spotkanie, konflikt, rozwiązanie. Rzeczywiste relacje są wolniejsze i mniej uporządkowane. To nie zarzut wobec gatunku — to jego konwencja. Warto ją znać, żeby nie porównywać własnego życia do scenariusza.\n\nNajlepsze romcomy wiedzą o tym i bawią się schematem. Pokazują, że szczęśliwe zakończenie nie jest oczywiste, a bohaterowie muszą coś poświęcić. Właśnie dlatego takie filmy zostają w pamięci dłużej niż lekkie komedie bez ambicji."
         }
       ],
       "filmy": [
@@ -799,16 +967,28 @@
       ],
       "faq": [
         {
-          "q": "Jaki romcom polecasz dla pary, które mają różne gusty filmowe?",
-          "a": "Palm Springs (2020) — ma sci-fi, humor i romans w równych proporcjach. Działa na fanów zarówno komedii jak i bardziej konceptualnych filmów."
+          "q": "Jaki romcom polecasz dla pary, która ma różne gusta filmowe?",
+          "a": "Palm Springs — łączy romans z pętlą czasową i humorem, więc działa też na osoby, które nie przepadają za klasycznymi romcomami. Dobrym wyborem jest też Kiedy Harry poznał Sally, jeśli chcecie klasyki z mocnym dialogiem."
         },
         {
           "q": "Czy 500 dni z lata ma happy end?",
-          "a": "Film celowo nie jest typowym romcomem — odpowiedź jest częścią doświadczenia. Zakończenie jest satysfakcjonujące, ale nie przewidywalne."
+          "a": "Film nie kończy się klasycznym happy endem, ale też nie jest to historia bez nadziei. Opowiada o związku, który się skończył, i o tym, co z niego zostaje. To jeden z powodów, dla których tytuł wyróżnia się na tle gatunku."
         },
         {
           "q": "Który romcom jest najkrótszy i najszybciej wciąga?",
-          "a": "Palm Springs (90 min) — 10 minut na zapoznanie się z postacią, potem już ruch. Kiedy Harry poznał Sally (96 min) wciąga od pierwszej sceny dialogu."
+          "a": "Wiele klasycznych romcomów mieści się w około 90–100 minutach. Jeśli zależy Ci na szybkim starcie, wybierz film z mocnym pierwszym aktem i wyraźnym humorem — długość bywa mniej ważna niż tempo."
+        },
+        {
+          "q": "Czy romcomy są tylko dla kobiet?",
+          "a": "Nie. Gatunek ma wielu męskich widzów, a najlepsze tytuły opowiadają o relacjach w sposób uniwersalny. Warto odrzucić stereotyp i oceniać filmy po tym, czy są dobrze napisane, a nie po etykiecie."
+        },
+        {
+          "q": "Jaki romcom jest najlepszy na początek znajomości z gatunkiem?",
+          "a": "Kiedy Harry poznał Sally — klasyk z czytelną strukturą i świetnymi dialogami. Jeśli wolisz coś nowszego, Palm Springs jest dobrym wyborem, bo łączy romans z innymi gatunkami."
+        },
+        {
+          "q": "Czy romcomy mogą być smutne?",
+          "a": "Tak. Wiele najlepszych tytułów gatunku miesza humor z melancholią i stratą. 500 dni z lata czy Eternal Sunshine to przykłady filmów, które bawią i poruszają jednocześnie."
         }
       ],
       "oferty": []
@@ -819,23 +999,47 @@
       "desc": "Lista filmów dokumentalnych angażujących jak kino fabularne — sport, technologia, zbrodnia, natura. Dokumenty, po których chcesz więcej.",
       "keywords": "dokumenty filmowe, najlepszy dokumentalny, film dokumentalny lista, co oglądać dokument",
       "h1": "Filmy dokumentalne warte seansu — lista na każdy nastrój",
-      "intro": "Dokumenty mają opinię nudnych. To nie jest prawda od co najmniej 10 lat. Najlepsze współczesne dokumenty mają napięcie kryminału, piękno fabularnego kina i fakty, które zmieniają perspektywę.",
+      "intro": "Dokumenty mają opinię nudnych. To nie jest prawda od co najmniej dekady. Najlepsze współczesne dokumenty mają napięcie kryminału, piękno fabularnego kina i fakty, które zmieniają perspektywę. Oto lista filmów, po których inaczej patrzy się na świat — i kilka wskazówek, jak je wybierać.",
       "sekcje": [
         {
           "h2": "Dlaczego warto oglądać dokumenty?",
-          "tresc": "Dobry dokument robi to, czego nie może fikcja: przynosi dowód. Free Solo (2018) to 2 godziny wspinaczki bez liny — napięcie jest realne, bo widzisz prawdziwego człowieka. Icarus (2017) zaczyna się jako eksperyment na sobie, kończy się odkryciem afery dopingowej w rosyjskim sporcie. Kino fabularne musiałoby napisać bardziej wiarygodne zakończenie."
+          "tresc": "Dokumenty pokazują rzeczywistość, której nie wymyśliłby scenarzysta. Prawdziwe historie mają nieoczywiste zakończenia, przypadkowe zwroty akcji i bohaterów, których nie da się wpisać w schemat. To sprawia, że emocje bywają mocniejsze niż w fikcji.\n\nDo tego dochodzi wartość poznawcza. Dobry dokument nie tylko informuje, ale też pokazuje, jak działa świat: instytucje, media, sport, technologia. Po seansie zostaje nie tylko wiedza, ale też pytanie o własne przekonania."
         },
         {
           "h2": "Dokumenty sportowe na najwyższym poziomie",
-          "tresc": "Free Solo (Oscar 2019) — Alex Honnold wspina się bez liny na El Capitan. The Last Dance (Netflix, 2020) — historia Chicago Bulls i Michaela Jordana w 10 odcinkach. Senna (2010) — Ayrton Senna, F1 i tragiczny koniec. Dokumenty sportowe angażują nawet bez wiedzy o dyscyplinie."
+          "tresc": "Free Solo (2018) to nie tylko film o wspinaczce — to studium obsesji i ryzyka. Senna (2010) opowiada o rywalizacji i legendzie Formuły 1 w sposób, który działa nawet na osoby niezainteresowane sportem. Oba filmy łączą widowiskowość z portretem człowieka.\n\nSportowe dokumenty mają przewagę: stawka jest prawdziwa, a wynik nieznany. Dlatego potrafią trzymać w napięciu jak thriller. Warto wybierać te, które nie ograniczają się do kroniki sukcesów, ale pokazują też koszt, jaki ponoszą bohaterowie."
         },
         {
           "h2": "Dokumenty o technologii i społeczeństwie",
-          "tresc": "The Social Dilemma (2020, Netflix) — twórcy platform społecznościowych wyjaśniają, jak projektowali nałóg. Icarus (2017, Netflix) — nominowany do Oscara film o dopingu, który przypadkowo stał się geopolitycznym thrillerem. 13th (2016, Netflix) — więziennictwo i rasizm w USA przez pryzmat 13. poprawki."
+          "tresc": "The Social Dilemma (2020) wywołał szeroką debatę o mediach społecznościowych i algorytmach. Icarus (2017) zaczął się jako film o kolarstwie, a skończył jako historia skandalu dopingowego o globalnym zasięgu. Oba pokazują, jak jednostka uwikłana jest w większy system.\n\n13th (2016) łączy historię z analizą współczesności i pokazuje, jak dokument może być jednocześnie eseje i oskarżeniem. Takie filmy warto oglądać z otwartą głową, ale też z krytycznym okiem — dokument nie jest wolny od perspektywy autora."
+        },
+        {
+          "h2": "Rodzaje dokumentów",
+          "tresc": "Dokument może być obserwacyjny, śledczy, historyczny, biograficzny albo eseistyczny. Różnią się tempem i sposobem budowania narracji. Obserwacyjny pozwala patrzeć, śledczy prowadzi za rękę, a eseistyczny częściej stawia pytania niż daje odpowiedzi.\n\nWarto znać te różnice, żeby wybrać formę odpowiednią do nastroju. Jeśli chcesz napięcia, sięgnij po dokument śledczy. Jeśli szukasz spokoju i portretu, wybierz obserwacyjny. Forma jest często ważniejsza niż temat."
+        },
+        {
+          "h2": "Jak oceniać wiarygodność dokumentu",
+          "tresc": "Sprawdź, kto jest autorem i kto finansował produkcję. Zwróć uwagę, czy film pokazuje różne strony sporu, czy tylko jedną. Dobry dokument nie musi być bezstronny, ale powinien być uczciwy wobec faktów i nie ukrywać własnej perspektywy.\n\nPo seansie warto sprawdzić kluczowe tezy w niezależnych źródłach. To nie oznacza, że film kłamie — chodzi o nawyk weryfikacji. Dokumenty często upraszczają złożone zjawiska, a to bywa źródłem nieporozumień."
+        },
+        {
+          "h2": "Dokumenty na wieczór i na weekend",
+          "tresc": "Na zwykły wieczór lepiej sprawdzają się krótsze, dynamiczne dokumenty — około 90 minut z wyraźnym napięciem. Na weekend warto zaplanować coś dłuższego i spokojniejszego, co pozwoli wejść w temat bez pośpiechu.\n\nDobrym zwyczajem jest oglądanie dokumentów w blokach tematycznych: dwa filmy o podobnym zjawisku z różnych perspektyw. Daje to pełniejszy obraz niż pojedynczy seans i pomaga zauważyć, gdzie autorzy się różnią."
+        },
+        {
+          "h2": "Co zrobić po obejrzeniu",
+          "tresc": "Zapisz jedną rzecz, która Cię zaskoczyła, i jedną, która wzbudziła wątpliwość. To prosty sposób, żeby dokument nie przeleciał bez śladu. Warto też sprawdzić, co wydarzyło się po premierze — wiele historii ma ciąg dalszy.\n\nRozmowa z kimś, kto widział ten sam film, potrafi odkryć rzeczy, których nie zauważyłeś. Dokumenty najlepiej działają w dyskusji, bo każdy zwraca uwagę na inny fragment rzeczywistości."
         },
         {
           "h2": "Jak wybierać dokumenty?",
-          "tresc": "Sprawdź gatunek tematyczny (sport, zbrodnia, technologia, natura) — to ważniejszy filtr niż ocena. Dokumenty kryminalne (Making a Murderer, The Jinx) wciągają seryjnie. Dokumenty o naturze (Our Planet, BBC Planet Earth) sprawdzają się na duże ekrany. Dokumenty polityczne — z ostrożnością, łatwo wpaść w bańkę potwierdzającą przekonania."
+          "tresc": "Zacznij od tematu, który Cię interesuje, ale nie ograniczaj się do niego. Czasem najlepszy dokument to ten o czymś, o czym nic nie wiesz. Sprawdź oceny i opinie, ale nie kieruj się wyłącznie rankingiem.\n\nWybieraj filmy, które mają wyrazisty punkt widzenia, a nie tylko zbiór faktów. Dokument bez perspektywy bywa kroniką. Najlepsze filmy z tego gatunku łączą obserwację z opowieścią, która zostaje w pamięci."
+        },
+        {
+          "h2": "Dokument a film fabularny — różnice",
+          "tresc": "Film fabularny opowiada historię wymyśloną, dokument — prawdziwą. Ale granica bywa płynna: dokumenty często inscenizują sceny, a filmy fabularne opierają się na faktach. Kluczowa różnica tkwi w umowie z widzem: dokument obiecuje, że to, co widzimy, wydarzyło się naprawdę.\n\nDlatego tak ważna jest uczciwość twórców. Inscenizacja nie jest kłamstwem, jeśli jest oznaczona. Problem pojawia się, gdy dokument udaje czystą obserwację, a w rzeczywistości prowadzi widza za rękę."
+        },
+        {
+          "h2": "Dokumenty dla młodszych widzów",
+          "tresc": "Nie wszystkie dokumenty są odpowiednie dla dzieci, ale istnieje wiele produkcji edukacyjnych, które łączą wartość poznawczą z przystępną formą. Warto sprawdzić kategorię wiekową i temat, zanim włączysz film młodszej osobie.\n\nDokumenty mogą być świetnym wstępem do rozmowy o świecie. Wybieraj te, które stawiają pytania, a nie tylko podają fakty. Wspólny seans i rozmowa po nim uczą więcej niż sam film."
         }
       ],
       "filmy": [
@@ -927,15 +1131,27 @@
       "faq": [
         {
           "q": "Który dokument polecasz komuś, kto nigdy nie ogląda dokumentów?",
-          "a": "Free Solo — 100 minut napięcia jak w thrillerze, z prawdziwym człowiekiem na ekranie. Nie wymaga żadnej wiedzy wstępnej."
+          "a": "Free Solo — krótki, widowiskowy i trzymający w napięciu nawet bez zainteresowania wspinaczką. Dobrym wyborem jest też Senna, jeśli lubisz historie o rywalizacji i legendach sportu."
         },
         {
           "q": "Czy The Social Dilemma jest stronniczy?",
-          "a": "Film ma wyraźną tezę i nie jest neutralny. Ale fakty prezentuje rzetelnie — interviewowani są byłymi pracownikami platform, nie zewnętrznymi krytykami."
+          "a": "Film ma wyraźną tezę i dobiera materiał pod jej wzmocnienie. To nie znaczy, że jest nieprawdziwy, ale warto obejrzeć go jako głos w dyskusji, a nie ostateczną analizę. Po seansie sprawdź inne źródła."
         },
         {
           "q": "Gdzie znaleźć dokumenty kryminalne?",
-          "a": "Netflix ma największą kolekcję — Making a Murderer, Evil Genius, The Keepers. HBO Max oferuje The Jinx. Prime Video i Mubi — dokumenty artystyczne i niszowe."
+          "a": "W katalogach Netflix, HBO Max i Prime Video jest ich coraz więcej, a część dostępna jest bezpłatnie na platformach edukacyjnych. Warto sprawdzić festiwale dokumentalne online — często pokazują filmy, które nie trafiają do głównego obiegu."
+        },
+        {
+          "q": "Czy dokumenty są nudne?",
+          "a": "Nie, jeśli wybierzesz odpowiednią formę. Dokument śledczy potrafi trzymać w napięciu jak thriller, a sportowy — jak dramat. Nuda częściej wynika z tempa i konstrukcji niż z samego gatunku."
+        },
+        {
+          "q": "Czy warto sprawdzać fakty po dokumencie?",
+          "a": "Tak. Dokumenty upraszczają i wybierają perspektywę. Weryfikacja kluczowych tez w niezależnych źródłach pomaga oddzielić interpretację od faktów i wyrobić własne zdanie."
+        },
+        {
+          "q": "Czy dokument musi być obiektywny?",
+          "a": "Nie musi, ale powinien być uczciwy. Każdy autor ma perspektywę. Dobry dokument nie ukrywa jej i pokazuje różne strony tematu, zamiast udawać, że jest całkowicie bezstronny."
         }
       ],
       "oferty": []
@@ -946,28 +1162,52 @@
       "desc": "Lista najlepszych animacji dla dorosłych — filmy i seriale, które nie są dla dzieci. Pixar, anime, Studio Ghibli i produkcje bez klasyfikacji wiekowej.",
       "keywords": "animacje dla dorosłych, najlepsze animacje, anime lista, studio ghibli, animacja na wieczór",
       "h1": "Animacje dla dorosłych — lista poza Marvelem i Disneyem",
-      "intro": "Animacja to medium, nie gatunek dla dzieci. Najlepsze animacje dla dorosłych dotykają tematu straty, tożsamości i sensu życia lepiej niż większość filmów aktorskich. Oto lista bez ograniczeń wiekowych.",
+      "intro": "Animacja to medium, nie gatunek dla dzieci. Najlepsze animacje dla dorosłych dotykają tematu straty, tożsamości i sensu życia lepiej niż większość filmów aktorskich. Oto lista bez ograniczeń wiekowych — od anime po zachodnie produkcje, które udowadniają, że rysunek może być poważny.",
       "sekcje": [
         {
           "h2": "Dlaczego animacja może opowiadać o poważnych rzeczach?",
-          "tresc": "Animacja ma jedną przewagę: nie jesteś ograniczony prawami fizyki ani budżetem. Satoshi Kon w Perfect Blue (1997) stworzył thriller psychologiczny w animacji zanim Darren Aronofsky nakręcił Requiem dla snu. Pixar's Up (2009) w pierwszych 10 minutach mówi o śmierci i stracie więcej niż większość dramatów."
+          "tresc": "Animacja pozwala pokazać to, czego kamera nie uchwyci: metaforę, sen, pamięć, emocję w czystej formie. Dzięki temu trudne tematy można opowiedzieć bez dosłowności. Rysunek daje dystans, który paradoksalnie zwiększa emocjonalne zaangażowanie.\n\nDrugi powód to kontrola nad każdym kadrem. Twórcy mogą kształtować świat tak, żeby odzwierciedlał stan bohatera. W filmie aktorskim zawsze jest jakaś przypadkowość. W animacji wszystko jest wyborem — i to widać."
         },
         {
           "h2": "Anime jako kino artystyczne",
-          "tresc": "Spirited Away (2001) Studio Ghibli zdobyło Oscara pokonując Pana pierścieni. Princess Mononoke (1997) to epicka historia o środowisku i konflikcie między naturą a cywilizacją. Perfect Blue (1997) Satoshi Kona to dekonstrukcja sławy i tożsamości — Aronofsky kupił prawa do jednej sceny dla Black Swan."
+          "tresc": "Spirited Away (2001) Hayao Miyazakiego to opowieść o dorastaniu i pracy, ukryta w baśni. Perfect Blue (1997) Satoshiego Kona to thriller psychologiczny o tożsamości i mediach, który do dziś inspiruje twórców. Oba filmy pokazują, że anime nie jest gatunkiem, lecz językiem.\n\nWarto pamiętać, że anime ma wiele nurtów — od familijnego po bardzo dorosłe. Jeśli zaczynasz, wybierz tytuł o czytelnej historii i nie sugeruj się stylem okładki. Najlepsze anime działa niezależnie od tego, czy znasz konwencję."
         },
         {
           "h2": "Animacje zachodnie poza Disneyem",
-          "tresc": "BoJack Horseman (Netflix) to 6 sezonów o depresji, uzależnieniach i historii w Hollywood — przez antropomorficzne konie. Waltz with Bashir (2008) to animowany dokument o wojnie w Libanie i traumie wojennej. Soul (2020) Pixara zadaje pytanie o sens życia w sposób bardziej bezpośredni niż jakikolwiek film fabularny."
+          "tresc": "Soul (2020) Pixara to film o sensie życia i codzienności, który trafia zarówno do dzieci, jak i dorosłych. Arcane (2021) pokazał, że serial animowany może mieć poważną dramaturgię i widowiskową oprawę. BoJack Horseman (2014–2020) użył animacji do opowieści o depresji i uzależnieniach.\n\nTe produkcje udowadniają, że zachodnia animacja wyszła poza schemat bajki. Nie musisz szukać daleko — wystarczy spojrzeć na katalog platform i sprawdzić tytuły, które nie są reklamowane jako „dla dzieci”."
+        },
+        {
+          "h2": "Mity o animacji dla dorosłych",
+          "tresc": "Pierwszy mit: animacja dla dorosłych musi być wulgarna i brutalna. Nieprawda — wiele najlepszych tytułów jest subtelnych. Drugi: to gatunek niszowy. W rzeczywistości anime i seriale animowane mają ogromną publiczność na całym świecie.\n\nTrzeci mit: rysunek jest tylko dla dzieci. To przekonanie wynika z przyzwyczajenia, nie z natury medium. Wystarczy obejrzeć kilka poważnych animacji, żeby zobaczyć, jak szerokie są ich możliwości."
+        },
+        {
+          "h2": "Style animacji i co z nich wynika",
+          "tresc": "Styl animacji wpływa na emocje. Rysunek odręczny daje ciepło i niedoskonałość, CGI — precyzję i skalę, a styl minimalistyczny — skupienie na tekście i bohaterze. Każdy z nich opowiada inaczej, nawet przy tym samym scenariuszu.\n\nWarto zwracać uwagę na technikę, bo często mówi ona o intencjach twórców. Film, który wygląda jak sen, prawdopodobnie opowiada o pamięci. Film o ostrej, geometrycznej formie — o systemie i kontroli. To dodatkowa warstwa, którą łatwo przeoczyć."
+        },
+        {
+          "h2": "Animacje na wieczór i na weekend",
+          "tresc": "Na zwykły wieczór wybierz film o zamkniętej historii i umiarkowanym tempie. Na weekend możesz sięgnąć po serial animowany albo dłuższą produkcję, która wymaga skupienia. Animacja często zyskuje przy ponownym seansie, bo zauważa się detale tła.\n\nJeśli nie masz doświadczenia z anime, zacznij od filmu, a nie serialu. Krótsza forma pozwala sprawdzić, czy odpowiada Ci styl. Dopiero potem inwestuj czas w dłuższe produkcje."
+        },
+        {
+          "h2": "Na co uważać",
+          "tresc": "Nie wszystkie animacje dla dorosłych są odpowiednie dla każdego. Niektóre zawierają sceny przemocy, trudne tematy lub wulgarny humor. Sprawdź kategorię wiekową i opinie przed seansem, zwłaszcza jeśli oglądasz z młodszymi osobami.\n\nUważaj też na spoilerowe opisy — w animacjach często cała siła tkwi w zaskoczeniu formą. Lepiej przeczytać krótki opis gatunkowy niż szczegółowe streszczenie."
         },
         {
           "h2": "Jak wybrać animację dla dorosłych?",
-          "tresc": "Sprawdź kategorię wiekową i recenzje krytyków. Anime nie jest z definicji 'dla dzieci' — Death Note, Evangelion i Paranoia Agent są dla dorosłych. Pixar zazwyczaj działa na obu poziomach. Netflix ma coraz więcej animacji dla dorosłych — Arcane (League of Legends) to jeden z najlepiej ocenianych seriali platformy."
+          "tresc": "Zacznij od nastroju: czy chcesz wzruszenia, napięcia, czy humoru. Potem wybierz styl — realistyczny, baśniowy albo eksperymentalny. Dopiero na końcu sprawdź konkretny tytuł. Taka kolejność zmniejsza ryzyko rozczarowania.\n\nNie sugeruj się wyłącznie rankingami. Animacja jest bardzo różnorodna, a gusta widzów jeszcze bardziej. Jeden film może być arcydziełem dla jednej osoby i nudą dla drugiej — i obie oceny są uzasadnione."
+        },
+        {
+          "h2": "Animacja a gry komputerowe",
+          "tresc": "Wiele współczesnych animacji czerpie z estetyki gier: trójwymiarowe światy, dynamiczne kamery, projekty postaci. To zbliża medium do młodszego widza, ale nie oznacza, że opowieść jest płytka. Arcane jest tego najlepszym przykładem.\n\nGry i animacja uczą się od siebie nawzajem. Warto patrzeć na nie jak na pokrewne języki obrazu, a nie konkurencyjne rozrywki. Dla widza oznacza to więcej ciekawych produkcji do odkrycia."
+        },
+        {
+          "h2": "Napisy czy dubbing w anime",
+          "tresc": "Anime najlepiej działa w oryginale z napisami, bo intonacja i emocje w głosie są częścią kreacji. Dubbing bywa dobry, ale często gubi niuanse kulturowe. Jeśli dopiero zaczynasz, wybierz formę, która pozwoli Ci się skupić na historii.\n\nNie ma jednej słusznej odpowiedzi. Ważne, żeby nie rezygnować z tytułu tylko z powodu formy. Spróbuj obu wersji na krótkim odcinku i wybierz tę, która lepiej działa dla Ciebie."
         }
       ],
       "filmy": [
         {
-          "tytul": "Spirited Away (Spirited Away)",
+          "tytul": "Spirited Away",
           "tytul_oryginalny": "Sen to Chihiro no Kamikakushi",
           "rok": 2001,
           "czas": "125 min",
@@ -1058,15 +1298,27 @@
       "faq": [
         {
           "q": "Czy Arcane można oglądać bez znajomości League of Legends?",
-          "a": "Tak — twórcy celowo zaprojektowali serial jako niezależny od gry. Nie potrzebujesz żadnego kontekstu. Wielu fanów serialu nigdy nie grało w grę."
+          "a": "Tak. Serial został napisany tak, żeby działał samodzielnie — przedstawia świat i relacje od podstaw. Znajomość gry dodaje smaczków, ale nie jest konieczna do zrozumienia fabuły."
         },
         {
           "q": "Na jakim poziomie jest Perfect Blue dla kogoś nieznającego anime?",
-          "a": "Bardzo dostępny — 81 minut, mrocza historia, zrozumiała bez znajomości kultury anime. Dobry punkt wejścia do poważniejszego anime."
+          "a": "To trudny film — thriller psychologiczny z niejednoznaczną narracją. Dla osoby bez doświadczenia z anime może być wymagający, ale warto spróbować, jeśli lubisz kino Davida Lyncha i filmy o tożsamości."
         },
         {
           "q": "Czy BoJack Horseman jest smutny czy śmieszny?",
-          "a": "Oboje naraz — i to jest jego siła. Wiele odcinków boli przez śmiech. Sezon 4. i 5. to jedne z najciemniejszych momentów serialowej animacji."
+          "a": "Jedno i drugie. Serial zaczyna się jako komedia o świecie show-biznesu, a z czasem staje się opowieścią o depresji i samotności. To właśnie połączenie humoru z powagą czyni go wyjątkowym."
+        },
+        {
+          "q": "Czy animacje dla dorosłych są odpowiednie dla nastolatków?",
+          "a": "To zależy od tytułu. Część animacji jest adresowana do starszej publiczności i zawiera trudne treści. Przed wspólnym seansem sprawdź kategorię wiekową i opinie, a w razie wątpliwości wybierz produkcję o łagodniejszym tonie."
+        },
+        {
+          "q": "Od jakiej animacji zacząć?",
+          "a": "Od Spirited Away albo Soul — oba mają czytelną historię i działają na szeroką publiczność. Jeśli chcesz czegoś poważniejszego, sięgnij po Perfect Blue, ale przygotuj się na trudniejszy seans."
+        },
+        {
+          "q": "Czy animacja dla dorosłych to zawsze anime?",
+          "a": "Nie. Istnieje wiele zachodnich animacji dla dorosłych — od seriali po filmy autorskie. Anime jest jednym z nurtów, ale gatunek jest znacznie szerszy i warto poznawać różne style."
         }
       ],
       "oferty": []
@@ -1079,23 +1331,47 @@
       "desc": "Co obejrzeć z partnerem w piątek wieczór? 10 sprawdzonych propozycji na każdy nastrój — od romantycznych po thrillery. Bez kompromisów.",
       "keywords": "film z partnerem, co obejrzeć razem, film na piątek, film na randkę, co oglądać z dziewczyną",
       "h1": "Film na piątek wieczór z partnerem — 10 propozycji bez kompromisów",
-      "intro": "Problem piątkowego wieczoru jest jeden: jedno z was chce coś innego. Oto filmy, które działają na oboje — różne energie, wspólny efekt.",
+      "intro": "Problem piątkowego wieczoru jest jeden: jedno z was chce coś innego. Oto filmy, które działają na oboje — różne energie, wspólny efekt. Zamiast kolejnej godziny scrollowania dostajesz plan: jak wybrać tytuł, jak dopasować go do nastroju i jak sprawić, żeby seans był dobrym wieczorem, a nie testem kompromisu.",
       "sekcje": [
         {
           "h2": "Jak wybrać film, który zadowoli oboje?",
-          "tresc": "Klucz: nie pytaj 'co chcesz obejrzeć' — to otwiera nieskończoną pętlę. Pytaj 'jaki masz teraz nastrój?' i dopasuj kategorię. Chcesz się pośmiać? Komedia lub absurd. Chcesz emocji? Thriller lub romans. Chcesz być wciągniętym? Sci-fi lub mystery. Mając kategorię, reszta idzie szybko."
+          "tresc": "Zacznijcie od energii, nie od gatunku. Jeśli oboje jesteście zmęczeni, komedia lub lekki dramat sprawdzi się lepiej niż ambitny thriller. Jeśli macie ochotę na coś mocniejszego, wybierzcie film, który trzyma w napięciu, ale nie wymaga pełnego skupienia.\n\nDruga zasada: nie negocjujcie tytułu w nieskończoność. Ustalcie jedną osobę, która wybiera dziś, i drugą, która wybierze następnym razem. Brzmi banalnie, ale eliminuje najczęstszą przyczynę kłótni — walkę o kontrolę nad pilotem."
         },
         {
           "h2": "Filmy na nastrój śmiechu i lekkości",
-          "tresc": "Palm Springs (2020) — romcom z pętlą czasową, 90 minut, śmiechy i trochę filozofii. Game Night (2018) — para na wieczorze z grami, który zamienia się w prawdziwy thriller. Idealny film na luzacki wieczór razem. Game Night jest niedocenionym skarbem komedii."
+          "tresc": "Na piątkowy wieczór po tygodniu pracy lekkość jest często najlepszym wyborem. Komedie z wyraźnym humorem sytuacyjnym, filmy przygodowe i lekkie kryminały pozwalają się odprężyć bez rezygnacji z fabuły. Ważne, żeby humor nie był zbyt specyficzny — wspólny seans nie jest miejscem na testowanie niszowego gustu.\n\nUnikajcie komedii opartych na niezręczności, jeśli któreś z was ma za sobą trudny dzień. Śmiech z cudzego wstydu nie u każdego działa relaksująco. Bezpieczniejsze są filmy, które śmieszą dialogiem i charakterami."
         },
         {
           "h2": "Filmy na nastrój napięcia i adrenaliny",
-          "tresc": "A Quiet Place (2018) — cisza jako mechanika suspensu, można oglądać dosłownie bez słowa. Knives Out (2019) — kryminał od Riana Johnsona, który angażuje oboje niezależnie od gustu. Działa jak gra dedukcyjna dla dwojga — śledzisz tropy osobno, porównujesz po finale."
+          "tresc": "Jeśli macie ochotę na mocniejsze emocje, wybierzcie thriller lub film akcji z czytelną historią. Wspólny seans dobrze znosi napięcie, jeśli oboje wiecie, w co wchodzicie. Gorzej, gdy jedno oczekuje relaksu, a drugie dostaje sceny przemocy bez ostrzeżenia.\n\nPrzed seansem sprawdźcie krótki opis i kategorię wiekową. To zajmuje minutę, a oszczędza pół wieczoru. Jeśli któreś z was nie lubi horrorów, nie wybierajcie horroru „na próbę” — granica gustu jest zwykle wyraźna i nie warto jej testować w piątek."
         },
         {
           "h2": "Jak nie paść ofiarą niekończącego się scrollowania?",
-          "tresc": "Zasada 2 minuty: każde z was proponuje jeden tytuł na dany nastrój. 2 minuty na decyzję, inaczej bierze pierwsze proponowane. Streamingowe platformy zaprojektowały przeglądarkę tak, by trwała w nieskończoność — świadome ograniczenie czasu wyboru to obrona."
+          "tresc": "Scrollowanie daje złudzenie wyboru, ale rzadko prowadzi do decyzji. Im więcej tytułów przeglądacie, tym trudniej wybrać. Dlatego ustalcie limit: maksymalnie dziesięć minut na wybór, potem pierwszy sensowny kandydat wygrywa.\n\nPomaga też lista „na potem”, którą prowadzicie na bieżąco. Zamiast szukać w katalogu, wybieracie z gotowej listy. To prosta zmiana, która zamienia wieczór w seans, a nie w przeglądanie oferty."
+        },
+        {
+          "h2": "Film a rozmowa po seansie",
+          "tresc": "Dobry film daje temat do rozmowy. Nie musi to być głęboka analiza — wystarczy pytanie, co było najciekawsze albo czy zakończenie było przekonujące. Wspólny seans jest pretekstem do bycia razem, a rozmowa jest jego naturalną kontynuacją.\n\nJeśli film wzbudził różne opinie, to dobrze. Spór o interpretację bywa ciekawszy niż zgoda. Unikajcie jednak oceniania gustu drugiej osoby — „nie wiem, co w tym widzisz” potrafi zepsuć atmosferę szybciej niż zły film."
+        },
+        {
+          "h2": "Kiedy jedno chce komedii, a drugie thrillera",
+          "tresc": "Kompromis nie musi oznaczać rezygnacji. Wybierzcie film, który łączy gatunki: komedię z elementem kryminalnym, thriller z humorem albo dramat z lekkim tonem. Wtedy każde z was dostaje coś, na co miało ochotę.\n\nJeśli nie da się pogodzić oczekiwań, zastosujcie zasadę naprzemienności. Dziś thriller, w następny piątek komedia. To sprawiedliwe i przewidywalne, a przy okazji pozwala odkryć gatunki, których na co dzień nie wybieracie."
+        },
+        {
+          "h2": "Długość filmu a plan wieczoru",
+          "tresc": "Piątkowy wieczór ma granice. Jeśli rano wstajecie wcześnie, film trwający trzy godziny może być złym wyborem, nawet jeśli jest świetny. Sprawdźcie czas trwania przed seansem i zaplanujcie przerwę, jeśli film jest długi.\n\nKrótki film nie oznacza gorszego wieczoru. Czasem 90 minut wystarczy, żeby opowiedzieć pełną historię i zostawić czas na rozmowę. Lepiej obejrzeć dobry krótki film do końca niż zasnąć w połowie arcydzieła."
+        },
+        {
+          "h2": "Jak zrobić z seansu rytuał",
+          "tresc": "Rytuał zaczyna się od przygotowania: coś do jedzenia, wyłączone powiadomienia, przygaszone światło. Te drobne gesty sygnalizują, że to czas dla was, a nie kolejna rzecz do odhaczenia.\n\nWarto też ustalić stały dzień lub porę. Piątek wieczór działa, bo jest naturalnym końcem tygodnia. Kiedy seans staje się zwyczajem, wybór filmu przestaje być problemem — staje się częścią przyjemności."
+        },
+        {
+          "h2": "Gotowe propozycje na piątek",
+          "tresc": "Jeśli nie macie pomysłu, wybierzcie coś sprawdzonego: Knives Out (2019) łączy kryminał z humorem i świetnie działa w duecie. Game Night (2018) to lekka komedia z intrygą, a La La Land (2016) daje emocje i muzykę. The Grand Budapest Hotel (2014) jest z kolei propozycją dla osób, które lubią styl i humor.\n\nTe tytuły łączy jedno: nie wymagają znajomości serii i mają wyraźny ton. Dzięki temu łatwiej dopasować je do nastroju, a ryzyko, że jedno z was się wynudzi, jest mniejsze."
+        },
+        {
+          "h2": "Co zrobić, gdy nie ma czasu na film",
+          "tresc": "Piątkowy wieczór nie musi oznaczać pełnego seansu. Jeśli jesteście zmęczeni, wybierzcie krótki odcinek serialu albo film 90-minutowy. Ważniejsza jest wspólna chwila niż długość produkcji.\n\nMożecie też podzielić film na dwie części — jedna w piątek, druga w sobotę. To rozwiązanie dla osób, które zasypiają po godzinie. Warto ustalić zasadę, że nie oglądacie dalej bez drugiej osoby."
         }
       ],
       "filmy": [
@@ -1194,15 +1470,27 @@
       "faq": [
         {
           "q": "Który film polecasz, gdy jedno z nas nie wie czego chce?",
-          "a": "Knives Out — działa na fanów kryminałów, komedii i dramatów jednocześnie. Trudno kogoś rozczarować."
+          "a": "Wybierz coś lekkiego i uniwersalnego: komedię z wyraźną fabułą albo film przygodowy. Dobrym rozwiązaniem jest też krótki film — łatwiej zacząć, a jeśli nie podejdzie, strata czasu jest mniejsza."
         },
         {
           "q": "Co oglądać z partnerem, gdy nie lubisz horrorów, a on tak?",
-          "a": "A Quiet Place — jest napięcie i elementy horroru, ale bez krwi i gore. Albo Get Out — straszy przez narrację, nie przez brutalne sceny."
+          "a": "Thriller bez elementów grozy albo film łączący gatunki. Jeśli różnica gustów jest duża, ustalcie naprzemienność seansów. Nie warto zmuszać się do horroru tylko dlatego, że druga osoba go lubi."
         },
         {
           "q": "Jak długo powinien trwać film na piątek wieczór?",
-          "a": "Idealnie 90-110 minut — dość czasu na historię, nie za długo żeby skończyło się po północy. Knives Out (130 min) i La La Land (128 min) mimo długości wciągają bez znudzenia."
+          "a": "Najlepiej 90–120 minut. Taki czas pozwala obejrzeć całość bez zmęczenia i zostawia miejsce na rozmowę. Dłuższe filmy warto zaplanować na weekend albo podzielić na dwie części."
+        },
+        {
+          "q": "Czy warto oglądać filmy w duecie tylko dlatego, że są popularne?",
+          "a": "Nie. Popularność nie gwarantuje, że film wam się spodoba. Lepiej wybierać pod swój nastrój i gust niż pod rankingi. Wspólny seans ma być przyjemnością, a nie obowiązkiem."
+        },
+        {
+          "q": "Co zrobić, gdy wybrany film okaże się słaby?",
+          "a": "Nie musicie go kończyć. Ustalcie zasadę: jeśli po 20–30 minutach nic was nie wciągnęło, zmieniacie film. To lepsze niż marnowanie wieczoru z poczucia obowiązku."
+        },
+        {
+          "q": "Czy warto ustalać listę filmów do obejrzenia razem?",
+          "a": "Tak. Wspólna lista oszczędza czas i zmniejsza kłótnie o wybór. Wystarczy kilka tytułów w różnych tonacjach, żeby zawsze mieć coś dopasowanego do nastroju."
         }
       ],
       "oferty": []
@@ -1213,23 +1501,47 @@
       "desc": "Lista filmów trwających około 90 minut — szybkie w wyborze, mocne w treści. Idealne gdy nie masz czasu na epos, ale chcesz prawdziwego kina.",
       "keywords": "filmy na 90 minut, krótkie filmy, szybki film wieczór, co obejrzeć szybko",
       "h1": "Filmy na 90 minut — lista krótkich i mocnych tytułów",
-      "intro": "Dobry film nie musi trwać 3 godzin. Te tytuły mieszczą się w 90 minutach i nie odzierają historii z niczego ważnego. Idealne gdy masz wieczór, ale nie całą noc.",
+      "intro": "Dobry film nie musi trwać trzech godzin. Te tytuły mieszczą się w 90 minutach i nie odzierają historii z niczego ważnego. Idealne, gdy masz wieczór, ale nie całą noc — i gdy chcesz obejrzeć coś od początku do końca bez przewijania.",
       "sekcje": [
         {
           "h2": "Dlaczego krótsze filmy są często lepsze?",
-          "tresc": "Przymus długości to choroba hollywoodzkiego blockbustera. Reżyserzy o dużych ambicjach często robią filmy 2.5-godzinne, bo 'tak wypada'. Ale kino noir lat 40-50 działało w 80-95 minutach perfekcyjnie. Współcześnie: A Quiet Place (90 min), Prey (99 min), Palm Springs (90 min) — zawartość na poziomie filmów dwa razy dłuższych."
+          "tresc": "Krótki film nie ma miejsca na dłużyzny. Każda scena musi coś wnosić, a tempo jest zwykle bardziej skupione. To sprawia, że łatwiej utrzymać uwagę i rzadziej zdarza się moment, w którym historia się rozjeżdża.\n\nDrugi powód jest praktyczny: 90 minut to czas, który większość z nas jest w stanie wygospodarować w tygodniu. Krótszy seans nie wymaga rezygnacji z innych obowiązków, więc częściej kończy się obejrzeniem całości, a nie przerwaniem w połowie."
         },
         {
           "h2": "Thrillery i kryminały poniżej 95 minut",
-          "tresc": "Coherence (2013) — 8 przyjaciół na kolacji podczas przejścia komety. Nakręcony za 50 000 dolarów, bez scenariusza. Jeden z najlepszych sci-fi thrillerów ostatnich dekad. Pontypool (2008) — zombie horror rozgrywający się wyłącznie w studio radiowym. 92 minuty. Drive (2011) — Ryan Gosling, 100 minut, estetyczny jak obraz."
+          "tresc": "Coherence (2013) to thriller sci-fi zbudowany na jednym pomieszczeniu i rosnącej paranoi — dowód, że napięcie nie potrzebuje budżetu. Drive (2011) opowiada historię kierowcy w oszczędnej formie, w której cisza znaczy tyle samo co dialog. Oba filmy mieszczą się w około 90 minutach.\n\nKrótkie thrillery dobrze znoszą intensywność, bo nie mają czasu na dłużyzny. Jeśli szukasz czegoś na wieczór, gdy nie chcesz angażować się w trzygodzinną sagę, to dobra kategoria."
         },
         {
           "h2": "Komedie i lekkie produkcje na szybki wieczór",
-          "tresc": "The Nice Guys (2016) — detektywi w LA lat 70., Shane Black i błyskotliwy dialog. 116 minut, ale temp jest tak szybki, że czujesz 80. Palm Springs (90 min) znowu — romcom z sercem. What We Do in the Shadows (2014) — mockumentary o wampirach w Nowej Zelandii. Precursor serialu i 86 minut czystego humoru."
+          "tresc": "What We Do in the Shadows (2014) to mockument o wampirach, który bawi formą i tempem. Her (2013) jest dłuższy, ale wciąż mieści się w granicach rozsądku i łączy romans z refleksją o technologii. Before Sunrise (1995) to z kolei film oparty niemal wyłącznie na rozmowie.\n\nLekkie produkcje na 90 minut mają jedną zaletę: łatwo je włączyć bez planowania. Nie wymagają znajomości serii ani wcześniejszego przygotowania. Wystarczy wolny wieczór."
         },
         {
           "h2": "Jak znaleźć filmy poniżej 100 minut?",
-          "tresc": "Filtruj na Letterboxd po 'Runtime: 70-100 minutes' lub szukaj fraz 'tight 90 minutes' w recenzjach. IMDb ma filtr czasu trwania. Ogólnie: filmy animowane (zazwyczaj 80-100 min), horrory niezależne, kino noir, komedie z lat 80-90 — to najlepsze szuflady dla krótkich tytułów."
+          "tresc": "W wyszukiwarkach filmowych można filtrować po czasie trwania. Warto też sprawdzać czas produkcji przed seansem — okładka i opis nie zawsze go podają. Platformy streamingowe często pokazują długość w karcie filmu.\n\nPomocne bywają listy tematyczne i rankingi krótkich filmów. Jeśli znajdziesz jeden tytuł, który Ci odpowiada, sprawdź, jakie inne filmy polecają osoby o podobnym guście. To szybsza droga niż przeglądanie całego katalogu."
+        },
+        {
+          "h2": "Krótki film nie znaczy prosty",
+          "tresc": "Czas trwania nie jest miarą ambicji. Wiele krótkich filmów ma złożoną strukturę i nieoczywiste zakończenie. Oszczędność czasu wymusza precyzję, a nie uproszczenie — twórcy muszą powiedzieć więcej w krótszej formie.\n\nDlatego nie traktuj krótkich filmów jako „lżejszej” kategorii. Możesz trafić na coś wymagającego i poruszającego. Długość mówi tylko o formie, nie o głębi."
+        },
+        {
+          "h2": "Filmy na 90 minut w weekend",
+          "tresc": "W weekend możesz pozwolić sobie na dwa krótkie filmy zamiast jednego długiego. To dobry sposób na odkrywanie różnych gatunków i reżyserów. Jeden seans na początek wieczoru, drugi później — z przerwą na rozmowę.\n\nWarto łączyć filmy o różnym tonie: po intensywnym thrillerze włącz lżejszą komedię. Taki układ daje poczucie różnorodności i pozwala uniknąć zmęczenia jednym klimatem."
+        },
+        {
+          "h2": "Krótkie seanse a seriale",
+          "tresc": "Serial wymaga zaangażowania w wiele odcinków, a film na 90 minut zamyka historię w jednym wieczorze. Jeśli masz mało czasu albo lubisz poczucie domknięcia, krótki film jest lepszym wyborem.\n\nTo nie znaczy, że seriale są gorsze. Chodzi o dopasowanie formy do momentu. W tygodniu pracy krótki film często wygrywa, a w weekend serial daje więcej przestrzeni na świat i bohaterów."
+        },
+        {
+          "h2": "Jak zaplanować krótki wieczór filmowy",
+          "tresc": "Wybierz film wcześniej, a nie w momencie, gdy siadasz przed telewizorem. Przygotuj przekąski i wyłącz powiadomienia. Krótki seans nie znosi przerw — jeśli co chwilę sprawdzasz telefon, traci sens.\n\nZaplanuj też moment zakończenia. Jeśli film trwa 90 minut, a zaczynasz o 21:00, skończysz przed 23:00. Taki plan pozwala cieszyć się seansem bez myślenia o tym, ile zostało do rana."
+        },
+        {
+          "h2": "Krótkie filmy a uwaga",
+          "tresc": "Uwaga jest zasobem, który się wyczerpuje. Po długim dniu trudniej utrzymać skupienie przez trzy godziny. Krótki film lepiej dopasowuje się do realnej energii widza, dlatego częściej udaje się go obejrzeć w całości.\n\nTo nie znaczy, że długie filmy są gorsze. Chodzi o dopasowanie formy do momentu. Jeśli masz świeżą głowę, epopeja może być najlepszym wyborem. Jeśli nie — 90 minut wystarczy, żeby przeżyć pełną historię."
+        },
+        {
+          "h2": "Gdzie szukać krótkich filmów",
+          "tresc": "Filtry czasu trwania w wyszukiwarkach filmowych to najprostsze narzędzie. Warto też śledzić listy tematyczne i rekomendacje festiwalowe — wiele krótkich filmów pojawia się w katalogach platform po premierach.\n\nDobrym źródłem są też serwisy z recenzjami, które pozwalają sortować po długości. Jeśli znajdziesz jeden tytuł, sprawdź, co polecają osoby o podobnym guście. To szybsza droga niż przeglądanie całego katalogu."
         }
       ],
       "filmy": [
@@ -1326,15 +1638,31 @@
       "faq": [
         {
           "q": "Który krótki film najbardziej wciąga od pierwszych minut?",
-          "a": "Coherence — pierwsze 5 minut to zwykła kolacja, potem robi się dziwnie i już nie możesz odejść od ekranu."
+          "a": "Coherence — zaczyna się niewinnie, a szybko zamienia się w zagadkę. Drive również stawia mocny początek i nie zwalnia. Oba mieszczą się w okolicach 90 minut."
         },
         {
           "q": "Co obejrzeć szybko solo, żeby się nie zastanawiać?",
-          "a": "Drive (100 min) — włączasz, wyłączasz myślenie. What We Do in the Shadows (86 min) — żadnego wysiłku, sama przyjemność."
+          "a": "Wybierz film z krótką listą kandydatów, a nie z całego katalogu. Coherence albo What We Do in the Shadows to dobre opcje, bo od razu wiadomo, w jakim są tonie."
         },
         {
           "q": "Czy Before Sunrise jest dobry bez znajomości trylogii?",
-          "a": "Tak — każda część trylogii Before (Sunrise/Sunset/Midnight) stoi samodzielnie. Sunrise można oglądać bez kontekstu. Sequele są bonusem."
+          "a": "Tak. To samodzielna historia oparta na rozmowie dwojga ludzi. Kolejne części dodają kontekst, ale pierwszy film działa bez nich i właśnie od niego warto zacząć."
+        },
+        {
+          "q": "Czy krótkie filmy są mniej ambitne?",
+          "a": "Nie. Czas trwania nie świadczy o ambicji. Wiele krótkich filmów ma złożoną strukturę i trudne tematy. Oszczędność czasu wymusza precyzję, a nie uproszczenie."
+        },
+        {
+          "q": "Ile filmów na 90 minut można obejrzeć w jeden wieczór?",
+          "a": "Dwa to rozsądny limit. Trzy krótkie filmy pod rząd mogą być męczące i rozmywają wrażenia. Lepiej obejrzeć mniej, ale z uwagą."
+        },
+        {
+          "q": "Czy krótki film może mieć skomplikowaną fabułę?",
+          "a": "Tak. Coherence jest tego dowodem — w 90 minutach buduje wielowątkową zagadkę. Krótki czas wymusza precyzję, ale nie wyklucza złożoności."
+        },
+        {
+          "q": "Czy film 90-minutowy nadaje się na wieczór z dziećmi?",
+          "a": "Tak, jeśli temat i kategoria wiekowa są odpowiednie. Krótki czas jest zaletą, bo łatwiej utrzymać uwagę młodszego widza. Sprawdź opis i opinie przed seansem, a film obejrzyjcie razem."
         }
       ],
       "oferty": []
@@ -1345,27 +1673,51 @@
       "desc": "Koniec z godzinnym scrollowaniem. Prosty system wyboru filmu wieczorem — wg nastroju, dostępnego czasu i platformy. Bez kompromisów.",
       "keywords": "co obejrzeć, nie wiem co oglądać, wybór filmu, scrollowanie netflix, co włączyć wieczór",
       "h1": "Nie wiesz co obejrzeć? Zakończ scrollowanie w 5 minut",
-      "intro": "Fenomen paradoksu wyboru na platformach streamingowych jest prawdziwy: im więcej opcji, tym trudniej zdecydować. Oto system, który działa.",
+      "intro": "Fenomen paradoksu wyboru na platformach streamingowych jest prawdziwy: im więcej opcji, tym trudniej zdecydować. Zamiast kolejnej godziny scrollowania proponujemy system, który działa. Cztery kroki i jedna zasada — wystarczy, żeby wieczór zaczął się od filmu, a nie od przeglądania katalogu.",
       "sekcje": [
         {
           "h2": "Dlaczego scrollowanie nie działa?",
-          "tresc": "Algorytmy platform streamingowych są zaprojektowane, żeby trzymać cię w przeglądaniu — każde kliknięcie i zatrzymanie jest feedbackiem dla systemu. Baner 'co nowego' jest ułożony tak, żeby żaden tytuł nie wyglądał wystarczająco dobrze. To nie twoja wina, że scrollujesz 45 minut."
+          "tresc": "Katalog platformy jest zaprojektowany tak, żebyś przeglądał, a nie wybierał. Miniatury, rekomendacje i autoodtwarzanie zwiastunów tworzą wrażenie ruchu, ale nie prowadzą do decyzji. Im dłużej szukasz, tym większe zmęczenie i tym niższa tolerancja na ryzyko.\n\nDo tego dochodzi lęk przed złym wyborem. Skoro opcji jest tak wiele, każda decyzja wydaje się nieodwracalna. W rzeczywistości film można wyłączyć w każdej chwili. Wystarczy obniżyć stawkę i przestać traktować wybór jak egzamin."
         },
         {
           "h2": "Krok 1: Wybierz energię, nie tytuł",
-          "tresc": "Zanim wybierzesz film, wybierz typ doświadczenia. Pytania: Chcę się śmiać? → Komedia/absurd. Chcę emocji? → Thriller/dramat. Chcę być zaskoczony? → Tajemnica/twist. Chcę odpocząć? → Coś lekkiego i przewidywalnego. Chcę pomyśleć? → Sci-fi/film dokumentalny. Każda odpowiedź eliminuje 80% katalogu."
+          "tresc": "Zamiast pytać „co obejrzeć”, zapytaj „na jaką energię mam ochotę”. Lekka, intensywna, refleksyjna, zabawna — to cztery podstawowe tryby. Wybór trybu zawęża katalog szybciej niż jakikolwiek filtr gatunkowy.\n\nEnergia jest też łatwiejsza do ustalenia niż tytuł. Nie musisz znać filmów, żeby wiedzieć, czy chcesz się śmiać, czy trzymać w napięciu. To pytanie zadaj sobie przed włączeniem platformy, a nie po dziesięciu minutach scrollowania."
         },
         {
           "h2": "Krok 2: Ustaw czas",
-          "tresc": "Masz do 100 minut? Film pod 100 minut z tej listy. Masz wieczór bez końca? Możesz wybrać epos. Musisz skończyć przed 22:30? Filtruj po czasie trwania. Masz czas tylko na serial? Wybierz odcinkową antologię (Black Mirror, Miniserie)."
+          "tresc": "Określ, ile masz czasu. Film 90-minutowy i trzygodzinny to zupełnie inne doświadczenia. Jeśli zostało Ci półtorej godziny, nie wybieraj epopei — nawet jeśli jest świetna. Czas jest twardym ograniczeniem, które zawęża wybór.\n\nUstal też, czy chcesz obejrzeć całość za jednym razem. Jeśli nie, lepiej wybrać serial albo krótszy film. Decyzja o formie jest częścią decyzji o tytule."
         },
         {
           "h2": "Krok 3: Ustaw platformę i nie zmieniaj",
-          "tresc": "Skocz do jednej platformy na max 3 minuty. Nie otwieraj kilku na raz — to wzbudza FOMO między platformami. Masz Netflix? Przeglądasz Netflix. Nie ma nic? Dopiero wtedy HBO. Limit: 3 minuty na platformę, max 2 platformy. Po 6 minutach bierzesz najlepszą z zaproponowanych."
+          "tresc": "Wybierz jedną platformę i przestań sprawdzać pozostałe. Przełączanie się między katalogami mnoży opcje i wydłuża wybór. Jeśli nie ma nic na pierwszej platformie, zaakceptuj to i wybierz coś innego — albo zmień plan.\n\nTo brzmi restrykcyjnie, ale działa. Ograniczenie liczby opcji zmniejsza zmęczenie decyzyjne. W praktyce okazuje się, że na jednej platformie zawsze jest coś, co warto obejrzeć."
         },
         {
           "h2": "Narzędzia pomocne przy wyborze",
-          "tresc": "Letterboxd — lista filmów z opisami, ocenami i recenzjami przyjaciół. Justwatch.com — wyszukiwarka po nastroju i platformie. Strony z listami 'top 50 filmów X' pomagają mieć gotową pulę. JustWatch pozwala filtrować: platforma + gatunek + czas trwania + ocena."
+          "tresc": "Serwisy z recenzjami i listami filmowymi pomagają zawęzić wybór, jeśli korzystasz z nich przed seansem, a nie w trakcie. Warto też prowadzić własną listę „do obejrzenia” — w notatkach, aplikacji albo na kartce.\n\nDobrym narzędziem jest też losowanie. Jeśli wahasz się między dwoma tytułami, rzuć monetą. Często w momencie, gdy wynik jest już znany, okazuje się, że wolisz drugą opcję. To szybki sposób na odkrycie własnych preferencji."
+        },
+        {
+          "h2": "Krok 4: Zasada jednego wyboru",
+          "tresc": "Po wybraniu filmu nie sprawdzaj już innych opcji. Włączaj i oglądaj. Jeśli po 20 minutach nie działa, wyłącz i wybierz następny — ale nie wracaj do przeglądania katalogu. Zasada jednego wyboru chroni przed pętlą niezdecydowania.\n\nWarto też zaakceptować, że nie każdy film będzie trafiony. To normalne. Celem nie jest idealny wybór, lecz dobry wieczór. Film, który nie przypadł do gustu, jest lekcją, a nie porażką."
+        },
+        {
+          "h2": "Co zrobić, gdy film nie wciąga",
+          "tresc": "Nie zmuszaj się do końca. Daj mu 20–30 minut, a potem oceń, czy jest powód, żeby zostać. Jeśli nie, wyłącz. To oszczędza czas i zmniejsza frustrację związaną z wyborem.\n\nPo wyłączeniu nie wracaj do scrollowania. Wybierz kolejny tytuł z wcześniej przygotowanej listy albo zrób przerwę. Czasem najlepszym rozwiązaniem jest po prostu zmiana aktywności, a nie kolejny film."
+        },
+        {
+          "h2": "Jak wyrobić w sobie nawyk szybkiego wyboru",
+          "tresc": "Prowadź listę tytułów, które Cię zainteresowały. Zapisuj je od razu, gdy o nich usłyszysz. Dzięki temu w momencie seansu masz gotowe opcje i nie musisz szukać od zera.\n\nUstal też własny rytuał: jedna platforma, jeden tryb energii, jeden film. Z czasem wybór staje się nawykiem, a nie problemem. Paradoks wyboru znika, gdy ograniczysz liczbę decyzji do kilku prostych kroków."
+        },
+        {
+          "h2": "Jak wybierać film w grupie",
+          "tresc": "W grupie wybór jest trudniejszy, bo dochodzi negocjacja. Najlepiej sprawdza się metoda kolejnych filtrów: najpierw energia, potem czas, na końcu platforma. Każdy etap zawęża opcje, więc na końcu zostaje kilka tytułów, a nie cały katalog.\n\nWarto też ustalić, kto decyduje w razie remisu. Jedna osoba wybiera dziś, inna następnym razem. To proste rozwiązanie eliminuje najczęstszą przyczynę przeciągającego się wyboru."
+        },
+        {
+          "h2": "Wybór a zmęczenie decyzyjne",
+          "tresc": "Każda decyzja kosztuje energię. Po całym dniu pracy masz jej mniej, dlatego wybór filmu bywa trudniejszy niż sama praca. Świadomość tego mechanizmu pomaga: zamiast walczyć z brakiem siły, ogranicz liczbę opcji.\n\nProste rozwiązania działają najlepiej: krótka lista, jedna platforma, limit czasu. Nie chodzi o to, żeby wybrać idealnie, ale żeby w ogóle zacząć seans. Zmęczenie decyzyjne znika, gdy decyzja jest mała."
+        },
+        {
+          "h2": "Plan B: gdy nic nie pasuje",
+          "tresc": "Czasem żaden film nie wydaje się dobry. Wtedy warto zmienić aktywność: przeczytać rozdział książki, posłuchać odcinka podcastu, wyjść na spacer. Film nie jest jedynym sposobem na wieczór.\n\nJeśli jednak chcesz obejrzeć coś, wybierz tytuł, który znasz. Powtórka sprawdzonego filmu jest lepsza niż godzina scrollowania. Znajomość fabuły nie psuje przyjemności — czasem wręcz ją zwiększa."
         }
       ],
       "filmy": [
@@ -1458,16 +1810,28 @@
       ],
       "faq": [
         {
-          "q": "Jaki film polecasz jako 'bezpieczny wybór' gdy nie możesz się zdecydować?",
-          "a": "The Truman Show (1998) — działa na prawie każdego, nieznany część widzów, ma humor i głębię. Rzadko rozczarowuje."
+          "q": "Jaki film polecasz jako „bezpieczny wybór”, gdy nie możesz się zdecydować?",
+          "a": "The Truman Show — uniwersalny, angażujący i nie wymaga specjalnego nastroju. Dobrym wyborem jest też Inception, jeśli masz ochotę na coś bardziej wymagającego, albo komedia z czytelną fabułą."
         },
         {
           "q": "Ile czasu powinno trwać wybieranie filmu?",
-          "a": "Maksymalnie 10 minut. Jeśli po 10 minutach nie ma decyzji — bierz cokolwiek z listy 'polecane przez znajomych'. Algorytm nigdy nie wygra z rekomendacją człowieka."
+          "a": "Maksymalnie 10–15 minut. Po tym czasie wybierz pierwszy sensowny tytuł. Dłuższe szukanie zwykle nie poprawia wyboru, a jedynie zwiększa zmęczenie."
         },
         {
           "q": "Czy warto używać Letterboxd do wyboru filmów?",
-          "a": "Tak — Letterboxd pokazuje oceny znajomych, co jest bardziej wartościowe niż ogólna ocena IMDb. Lista 'chcę zobaczyć' to najlepsze narzędzie przy następnym wyborze."
+          "a": "Tak, jeśli lubisz prowadzić listy i czytać opinie. Letterboxd pomaga zapisywać tytuły i odkrywać filmy o podobnym charakterze. Pamiętaj jednak, żeby korzystać z niego przed seansem, a nie w jego trakcie."
+        },
+        {
+          "q": "Co zrobić, gdy wszystkie filmy wydają się takie same?",
+          "a": "Zmień kryterium: zamiast gatunku wybierz kraj produkcji, reżysera albo dekadę. Inne kryterium odsłania tytuły, których normalnie byś nie zauważył. Czasem wystarczy jedno ograniczenie, żeby wybór stał się prosty."
+        },
+        {
+          "q": "Czy warto oglądać filmy, które nie podobają się znajomym?",
+          "a": "Tak. Gust jest indywidualny, a rekomendacje są tylko wskazówką. Warto sprawdzić coś, co Cię intryguje, nawet jeśli opinie są mieszane. Najlepsze odkrycia często zdarzają się poza głównym nurtem."
+        },
+        {
+          "q": "Czy warto oglądać filmy, które już się widziało?",
+          "a": "Tak. Powtórka daje inne doświadczenie: zauważasz detale i relacje, które wcześniej umknęły. To też bezpieczny wybór, gdy nie masz siły na nową historię."
         }
       ],
       "oferty": []
@@ -1478,23 +1842,51 @@
       "desc": "Klimatyczne filmy na jesienne i zimowe wieczory — mroczne, przytulne lub epickie. Lista dopasowana do pory roku.",
       "keywords": "filmy na jesień, filmy na zimę, klimatyczne filmy, co oglądać jesienią, filmy pod koc",
       "h1": "Filmy na jesień i zimę — klimatyczna lista na chłodne wieczory",
-      "intro": "Pora roku zmienia to, czego szukamy w kinie. Jesień to czas mroku i tajemnicy. Zima to epickie narracje albo przytulne komedie. Oto lista dopasowana do każdego z tych nastrojów.",
+      "intro": "Pora roku zmienia to, czego szukamy w kinie. Jesień to czas mroku i tajemnicy. Zima to epickie narracje albo przytulne komedie. Oto lista dopasowana do każdego z tych nastrojów — i kilka wskazówek, jak zbudować własny zestaw na chłodne wieczory.",
       "sekcje": [
         {
           "h2": "Dlaczego pora roku wpływa na wybór filmów?",
-          "tresc": "To nie mit — nastrój sezonowy realnie zmienia preferencje. Jesienią rośnie apetyt na thrillery, kryminały i gotycki klimat. Zimą — na epickie sagi, komedie familijne i filmy o ciepłych relacjach. Wielu widzów wraca do tych samych tytułów jesienią jak do rytuału."
+          "tresc": "Jesienią i zimą spędzamy więcej czasu w domu, a wieczory są dłuższe. To naturalnie sprzyja seansom. Zmienia się też nastrój: szukamy ciepła, ale też klimatu, który pasuje do pogody za oknem.\n\nKino korzysta z tej sezonowości od dawna. Filmy o mgle, deszczu i ciemności mają inną siłę oddziaływania, gdy za oknem jest podobnie. Dlatego warto dopasowywać repertuar do pory roku — to prosta droga do lepszego seansu."
         },
         {
           "h2": "Jesień: tytuły na mroczny klimat",
-          "tresc": "Kobieta w czerni (2012) — gothic horror w wiktoriańskim wydaniu, Daniel Radcliffe. Crimson Peak (2015) Del Toro — gotycki romans w domu pełnym duchów, piękna estetyka. Sleepy Hollow (1999) Burtona — halloweenowy klasyk z Johnnym Deppem. Se7en (1995) Finchera — mroczne śledztwo, deszcz przez cały film."
+          "tresc": "Jesień lubi tajemnicę i melancholię. Kolor nocy (2014) łączy thriller z estetyką neonów i deszczu. Crimson Peak (2015) to gotycka opowieść o domu, który sam jest bohaterem. Oba filmy działają dzięki atmosferze, a nie szybkiej akcji.\n\nWarto wybierać tytuły, które nie boją się ciszy i powolnego tempa. Jesienny wieczór znosi refleksję lepiej niż lipcowe popołudnie. To czas na filmy, które zostawiają przestrzeń na myślenie."
         },
         {
           "h2": "Zima: tytuły na epickie wieczory",
-          "tresc": "Władca Pierścieni: trylogia Jacksona — 9-11 godzin łącznie, idealne na zimę. Dune (2021) Villeneuve'a — pierwsza część epickiej adaptacji z wizualnym rozmachem. The Revenant (2015) z DiCaprio — zimowe przeżycie i spektakularna fotografia Chivo Lubezki."
+          "tresc": "Zima sprzyja dużym opowieściom. Dune: Part One (2021) to widowisko o skali, które najlepiej działa na dużym ekranie lub dobrym telewizorze. The Revenant (2015) opowiada o przetrwaniu w zimowym krajobrazie, a jego zdjęcia są osobnym argumentem za seansem.\n\nEpicki film wymaga czasu i skupienia, dlatego zimowy wieczór jest dla niego idealny. Warto zaplanować dłuższy seans bez pośpiechu, z przerwą i dobrym dźwiękiem."
         },
         {
           "h2": "Ciepłe filmy na głęboki grudniowy wieczór",
-          "tresc": "Klaus (Netflix, 2019) — animacja o listonoszu na Dalekiej Północy, najcieplejsza produkcja świąteczna poza klasykami Pixara. Carol (2015) z Cate Blanchett — delikatna historia miłosna w latach 50., piękna fotografia. It's a Wonderful Life (1946) — klasyk na który warto się zdecydować raz na jakiś czas."
+          "tresc": "Nie każdy zimowy seans musi być mroczny. Klaus (2019) to animacja o życzliwości, która działa też na dorosłych. Warto szukać filmów, które dają ciepło bez przesłodzenia — takich, w których święta są tłem, a nie jedynym tematem.\n\nDobrym wyborem są też dramaty rodzinne i komedie z zimowym klimatem. Grudzień to czas, gdy chcemy się spotkać, a film może być pretekstem do wspólnego wieczoru."
+        },
+        {
+          "h2": "Klimat w filmie: światło, dźwięk, tempo",
+          "tresc": "Klimat nie bierze się z samej fabuły. Światło, paleta barw, dźwięk i tempo montażu tworzą nastrój, który odczuwamy podświadomie. Chłodne błękity i dłuższe ujęcia budują wrażenie ciszy i dystansu, a ciepłe światło i krótsze sceny — bliskości.\n\nWarto zwracać na to uwagę, bo pomaga wybierać filmy pod nastrój. Jeśli szukasz czegoś przytulnego, wybierz produkcję z ciepłą paletą. Jeśli chcesz napięcia, szukaj chłodnych barw i wolnego tempa."
+        },
+        {
+          "h2": "Filmy na deszczowy wieczór",
+          "tresc": "Deszcz za oknem to najlepszy pretekst do seansu. Sprawdzą się thrillery z atmosferą, dramaty rozgrywające się w mieście i filmy o samotności. Deszczowy wieczór lubi opowieści, które zwalniają i pozwalają wejść w świat bohatera.\n\nUnikaj wtedy filmów wymagających dużo energii. Deszcz sprzyja refleksji, nie widowisku. Dobrym wyborem jest film, który można obejrzeć w ciszy, bez potrzeby komentowania każdej sceny."
+        },
+        {
+          "h2": "Święta bez świątecznych filmów",
+          "tresc": "Nie każdy chce oglądać historie o Mikołaju i rodzinnych kolacjach. Jeśli świąteczny klimat Ci nie odpowiada, wybierz coś zupełnie innego — thriller, science fiction albo dramat. Kontrast bywa przyjemny, a święta nie muszą oznaczać maratonu komedii romantycznych.\n\nWarto traktować święta jako czas wolny, a nie listę obowiązkowych filmów. Wybierz to, na co masz ochotę, a nie to, co podpowiada kalendarz."
+        },
+        {
+          "h2": "Jak zbudować jesienno-zimową listę",
+          "tresc": "Zacznij od trzech kategorii: mroczne, ciepłe i epickie. Do każdej dopisz po dwa tytuły. Taka lista wystarczy na kilka wieczorów i pozwala wybierać szybko, bez scrollowania.\n\nUzupełniaj ją na bieżąco, gdy coś Cię zainteresuje. Jesienią i zimą łatwiej o dobry seans, jeśli masz gotowe propozycje. Lista działa jak zapas na chłodne wieczory — sięgasz po nią wtedy, gdy nie chce Ci się szukać."
+        },
+        {
+          "h2": "Jesienno-zimowe seriale",
+          "tresc": "Nie tylko filmy pasują do chłodnych wieczorów. Serial z odpowiednim klimatem potrafi wciągnąć na wiele tygodni. Jesienią dobrze działają thrillery i dramaty obyczajowe, zimą — produkcje z rozbudowanym światem i dłuższym oddechem.\n\nWarto wybierać seriale, które mają zamkniętą historię. Zimowy wieczór nie sprzyja czekaniu na kolejny sezon. Krótsza, domknięta opowieść daje poczucie pełni, którego szukamy o tej porze roku."
+        },
+        {
+          "h2": "Dźwięk i muzyka w zimowym seansie",
+          "tresc": "Muzyka filmowa ma ogromny wpływ na odbiór. Zimą warto zwrócić uwagę na ścieżki dźwiękowe, które budują ciepło albo chłód. Dobry dźwięk potrafi zmienić zwykłą scenę w zapadającą w pamięć.\n\nJeśli masz taką możliwość, obejrzyj film w słuchawkach albo z lepszym głośnikiem. Zimowy seans to często czas skupienia — warto zadbać o warunki, w których dźwięk naprawdę działa."
+        },
+        {
+          "h2": "Lista na ferie i święta",
+          "tresc": "Ferie i święta to czas, gdy oglądamy więcej niż zwykle. Warto przygotować listę wcześniej, żeby nie tracić czasu na wybór. Podziel ją na kategorie: coś lekkiego, coś ambitnego i coś dla całej rodziny.\n\nNie musisz obejrzeć wszystkiego. Lista ma pomagać, a nie być obowiązkiem. Wybieraj to, na co masz ochotę w danym dniu, a resztę zostaw na później."
         }
       ],
       "filmy": [
@@ -1590,15 +1982,27 @@
       "faq": [
         {
           "q": "Który film najlepiej oddaje jesienny klimat?",
-          "a": "Knives Out — zamknięta willa, deszcz, rodzinna tajemnica. Albo Se7en jeśli chcesz mroku bez humoru."
+          "a": "Crimson Peak — gotycka atmosfera, chłodne barwy i dom, który jest częścią opowieści. Jeśli wolisz thriller, Kolor nocy daje podobny nastrój w miejskiej scenerii."
         },
         {
           "q": "Czy Dune wymaga znajomości książki?",
-          "a": "Nie — film jest rozumiały bez lektury. Ale znajomość powieści dodaje warstw i wynagradza wiedzę o świecie zbudowanym przez Herberta."
+          "a": "Nie. Film przedstawia świat od podstaw, choć książka dodaje kontekst polityczny i kulturowy. Pierwsza część jest samodzielną opowieścią, więc można zacząć bez przygotowania."
         },
         {
           "q": "Jaki film animowany polecasz na zimę dla dorosłych?",
-          "a": "Klaus (Netflix) — działa na dorosłych równie dobrze jak na dzieci. Jeden z najbardziej niedocenionych filmów animowanych ostatnich lat."
+          "a": "Klaus — ciepła historia o życzliwości, która nie jest tylko dla dzieci. Dobrym wyborem jest też Spirited Away, jeśli szukasz czegoś bardziej baśniowego."
+        },
+        {
+          "q": "Czy zimą lepiej oglądać filmy długie czy krótkie?",
+          "a": "To zależy od wieczoru. Długie filmy pasują na weekend bez pośpiechu, krótkie — na dzień pracy. Zimą warto mieć w zapasie oba rodzaje."
+        },
+        {
+          "q": "Jak uniknąć świątecznego przesytu filmowego?",
+          "a": "Nie oglądaj wyłącznie świątecznych produkcji. Mieszaj je z innymi gatunkami i wybieraj to, na co masz ochotę, a nie to, co podpowiada kalendarz."
+        },
+        {
+          "q": "Czy jesienią i zimą warto oglądać więcej filmów?",
+          "a": "Jeśli sprawia Ci to przyjemność — tak. Dłuższe wieczory sprzyjają seansom. Pamiętaj jednak, żeby nie zamieniać całego wolnego czasu na ekran. Równowaga jest ważniejsza niż liczba obejrzanych tytułów."
         }
       ],
       "oferty": []
