@@ -110,6 +110,9 @@ def build():
 
     _write_sitemap(meta, data)
     _write_robots(meta)
+    (DIST / "ads.txt").write_text(
+        "google.com, pub-9406644927707143, DIRECT, f08c47fec0942fa0\n", encoding="utf-8"
+    )
     print(f"OK — wygenerowano {len(all_articles)} artykułów + index")
 
 
